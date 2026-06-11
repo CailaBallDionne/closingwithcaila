@@ -76,7 +76,9 @@
 // Get post slug from URL: /post/?slug=my-post-title
 function getSlug() {
   const params = new URLSearchParams(window.location.search);
-  return params.get('slug');
+  if (params.get('slug')) return params.get('slug');
+  const parts = window.location.pathname.replace(/\/$/, '').split('/');
+  return parts[parts.length - 1] || null;
 }
 
 // Parse front matter from markdown file
