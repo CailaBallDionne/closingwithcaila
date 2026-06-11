@@ -5,7 +5,7 @@ category: Buyers
 excerpt: California now requires buyers to sign a Buyer-Broker Representation Agreement before touring any home. Here is what it is, what is in it, and what to ask before you sign.
 ---
 
-We are in the peak of house hunting season, and all the fun and excitement that comes with it: Deciding if your vibe is more mid-century modern, Spanish Colonial, craftsman, contemporary, or cottage. Obsessively searching. Picturing yourself entertaining in a newly renovated kitchen. Questioning WTF the sellers went with *that* backsplash. Mapping out a full Saturday of open houses, and (admit it) conspicuously pointing out the worst features of the best houses in hopes of turning away the competition (doesn't work, but I admire your commitment). And of course...
+We are in the peak of house hunting season, and all the fun and excitement that comes with it: Deciding if your vibe is more mid-century modern, Spanish Colonial, craftsman, contemporary, or cottage. [Obsessively searching](https://caila.lametrohomefinder.com/). Picturing yourself entertaining in a newly renovated kitchen. Questioning WTF the sellers went with *that* backsplash. Mapping out a full Saturday of open houses, and (admit it) conspicuously pointing out the worst features of the best houses in hopes of turning away the competition (doesn't work, but I admire your commitment). And of course...
 
 All. Of. The. Paperwork.
 
