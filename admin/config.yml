@@ -1,4 +1,4 @@
-backend:
+yamlbackend:
   name: git-gateway
   branch: main
 
@@ -15,5 +15,5 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Category", name: "category", widget: "select", options: ["Buyers", "Sellers", "Market", "Neighborhood Guides"] }
-      - { label: "Excerpt", name: "excerpt", widget: "text", hint: "2-3 sentence summary. This appears on the Info Hub card and is used as your meta description." }
+      - { label: "Excerpt", name: "excerpt", widget: "text", hint: "2-3 sentence summary for the Info Hub card and meta description." }
       - { label: "Body", name: "body", widget: "markdown" }
