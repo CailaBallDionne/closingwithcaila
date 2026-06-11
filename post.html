@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title id="postTitle">Loading... | Closing With Caila</title>
+<meta name="description" id="postDesc" content=""/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="styles.css"/>
+<script src="https://unpkg.com/marked@9.0.0/marked.min.js"></script>
+<style>
+.post-hero { padding: 4rem 2.5rem 3rem; border-bottom: 1px solid var(--border); background: var(--cream); }
+.post-hero .eyebrow { margin-bottom: 1rem; }
+.post-hero h1 { font-size: clamp(2rem, 4vw, 3.2rem); margin-bottom: 1rem; }
+.post-meta { font-size: 0.75rem; letter-spacing: 0.1em; text-transform: uppercase; color: var(--ink-muted); }
+.post-body { max-width: 720px; margin: 3rem auto; padding: 0 2.5rem 4rem; }
+.post-body h2 { font-family: 'Cormorant Garamond', serif; font-size: 1.6rem; font-weight: 400; color: var(--ink); margin: 2.5rem 0 1rem; }
+.post-body h3 { font-family: 'Cormorant Garamond', serif; font-size: 1.25rem; font-weight: 400; color: var(--ink); margin: 2rem 0 0.75rem; }
+.post-body p { font-size: 0.95rem; line-height: 1.9; color: var(--ink-muted); margin-bottom: 1.25rem; }
+.post-body ul, .post-body ol { margin: 0 0 1.25rem 1.5rem; }
+.post-body li { font-size: 0.95rem; line-height: 1.85; color: var(--ink-muted); margin-bottom: 0.4rem; }
+.post-body a { color: var(--terracotta); text-decoration: underline; text-underline-offset: 3px; }
+.post-body strong { font-weight: 500; color: var(--ink); }
+.post-body blockquote { border-left: 3px solid var(--terracotta); padding-left: 1.5rem; margin: 2rem 0; font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 1.2rem; color: var(--ink); }
+.post-author-strip { border-top: 1px solid var(--border); padding: 2rem 2.5rem; background: var(--cream); display: flex; align-items: center; gap: 1.5rem; max-width: 720px; margin: 0 auto; }
+.post-loading { text-align: center; padding: 5rem 2.5rem; font-family: 'Cormorant Garamond', serif; font-style: italic; font-size: 1.2rem; color: var(--ink-muted); }
+@media (max-width: 768px) { .post-body { padding: 0 1.5rem 3rem; } .post-hero { padding: 3rem 1.5rem 2rem; } }
+</style>
+</head>
+<body>
+
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="logo" href="index.html">Closing<span>With</span>Caila</a>
+    <button class="nav-toggle" aria-label="Open menu" onclick="toggleMenu()">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="buyers.html">Buyers</a></li>
+      <li><a href="sellers.html">Sellers</a></li>
+      <li><a href="blog.html" class="active">Info Hub</a></li>
+      <li><a href="faq.html">FAQ</a></li>
+      <li><a href="contact.html">Contact</a></li>
+      <li class="nav-search"><a href="https://caila.lametrohomefinder.com/" target="_blank" rel="noopener">Search Homes</a></li>
+    </ul>
+    <a class="nav-cta" href="contact.html">Get In Touch</a>
+  </div>
+</nav>
+
+<main id="postMain">
+  <div class="post-loading">Loading article...</div>
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <p class="foot-logo">Closing With Caila</p>
+    <nav class="foot-nav">
+      <a href="buyers.html">Buyers</a>
+      <a href="sellers.html">Sellers</a>
+      <a href="blog.html">Info Hub</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+      <a href="author.html">About the Author</a>
+      <a href="https://www.instagram.com/closingwithcaila" target="_blank" rel="noopener">@ClosingWithCaila</a>
+      <a href="https://www.theborgesrealestateteam.com" target="_blank" rel="noopener">The Borges Real Estate Team at eXp</a>
+    </nav>
+    <p class="foot-dre">Caila Ball-Dionne &nbsp;|&nbsp; CA DRE #02439602 &nbsp;|&nbsp; eXp Realty &nbsp;|&nbsp; Equal Housing Opportunity &nbsp;|&nbsp; &copy; 2026</p>
+  </div>
+</footer>
+
+<script src="main.js"></script>
+<script>
+// Get post slug from clean URL /blog/slug or query param ?slug=slug
+function getSlug() {
+  // Try query param first
+  const params = new URLSearchParams(window.location.search);
+  if (params.get('slug')) return params.get('slug');
+  // Try clean path /blog/slug
+  const parts = window.location.pathname.split('/').filter(Boolean);
+  if (parts.length >= 2 && parts[0] === 'blog') return parts[1];
+  return null;
+}
+
+// Parse front matter from markdown file
+function parseFrontMatter(text) {
+  const match = text.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
+  if (!match) return { data: {}, content: text };
+  const data = {};
+  match[1].split('\n').forEach(line => {
+    const [key, ...val] = line.split(':');
+    if (key && val.length) data[key.trim()] = val.join(':').trim().replace(/^["']|["']$/g, '');
+  });
+  return { data, content: match[2] };
+}
+
+async function loadPost() {
+  const slug = getSlug();
+  if (!slug) {
+    document.getElementById('postMain').innerHTML = '<div class="post-loading">No post specified. <a href="blog.html">Go back to Info Hub</a></div>';
+    return;
+  }
+
+  try {
+    // Fetch markdown file from _posts folder
+    const res = await fetch(`_posts/${slug}.md`);
+    if (!res.ok) throw new Error('Post not found');
+    const text = await res.text();
+    const { data, content } = parseFrontMatter(text);
+
+    // Update page title and meta
+    document.getElementById('postTitle').textContent = `${data.title || 'Article'} | Closing With Caila`;
+    document.getElementById('postDesc').setAttribute('content', data.excerpt || '');
+
+    // Format date
+    let dateStr = '';
+    if (data.date) {
+      const d = new Date(data.date);
+      dateStr = d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+
+    // Build post HTML
+    const html = `
+      <section class="post-hero">
+        <p class="eyebrow">${data.category || 'Info Hub'}</p>
+        <h1>${data.title || ''}</h1>
+        <p class="post-meta">By Caila Ball-Dionne &nbsp;|&nbsp; ${dateStr}</p>
+      </section>
+      <div class="post-body">
+        ${marked.parse(content)}
+      </div>
+      <div class="post-author-strip">
+        <img src="caila-ball-dionne-la-crescenta-realtor.jpg" alt="Caila Ball-Dionne" class="author-thumb"/>
+        <div class="author-strip-text">
+          <span class="author-strip-label">Written by</span>
+          <a href="author.html" class="author-strip-name">Caila Ball-Dionne</a>
+          <span class="author-strip-bio">Licensed CA real estate agent | CA DRE #02439602 | 20+ years in marketing</span>
+        </div>
+      </div>
+      <section class="mini-cta">
+        <p>Questions about buying or selling in the Foothills?</p>
+        <a class="btn-ink" href="contact.html">Get In Touch</a>
+      </section>`;
+
+    document.getElementById('postMain').innerHTML = html;
+
+    // Add Article schema
+    const schema = {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": data.title || '',
+      "description": data.excerpt || '',
+      "datePublished": data.date || '',
+      "author": {"@id": "https://closingwithcaila.com/author.html#person"},
+      "publisher": {"@id": "https://closingwithcaila.com/#agent"},
+      "url": window.location.href
+    };
+    const s = document.createElement('script');
+    s.type = 'application/ld+json';
+    s.textContent = JSON.stringify(schema);
+    document.head.appendChild(s);
+
+  } catch(err) {
+    document.getElementById('postMain').innerHTML = '<div class="post-loading">Article not found. <a href="blog.html">Go back to Info Hub</a></div>';
+  }
+}
+
+loadPost();
+</script>
+</body>
+</html>
