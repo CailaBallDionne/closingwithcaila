@@ -1,0 +1,1 @@
+/blog/:slug  /post.html?slug=:slug  200
