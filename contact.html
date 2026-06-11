@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1"/>
+<title>Contact | Caila Ball-Dionne | Foothills Real Estate Agent</title>
+<meta name="description" content="Get in touch with Caila Ball-Dionne, licensed real estate agent serving La Crescenta and the Foothills. Responds same day."/>
+<link rel="canonical" href="https://closingwithcaila.com/contact.html"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+<link rel="stylesheet" href="styles.css"/>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ContactPage",
+      "@id": "https://closingwithcaila.com/contact.html#contactpage",
+      "url": "https://closingwithcaila.com/contact.html",
+      "name": "Contact Caila Ball-Dionne",
+      "description": "Contact Caila Ball-Dionne, licensed California real estate agent serving La Crescenta and the Foothills.",
+      "isPartOf": {"@id": "https://closingwithcaila.com/#website"},
+      "about": {"@id": "https://closingwithcaila.com/#agent"},
+      "breadcrumb": {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {"@type": "ListItem", "position": 1, "name": "Home", "item": "https://closingwithcaila.com"},
+          {"@type": "ListItem", "position": 2, "name": "Contact", "item": "https://closingwithcaila.com/contact.html"}
+        ]
+      }
+    }
+  ]
+}
+</script>
+</head>
+<body>
+
+<nav id="nav">
+  <div class="nav-inner">
+    <a class="logo" href="index.html">Closing<span>With</span>Caila</a>
+    <button class="nav-toggle" aria-label="Open menu" onclick="toggleMenu()">
+      <span></span><span></span><span></span>
+    </button>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="buyers.html">Buyers</a></li>
+      <li><a href="sellers.html">Sellers</a></li>
+      <li><a href="blog.html">Info Hub</a></li>
+      <li><a href="faq.html">FAQ</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+      <li class="nav-search"><a href="https://caila.lametrohomefinder.com/" target="_blank" rel="noopener">Search Homes</a></li>
+    </ul>
+    <a class="nav-cta" href="contact.html">Get In Touch</a>
+  </div>
+</nav>
+
+<main>
+
+  <section class="page-hero">
+    <p class="eyebrow">Contact</p>
+    <!-- EDIT: Headline and subtext -->
+    <h1>Let's talk.</h1>
+    <p>Fill this out and I'll be back in touch within 24 hours, usually the same day. No pressure, no pitch. Just a real conversation about what you're trying to do.</p>
+  </section>
+
+  <!-- CONTACT FORM
+    FORMSPREE SETUP (2 minutes):
+    1. Go to formspree.io and create a free account
+    2. Click New Form, name it "Closing With Caila Contact"
+    3. Set notification email to: caila@theborgesrealestateteam.com
+    4. Copy your form ID (the characters after formspree.io/f/)
+    5. Replace YOUR_FORMSPREE_ID below with that ID
+    6. Save, re-upload folder to Netlify, test the form
+  -->
+  <section class="contact-section">
+    <div class="contact-inner">
+
+      <form
+        action="https://formspree.io/f/mqejrbbq"
+        method="POST"
+        id="contactForm"
+        onsubmit="handleSubmit(event)"
+      >
+        <!-- EDIT: Field labels and placeholder text -->
+        <div class="field">
+          <label for="name">Name</label>
+          <input type="text" id="name" name="name" placeholder="Your full name" required/>
+        </div>
+        <div class="field">
+          <label for="email">Email</label>
+          <input type="email" id="email" name="email" placeholder="you@email.com" required/>
+        </div>
+        <div class="field">
+          <label for="phone">Phone</label>
+          <input type="tel" id="phone" name="phone" placeholder="(818) 000-0000"/>
+        </div>
+        <div class="field">
+          <label for="intent">I am looking to</label>
+          <select id="intent" name="intent">
+            <option value="">Select one</option>
+            <option value="buy">Buy a home</option>
+            <option value="sell">Sell my home</option>
+            <option value="both">Buy and sell</option>
+            <option value="explore">Just exploring for now</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="message">Anything else I should know?</label>
+          <textarea id="message" name="message" placeholder="Timeline, neighborhood, questions — share whatever is on your mind."></textarea>
+        </div>
+        <div class="submit-row">
+          <button type="submit" class="btn-ink">Send Message</button>
+        </div>
+        <div class="form-success" id="formSuccess" style="display:none">
+          <p>Got it. I'll be in touch soon.</p>
+        </div>
+      </form>
+
+      <div class="contact-aside">
+        <div class="contact-detail">
+          <span class="detail-label">Instagram</span>
+          <a href="https://www.instagram.com/closingwithcaila" target="_blank" rel="noopener">@ClosingWithCaila</a>
+        </div>
+        <div class="contact-detail">
+          <span class="detail-label">Brokerage</span>
+          <a href="https://www.theborgesrealestateteam.com" target="_blank" rel="noopener">The Borges Real Estate Team at eXp</a>
+        </div>
+        <div class="contact-detail">
+          <span class="detail-label">Response time</span>
+          <span>Within 24 hours, usually the same day</span>
+        </div>
+        <!-- EDIT: Uncomment to show phone publicly -->
+        <!--
+        <div class="contact-detail">
+          <span class="detail-label">Phone</span>
+          <a href="tel:+18180000000">(818) 000-0000</a>
+        </div>
+        -->
+      </div>
+
+    </div>
+  </section>
+
+</main>
+
+<footer>
+  <div class="footer-inner">
+    <p class="foot-logo">Closing With Caila</p>
+    <nav class="foot-nav">
+      <a href="buyers.html">Buyers</a>
+      <a href="sellers.html">Sellers</a>
+      <a href="blog.html">Info Hub</a>
+      <a href="faq.html">FAQ</a>
+      <a href="contact.html">Contact</a>
+      <a href="https://www.instagram.com/closingwithcaila" target="_blank" rel="noopener">@ClosingWithCaila</a>
+      <a href="https://www.theborgesrealestateteam.com" target="_blank" rel="noopener">The Borges Real Estate Team at eXp</a>
+    </nav>
+    <p class="foot-dre">Caila Ball-Dionne &nbsp;|&nbsp; CA DRE #02439602 &nbsp;|&nbsp; eXp Realty &nbsp;|&nbsp; Equal Housing Opportunity &nbsp;|&nbsp; &copy; 2026</p>
+  </div>
+</footer>
+
+<script src="main.js"></script>
+</body>
+</html>
