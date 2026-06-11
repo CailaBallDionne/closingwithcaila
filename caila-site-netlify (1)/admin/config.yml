@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Category", name: "category", widget: "select", options: ["Buyers", "Sellers", "Market", "Neighborhood Guides"] }
+      - { label: "Excerpt", name: "excerpt", widget: "text", hint: "2-3 sentence summary. This appears on the Info Hub card and is used as your meta description." }
+      - { label: "Body", name: "body", widget: "markdown" }
