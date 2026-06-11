@@ -102,7 +102,7 @@ async function loadPost() {
 
   try {
     // Fetch markdown file from _posts folder
-    const res = await fetch(`_posts/${slug}.md`);
+   const res = await fetch(`/_posts/${slug}.md`);
     if (!res.ok) throw new Error('Post not found');
     const text = await res.text();
     const { data, content } = parseFrontMatter(text);
