@@ -5,7 +5,7 @@ category: Buyers
 excerpt: Interviewing real estate agents? Here's what to actually ask before you hire one, from a La Crescenta agent who's been on both sides of the table.
 ---
 
-The right questions to ask a real estate agent cover communication style, experience, local market knowledge, and how they're compensated, whether you're buying or selling.
+**The right questions to ask a real estate agent cover communication style, experience, local market knowledge, and how they're compensated, whether you're buying or selling.**
 
 Recently, I was in the market for sleep headphones (I know: I live a wild and glamorous life). I read just about every guide out there, a surprisingly high number to be honest, and went down some deeply impassioned Reddit threads. This process took months, during which I hunted for my AirPods in my sheets every single morning. And, again: this was for sleep headphones, a hundred-ish dollar purchase.
 
