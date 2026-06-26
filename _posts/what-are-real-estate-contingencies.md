@@ -1,10 +1,9 @@
 ---
-title: Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers
+title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
 date: 2026-06-16T00:00:00.000Z
 category: Buyers
 excerpt: Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California.
 ---
-
 If I had to pick one source of constant joy in my life, it would absolutely be my family. Because A) it's true and B) only someone who wants to be a regular topic in her daughter's future therapy sessions would say the next most accurate answer first...
 
 ...because if I had to pick a second source of constant joy in my life, it would absolutely be reality television.
