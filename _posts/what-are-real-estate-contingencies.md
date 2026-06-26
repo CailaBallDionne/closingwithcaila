@@ -143,3 +143,4 @@ Have a contract in front of you right now with contingencies you would like walk
   ]
 }
 </script>
+Commit that, wait about 30 seconds, and the post should load.
