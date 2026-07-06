@@ -1,146 +1,106 @@
 ---
-title: "Interest Rate Buydowns Explained: 3-2-1, 2-1, and Permanent Options for Today's Market"
-date: 2026-07-06T00:00:00.000Z
+title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
+date: 2026-06-16T00:00:00.000Z
 category: Buyers
-excerpt: Rates have buyers hesitant and sellers nervous. Here's how 3-2-1, 2-1, and permanent buydowns actually work, who typically pays, and how the right negotiation can turn a tough rate environment into an opportunity, especially in the pockets of LA where sellers have room to negotiate.
+excerpt: Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California.
 ---
+If I had to pick one source of constant joy in my life, it would absolutely be my family. Because A) it's true and B) only someone who wants to be a regular topic in her daughter's future therapy sessions would say the next most accurate answer first...
 
-Mortgage rates are still high enough that buyers are hesitating and sellers are wondering where all the offers went. But here's what doesn't get talked about nearly enough: today's interest rate isn't always the payment you have to live with, at least not right away.
+...because if I had to pick a second source of constant joy in my life, it would absolutely be reality television.
 
-Rates are not the immovable object everyone treats them as. There are real, legitimate ways to soften that payment, at least for a while, without waiting around for the market to do you a favor.
+I love it. I live for it. I quote it in daily conversation, often to those who have no idea the nugget of wisdom I've just dropped on them is a line from an episode of Summer House (summer's supposed to be fun!). I've passionately argued that the smartest people you know are Bravo fans. And I don't *really* believe anyone who says they don't watch reality TV.
 
-**A rate buydown is a temporary or permanent reduction to a buyer's mortgage rate, typically paid for as a concession by the seller, that lowers the buyer's monthly payment for a set period (or for the life of the loan) without changing the purchase price.**
+Though it is the love of my life, reality TV has also done a number on viewers' understanding of the home buying process. The home buying process story arc looks a lot like this on TV: tour, fall in love, make an offer, have one tense negotiation call, done. There is actually a lot more work behind the scenes to get you from home tour to keys, and most of that work lives inside a handful of clauses called contingencies.
 
-If nobody's walked you through these as actual options, let's fix that.
+**A contingency is a condition written into your purchase agreement that has to be satisfied before the sale can move forward. If it is not met, the buyer typically has the right to cancel the contract and get their earnest money deposit back.**
 
-## Where This Actually Works Right Now
+Contingencies exist to protect buyers from surprises: a bad inspection, a low appraisal, financing falling through, a title problem nobody saw coming. And they matter just as much if you are selling. How many contingencies are attached to an offer, and how reasonable they are (or aren't) tells you a lot more about how solid that offer really is than the number at the top of the page.
 
-A quick reality check before we get into the mechanics: in a hyper-competitive market like the Foothills, a seller-funded buydown is going to be a rare bird. When a listing gets multiple offers in the first weekend, sellers don't need to sweeten the deal, buyers are already doing that for them. But La Crescenta and La Cañada Flintridge aren't the whole picture. In slower-moving pockets of LA where homes are sitting longer and sellers are feeling the pressure of carrying two mortgages or an empty listing, this is exactly the kind of concession that gets a deal done. If you're house hunting in a market where inventory is sitting (or eyeing a property that's been on the market for 30 days or more), this should absolutely be part of the conversation with your agent.
+Whether you are buying in Southern California or getting ready to sell, here is a full breakdown of the contingencies you will run into, and what each one means for you.
 
-## Why Buydowns Are Having a Moment Right Now
+## Inspection Contingency
 
-When rates are high, sellers are noticing something: a lot of otherwise qualified, motivated buyers are pausing not because they don't love the house, but because the payment at today's rate feels like a gut punch. That hesitation is exactly why more sellers are willing to offer a concession instead of just chopping the price.
+**The inspection contingency gives the buyer the right to have the home professionally inspected before they are locked into the deal.**
 
-Here's why that matters for you as a buyer: a price cut permanently lowers what you pay for the house, over 30 years, one time. A rate buydown lowers your monthly payment right when it matters most, in the early years when you're also absorbing moving costs, furnishing a new place, or generally adjusting to a bigger number on your mortgage statement. Different tool, different problem being solved.
+This is the one almost everyone keeps, even in a competitive market, and for good reason. Once your offer is accepted, the inspection period kicks in. Your contract will spell out the exact number of days, but it typically falls somewhere in the 10 to 17 day range.
 
-And for sellers, a buydown can be the thing that gets a hesitant buyer to actually write the offer, without touching the sale price or putting a huge dent in their net proceeds.
+During that window, a licensed inspector goes through the property top to bottom: roof, foundation, electrical, plumbing, the works. Once you have the report, you generally have three options: request repairs or a credit from the seller, cancel the contract and get your deposit back, or decide the issues are minor enough to move forward as-is.
 
-## The 3-2-1 Buydown
+## Appraisal Contingency
 
-A 3-2-1 buydown lowers your rate by 3 percentage points in year one, 2 points in year two, and 1 point in year three. Starting in year four, you pay the full note rate for the rest of the loan.
+**The appraisal contingency protects you if the home does not appraise for at least the price you agreed to pay.**
 
-Say your actual note rate is 6.5%. With a 3-2-1 buydown, your effective rate looks like this:
+Your lender requires an appraisal to confirm the home is actually worth what they are loaning you to buy it. If the appraisal comes back lower than your offer, you have a gap to deal with. There are a few ways to handle it: renegotiate the price down to the appraised value, make up the difference yourself in cash, or cancel the contract. This contingency carries real weight in the Foothills market, since competitive offers can push a price above what recent comparable sales actually support.
 
-- Year 1: 3.5%
-- Year 2: 4.5%
-- Year 3: 5.5%
-- Year 4 and beyond: 6.5% (the full rate, for the remainder of the loan)
+## Financing Contingency (Loan Contingency)
 
-Here's what that looks like on an $800,000, 30-year loan:
+**The financing contingency, also called the loan contingency, protects you if you are ultimately unable to secure the loan you need to close.**
 
-- Without the buydown: $5,057/month at 6.5%
-- Year 1 with the buydown: $3,592/month (at 3.5%)
-- Year 2: $4,053/month (at 4.5%)
-- Year 3: $4,542/month (at 5.5%)
-- Year 4 and beyond (if you don't refinance first): $5,057/month
+Like the inspection period, your contract will specify an exact loan contingency deadline. Ask your agent or lender for the specific number once you are under contract. Once that period passes, or once you waive it, you have largely accepted the risk that if your financing falls apart later for any reason, you could lose your earnest money deposit with no way back. This is one worth thinking through carefully before letting it go.
 
-That's over $1,400 a month back in your pocket in year one alone. Real breathing room while you settle in.
+## Title Contingency
 
-The money to cover that gap doesn't come out of thin air. It's calculated up front and deposited into an escrow-style account at closing, then drawn down each month to subsidize your payment. It's a real cost, someone is paying for it, it's just not coming out of your pocket at the moment.
+**The title contingency protects you if a title search turns up a problem with the property's ownership history, like an unpaid lien, a boundary dispute, or an error in public records.**
 
-## The 2-1 Buydown
+Early in escrow, a title company runs a search and issues a preliminary title report showing exactly what is (and isn't) attached to the property. If something turns up that needs to be resolved: an old lien, an unreleased mortgage, a question about who actually owns a strip of the backyard, this contingency gives you the right to have the seller clear it up before closing, or to walk away if they cannot.
 
-The 2-1 buydown works the same way, just over two years instead of three:
+## Sale of Existing Home Contingency
 
-- Year 1: 2 points below your note rate
-- Year 2: 1 point below your note rate
-- Year 3 and beyond: full note rate
+**A sale of existing home contingency means your purchase depends on successfully selling your current home first.**
 
-On that same $800,000 loan at a 6.5% note rate:
+This comes into play when you need the equity from your current home to qualify for or afford the new one. The tradeoff: sellers tend to view these offers as less attractive, especially in a competitive market, since the deal now depends on two transactions closing instead of one.
 
-- Without the buydown: $5,057/month
-- Year 1 with the buydown: $4,053/month (at 4.5%)
-- Year 2: $4,542/month (at 5.5%)
-- Year 3 and beyond (if you don't refinance): $5,057/month
+That is where a kick-out clause comes in. It lets the seller keep marketing the home and accept a better offer if one shows up. If that happens, the original buyer typically gets a window (commonly something like 72 hours, though it is negotiable) to either remove their sale contingency and prove they can close without it, or step aside.
 
-The 2-1 is less expensive to fund than a 3-2-1, which makes it an easier ask when you're negotiating a seller concession. Fewer dollars to find, same basic strategy.
+If you're weighing whether this type of contingency is right for you in your home search, let's chat. In a competitive market, a HELOC, bridge loan, or buy-before-sell program is probably going to be your best bet to staying competitive in the buying market, and also getting your current house in the best condition to sell at maximum value when you list it.
 
-## Permanent Buydowns (Points): A Different Animal
+## HOA Document Review Contingency
 
-This is the one people mix up with a 3-2-1 or 2-1, and it's worth separating clearly. A permanent buydown, more commonly called paying points, lowers your rate for the entire life of the loan, not just the first year or two. You pay an upfront fee at closing, typically a percentage of the loan amount, in exchange for a permanently lower rate.
+**If the property is part of a homeowners association, this contingency gives you the right to review the CC&Rs, the HOA's financials, and recent meeting minutes before you are committed.**
 
-Here's the part that matters most if you're weighing your options: that upfront fee is gone the moment you pay it. If you sell or refinance a few years down the road, which is exactly what a lot of buyers are planning to do once rates come down, you don't get any of that money back. It bought you a lower rate for as long as you kept that specific loan.
+It is one of the most skipped contingencies, and one of the more important ones when an HOA is involved. The CC&Rs spell out the rules you are agreeing to live under: rentals, pets, exterior changes, the works. The financials tell you whether the HOA is healthy or sitting on a deferred maintenance problem that could turn into a hefty special assessment. And meeting minutes have a way of surfacing disputes or upcoming projects that never make it onto the listing.
 
-A seller-funded temporary buydown works completely differently, and this is the distinction worth sitting with: since you didn't pay for it, there's no sunk cost sitting in that rate. Any unused funds in the escrow-style account, if you sell or refinance before the buydown period ends, come back to you as a credit toward your loan balance. You're not out anything either way.
+## What Does It Mean to Waive a Contingency?
 
-The difference in plain terms: a temporary buydown (3-2-1 or 2-1) is a ramp, your payment eases upward over a few years until it hits the real number. A permanent buydown is a flat, lower payment from day one through year thirty, funded by money that's no longer yours the second escrow closes. Which one makes sense depends entirely on your situation, and it's a real conversation to have with your lender and your agent together.
+Waiving a contingency means giving up the protection it provides. This is a big choice to make, and typically made to make an offer more competitive. In a multiple offer situation, still very real in La Crescenta, La Cañada Flintridge, and most of the Foothills, buyers sometimes waive their appraisal, financing, or even inspection contingency to look like the cleanest, most certain offer on the table.
 
-## Who Actually Pays for a Buydown?
+Here is the honest version. Waiving the appraisal contingency means committing to pay full price even if the home appraises lower. Waiving the financing contingency means that if your loan falls through later, you risk losing your deposit with no way back. Waiving inspection means accepting the property's condition completely unknown.
 
-This is usually the first question, and the honest answer is: it depends on who's motivated.
+None of that automatically makes waiving a bad idea. If you have done a pre-inspection, have a strong cash cushion, or financing that is about as close to guaranteed as financing gets, it can be a reasonable calculated risk. What it should never be is a box checked just to win, without actually understanding what is being given up. This is exactly where having an agent who is responsive and strategic matters: these calls often have to happen fast, and you deserve a real conversation about the tradeoffs, not a generic script.
 
-- Seller-paid: the seller agrees to fund the buydown as a concession, often instead of (or in addition to) a straight price reduction. Occasionally you'll see a version of this on new construction too, funded by the builder.
-- Buyer-paid: you can also fund a buydown yourself if you have the cash and want to lower your own payment temporarily, though this is less common than negotiating it as a concession.
+## Contingencies from the Seller's Perspective
 
-In markets where buyers have room to negotiate, seller-paid buydowns are where the real opportunity is, and it's exactly the kind of thing that should come up in a strong negotiation, not something you have to think to ask for after the fact.
+If you are selling, contingencies are one of the biggest factors in deciding which offer to actually accept.
 
-## Is a Buydown the Right Move for Every Buyer?
+An offer at a slightly higher price with a sale-of-home contingency and a thin financing letter can carry more risk than a slightly lower offer that is clean: strong proof of funds, a solid pre-approval, and contingencies that are reasonable rather than open-ended. Evaluating offers is partly about reading between the lines on how likely each one is to actually close, not just how good it looks on paper.
 
-A buydown makes the most sense when one of a few things is true:
-
-- You expect your income to grow over the next few years, so easing into the full payment lines up with where your finances are headed anyway
-- You're planning to refinance down the road if rates drop, and the buydown buys you a lower payment in the meantime
-- You want breathing room in the first couple of years of a new mortgage
-
-Where it makes less sense: if you're stretching to qualify at the full note rate and are counting on rates dropping enough to refinance before the buydown period ends in order to afford your purchase at all. Nobody can promise you that timeline (and if they do, run). A buydown should make an already doable plan more comfortable, not paper over a payment you can't actually afford long term.
-
-## Still Waiting for Rates to Drop? Ask Yourself This
-
-A lot of buyers I talk to are in a holding pattern: "we'll wait a few years until rates come back down." Fair enough, that's a real strategy. But here's the question worth sitting with before you commit to waiting: if rates are not meaningfully lower three or four years from now, are you giving up on homeownership altogether?
-
-If the honest answer is no, meaning you'd eventually buy at whatever the rate is because owning matters more to you than timing the market perfectly, then there's genuinely no downside to buying now with a seller-funded buydown instead of waiting. You get two or three years of a meaningfully lower payment while you wait and see what rates actually do. If they drop, you refinance and any unused buydown funds come back to you as a credit, you haven't lost a thing. If they don't drop, you're no worse off than if you'd waited, except you've been building equity the whole time instead of watching from the sidelines.
-
-The only version of "waiting" that actually makes sense is if you'd genuinely walk away from buying a home altogether should rates never come down. For almost everyone, that's not actually the plan.
-
-## What Happens If You Sell or Refinance Before the Buydown Ends?
-
-If you sell or refinance before the buydown period runs out, any remaining funds in that escrow-style account are typically applied to your loan balance as a credit, they don't just disappear, and they don't go back to whoever funded them. This should be spelled out clearly in your offer and confirmed by your lender before you count on it, but this is one of the real advantages of a seller-funded buydown over buyer-paid points: there's no scenario where you end up having paid for something you didn't get to keep.
-
-## How to Actually Get One (This Is Where Your Agent Matters)
-
-Buydowns don't show up automatically. They get negotiated. A seller isn't required to offer one, a listing agent isn't going to volunteer it, and not every agent is going to think to structure this kind of request in the first place. Somebody has to actually ask, build the case, and make it clear why it works better for both sides than a straight price cut.
-
-That's the value of having an agent who's negotiating for you instead of just opening doors. My background is 20-plus years in marketing before real estate, which means I've spent my career translating what one side wants into terms the other side will actually say yes to. A buydown request framed well can feel like a win for a nervous seller too, since it can mean a faster close without cutting their asking price.
-
-If you're already reading up on [what your agent's agreement actually covers](/blog/buyer-broker-representation-agreement-california) or [what to ask before hiring one](/blog/questions-first-time-homebuyers-should-ask-real-estate-agent), this is a good real-world example of the kind of thing to ask about directly: "Will you negotiate a rate buydown into my offer if it makes sense for my situation?"
+This is honestly where my marketing background ends up mattering as much as my real estate license. Comparing offers is part negotiation, part translation. My job is turning a stack of paperwork into a clear picture you can actually make a decision from.
 
 ## Frequently Asked Questions
 
-### What is a 3-2-1 buydown?
+### What is an inspection contingency?
 
-A 3-2-1 buydown temporarily lowers a buyer's mortgage rate by 3 percentage points in year one, 2 points in year two, and 1 point in year three, before returning to the full note rate in year four and beyond. It's typically funded by the seller as a concession.
+An inspection contingency gives the buyer the right to have a home professionally inspected before the sale closes, and to request repairs, a credit, or cancel the contract if the findings are a dealbreaker.
 
-### What is the difference between a 3-2-1 and a 2-1 buydown?
+### What is an appraisal contingency?
 
-Both are temporary rate reductions that phase out over time, but a 3-2-1 buydown runs three years while a 2-1 buydown runs two, starting one point higher in year one. The 2-1 structure is less expensive to fund, which is part of why it's more common right now.
+An appraisal contingency protects the buyer if the home appraises for less than the agreed purchase price, giving them the option to renegotiate, cover the gap in cash, or cancel the contract.
 
-### Who pays for a mortgage rate buydown?
+### What is a financing contingency?
 
-Buydowns are most commonly paid for by the seller as a negotiated concession, and occasionally by a builder on new construction. Buyers can also fund their own buydown, though this is less common than negotiating one as part of an offer.
+A financing contingency, or loan contingency, protects the buyer if they are unable to secure the loan needed to purchase the home, allowing them to cancel the contract without losing their earnest money deposit.
 
-### Is a buydown the same as paying points?
+### Should I waive my contingencies to win a bid?
 
-No. A temporary buydown (3-2-1 or 2-1) lowers the rate for a limited number of years before returning to the full note rate, and any unused funds typically come back to you as a credit if you sell or refinance early. Paying points is a permanent buydown that lowers the rate for the life of the loan in exchange for an upfront fee you don't get back if you refinance or sell.
-
-### What happens if I sell or refinance before the buydown period ends?
-
-Remaining funds in a seller-funded buydown are typically applied as a credit to your loan balance, they aren't forfeited. It's worth getting written confirmation of this from your lender before you count on it.
+It depends on your risk tolerance, your financing strength, and whether you have already done things like a pre-inspection. Waiving a contingency can make an offer more competitive, but it also means giving up real protections, so it is worth a direct conversation with your agent before deciding which ones, if any, make sense for your situation.
 
 ## The Bottom Line
 
-Rates are still going to be part of the conversation for a while, but that doesn't mean waiting out a rate drop or accepting today's payment as-is are your only two options. Buydowns, whether it's a 3-2-1, a 2-1, or a permanent points-based reduction, are a real, negotiable tool, especially in the parts of LA where sellers have room to work with buyers instead of just fielding multiple offers.
+Contingencies are not red tape. They are the parts of your contract built specifically to protect your money, your timeline, and your ability to walk away if something is genuinely wrong, whether you are the one buying or the one selling.
 
-The difference between knowing this exists and actually getting one is almost always the negotiation. If you're house hunting and want someone actually asking for this on your behalf, [give me a shout](/contact.html). Let's get creative, and get you into a house.
+If you have not yet read up on the [Buyer-Broker Representation Agreement](/blog/buyer-broker-representation-agreement-california), that is a good companion to this one since it covers how your agent's role and compensation work before any of these contingencies are even on the table.
+
+Have a contract in front of you right now with contingencies you would like walked through line by line? [Give me a shout](/contact.html). No pressure, no pitch, just a real conversation.
 
 <script type="application/ld+json">
 {
@@ -149,42 +109,34 @@ The difference between knowing this exists and actually getting one is almost al
   "mainEntity": [
     {
       "@type": "Question",
-      "name": "What is a 3-2-1 buydown?",
+      "name": "What is an inspection contingency?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "A 3-2-1 buydown temporarily lowers a buyer's mortgage rate by 3 percentage points in year one, 2 points in year two, and 1 point in year three, before returning to the full note rate in year four and beyond. It's typically funded by the seller as a concession."
+        "text": "An inspection contingency gives the buyer the right to have a home professionally inspected before the sale closes, and to request repairs, a credit, or cancel the contract if the findings are a dealbreaker."
       }
     },
     {
       "@type": "Question",
-      "name": "What is the difference between a 3-2-1 and a 2-1 buydown?",
+      "name": "What is an appraisal contingency?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Both are temporary rate reductions that phase out over time, but a 3-2-1 buydown runs three years while a 2-1 buydown runs two, starting one point higher in year one. The 2-1 structure is less expensive to fund, which is part of why it's more common right now."
+        "text": "An appraisal contingency protects the buyer if the home appraises for less than the agreed purchase price, giving them the option to renegotiate, cover the gap in cash, or cancel the contract."
       }
     },
     {
       "@type": "Question",
-      "name": "Who pays for a mortgage rate buydown?",
+      "name": "What is a financing contingency?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Buydowns are most commonly paid for by the seller as a negotiated concession, and occasionally by a builder on new construction. Buyers can also fund their own buydown, though this is less common than negotiating one as part of an offer."
+        "text": "A financing contingency, or loan contingency, protects the buyer if they are unable to secure the loan needed to purchase the home, allowing them to cancel the contract without losing their earnest money deposit."
       }
     },
     {
       "@type": "Question",
-      "name": "Is a buydown the same as paying points?",
+      "name": "Should I waive my contingencies to win a bid?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. A temporary buydown (3-2-1 or 2-1) lowers the rate for a limited number of years before returning to the full note rate, and any unused funds typically come back to you as a credit if you sell or refinance early. Paying points is a permanent buydown that lowers the rate for the life of the loan in exchange for an upfront fee you don't get back if you refinance or sell."
-      }
-    },
-    {
-      "@type": "Question",
-      "name": "What happens if I sell or refinance before the buydown period ends?",
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": "Remaining funds in a seller-funded buydown are typically applied as a credit to your loan balance, they aren't forfeited. It's worth getting written confirmation of this from your lender before you count on it."
+        "text": "It depends on your risk tolerance, your financing strength, and whether you have already done things like a pre-inspection. Waiving a contingency can make an offer more competitive, but it also means giving up real protections, so it is worth a direct conversation with your agent before deciding which ones, if any, make sense for your situation."
       }
     }
   ]
