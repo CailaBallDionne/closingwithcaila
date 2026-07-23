@@ -1,6 +1,6 @@
 ---
 title: "Prop 19 and Parent-Child Transfers: What Actually Happens to the Property Tax Bill Now"
-date: 2026-07-07T00:00:00.000Z
+date: 2026-07-16T00:00:00.000Z
 category: Sellers
 excerpt: Prop 19 rewrote the rules for passing a family home from parent to child. Here is what still qualifies, whether a trust or a 1031 exchange into a DST actually helps, and what it means for multigenerational families in La Crescenta and La Cañada Flintridge.
 ---
