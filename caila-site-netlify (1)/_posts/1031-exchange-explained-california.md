@@ -59,7 +59,7 @@ This is popular with investors who are done fielding maintenance calls but aren'
 
 ## Okay, Let's Talk About "Swap 'Til You Drop"
 
-Trigger warning: we're about to go a little dark for a real estate blog. (Especially if you thought you were coming here to peep some pretty houses.)
+Trigger warning: we're about to go a little dark for a real estate blog. (Especially if you thought you were coming here to <a href="https://caila.lametrohomefinder.com/" target="_blank" rel="noopener">peep some pretty houses</a>.)
 
 "Swap 'til you drop" is the actual, real, widely used term investors and CPAs use for a strategy where you just keep doing 1031 exchanges, one after another, for the rest of your life. Sell, exchange, defer. Sell again, exchange again, defer again. You never cash out, so you never trigger the tax. And then, well, you drop, meaning you pass away still holding the replacement property.
 
