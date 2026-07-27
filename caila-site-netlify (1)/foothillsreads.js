@@ -29,6 +29,24 @@ document.addEventListener("DOMContentLoaded", () => {
   const realEstateCheckbox = document.getElementById("fr-realestate");
   const emailWrap = document.getElementById("fr-emailWrap");
   const form = document.getElementById("fr-form");
+  const librarySelect = document.getElementById("fr-library");
+  const suggestWrap = document.getElementById("fr-suggestWrap");
+  const suggestLibraryLink = document.getElementById("suggestLibraryLink");
+
+  librarySelect.addEventListener("change", () => {
+    suggestWrap.classList.toggle("open", librarySelect.value === "suggest-new");
+  });
+
+  if (suggestLibraryLink) {
+    suggestLibraryLink.addEventListener("click", () => {
+      formSection.style.display = "block";
+      mapSection.style.display = "none";
+      librarySelect.value = "suggest-new";
+      suggestWrap.classList.add("open");
+      formSection.scrollIntoView({ behavior: "smooth" });
+      document.getElementById("fr-libraryName").focus();
+    });
+  }
 
   // Returning visitor who already submitted goes straight to the map
   if (localStorage.getItem(STORAGE_KEY) === "true") {
@@ -64,7 +82,9 @@ document.addEventListener("DOMContentLoaded", () => {
     const successMsg = document.getElementById("fr-success");
 
     const payload = {
-      libraryId: document.getElementById("fr-library").value,
+      libraryId: librarySelect.value,
+      suggestedLibraryName: document.getElementById("fr-libraryName").value.trim(),
+      suggestedLibraryLocation: document.getElementById("fr-libraryLocation").value.trim(),
       book: document.getElementById("fr-book").value.trim(),
       note: document.getElementById("fr-note").value.trim(),
       displayName: document.getElementById("fr-name").value.trim(),
@@ -75,6 +95,11 @@ document.addEventListener("DOMContentLoaded", () => {
     };
 
     if (!payload.book) {
+      return;
+    }
+
+    if (payload.libraryId === "suggest-new" && !payload.suggestedLibraryLocation) {
+      document.getElementById("fr-libraryLocation").focus();
       return;
     }
 
@@ -99,6 +124,7 @@ document.addEventListener("DOMContentLoaded", () => {
     successMsg.style.display = "block";
     form.reset();
     emailWrap.classList.remove("open");
+    suggestWrap.classList.remove("open");
     submitBtn.disabled = false;
     submitBtn.textContent = "Add To The Map";
 
