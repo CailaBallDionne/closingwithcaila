@@ -1,6 +1,4 @@
-Foothillsreads · JS
-/* ============================================================
-   FOOTHILLS READS — foothillsreads.js
+
  
    This file currently handles:
    - Showing the map view instead of the form for returning visitors
