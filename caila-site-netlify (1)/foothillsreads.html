@@ -93,7 +93,20 @@
           <select id="fr-library" name="libraryId">
             <option value="">Select the closest one</option>
             <option value="not-sure">Not sure / can't remember</option>
+            <option value="suggest-new">It's not listed, let me add it</option>
           </select>
+        </div>
+
+        <div class="fr-conditional" id="fr-suggestWrap">
+          <div class="field">
+            <label for="fr-libraryName">What do you call this Little Free Library?</label>
+            <input type="text" id="fr-libraryName" name="suggestedLibraryName" placeholder="A nickname is fine, like &quot;the one on Rosemont&quot;"/>
+          </div>
+          <div class="field">
+            <label for="fr-libraryLocation">Cross streets or address</label>
+            <input type="text" id="fr-libraryLocation" name="suggestedLibraryLocation" placeholder="Close enough that we could find it"/>
+          </div>
+          <p style="font-size:0.8rem;color:var(--ink-muted);margin-top:-0.5rem;margin-bottom:1.5rem;">I'll add it to the map after a quick look. It'll show up here on your next visit.</p>
         </div>
 
         <div class="field">
@@ -146,7 +159,7 @@
   <section class="fr-map-section" id="mapSection" style="display:none">
     <div class="fr-map-inner">
       <h2>Where the Foothills is reading</h2>
-      <p class="fr-map-sub">Every pin is a Little Free Library. Click one to see what's been found there.</p>
+      <p class="fr-map-sub">Every pin is a Little Free Library. Click one to see what's been found there. Know one we're missing? <button class="fr-skip" id="suggestLibraryLink" type="button" style="margin-top:0;">Add it here →</button></p>
 
       <div class="fr-map-wrap">
         <div id="fr-leaflet-map" class="fr-map"></div>
