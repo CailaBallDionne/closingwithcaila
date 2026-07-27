@@ -1,65 +1,66 @@
+Foothillsreads · JS
 /* ============================================================
    FOOTHILLS READS — foothillsreads.js
-
+ 
    This file currently handles:
    - Showing the map view instead of the form for returning visitors
    - The "Already added yours?" skip link
    - The real-estate opt-in reveal (email/phone field appears when checked)
    - Basic form validation + honeypot spam check
    - Rendering the map and feed once library/submission data is available
-
+ 
    NOT wired up yet (comes in the next piece):
    - The actual Google Apps Script URL that reads/writes the Google Sheet
    - Real library pin data and real submissions
-
+ 
    EDIT: Once the Apps Script Web App is deployed, replace this placeholder
    with the real URL (looks like https://script.google.com/macros/s/XXXX/exec)
    ============================================================ */
-
+ 
 const APPS_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
-
+ 
 /* ============================================================
    LIBRARY LOCATIONS
-
+ 
    Add one entry per Little Free Library. To get lat/lng:
    1. Open Google Maps, find the library's exact spot
    2. Right-click that point
    3. Click the coordinates at the top of the menu (copies them)
    4. Paste the first number as lat, the second as lng
-
+ 
    id: just needs to be unique, lowercase, no spaces (use dashes)
    name: whatever you want to call it publicly
    area: a short neighborhood tag, shown next to the name
    ============================================================ */
 const LIBRARY_LOCATIONS = [
-  { id: "glorietta-park", name: "Glorietta Park", area: "Montrose / La Crescenta", lat: 34.1883981, lng: -118.2267469 },
-  { id: "boucher-memorial", name: "Barbara \"Bobbi\" Boucher Memorial Mini Library", area: "La Crescenta", lat: 34.2461634, lng: -118.2620645 },
-  { id: "gibney-library", name: "Mrs. Gibney's Library", area: "La Crescenta", lat: 34.2416402, lng: -118.2569661 },
-  { id: "natalies-library", name: "Natalie's Little Free Library", area: "La Crescenta", lat: 34.2404828, lng: -118.2646430 },
-  { id: "abella-street", name: "Little Free Library", area: "La Crescenta", lat: 34.2375174, lng: -118.2654475 },
-  { id: "library-for-my-mom", name: "Library for my Mom", area: "La Crescenta", lat: 34.2343217, lng: -118.2664695 },
-  { id: "lori-o", name: "Lori O", area: "La Crescenta", lat: 34.2360196, lng: -118.2469930 },
-  { id: "glenwood-library", name: "Glenwood Free Little Library", area: "La Crescenta-Montrose", lat: 34.2368794, lng: -118.2422966 },
-  { id: "farmhouse-library", name: "Farmhouse Library", area: "La Crescenta-Montrose", lat: 34.2289549, lng: -118.2333896 },
-  { id: "kassidys-library", name: "Kassidy's Library", area: "La Cañada Flintridge", lat: 34.2236365, lng: -118.2254546 },
-  { id: "winters-family-library", name: "Winters Family Library", area: "La Cañada Flintridge", lat: 34.2127369, lng: -118.2171938 },
-  { id: "kirra-serna", name: "Kirra Serna", area: "La Crescenta-Montrose", lat: 34.2227912, lng: -118.2411296 },
-  { id: "dianne-reilly", name: "Dianne Reilly", area: "La Crescenta", lat: 34.2169047, lng: -118.2448370 },
-  { id: "randall-ehrbar", name: "Randall Ehrbar", area: "La Crescenta", lat: 34.2120070, lng: -118.2443491 },
-  { id: "murray-library", name: "Murray Library", area: "Glendale", lat: 34.2051143, lng: -118.2345835 },
-  { id: "rosemary-ave-library", name: "Rosemary Ave Little Free Library", area: "Glendale", lat: 34.2048125, lng: -118.2309550 },
-  { id: "marlene-maginot", name: "Marlene Maginot", area: "Glendale", lat: 34.2002841, lng: -118.2301805 },
-  { id: "lady-lulus-library", name: "Lady Lulu's Little Free Library", area: "Glendale", lat: 34.1984686, lng: -118.2274755 },
-  { id: "grandpa-ls-library", name: "Grandpa L's Library", area: "Glendale", lat: 34.1978095, lng: -118.2254041 },
-  { id: "susan-foster", name: "Susan Foster", area: "La Cañada Flintridge", lat: 34.1942384, lng: -118.1799200 },
-  { id: "harpers-library", name: "Harper's Little Free Library", area: "La Cañada Flintridge", lat: 34.2001001, lng: -118.1807006 },
-  { id: "marcia-hanford", name: "Marcia Hanford", area: "Glendale", lat: 34.1868943, lng: -118.2274134 }
+  { id: "glorietta-park", name: "Glorietta Park", location: "Glorietta Park", area: "Montrose / La Crescenta", lat: 34.1883981, lng: -118.2267469 },
+  { id: "boucher-memorial", name: "Barbara \"Bobbi\" Boucher Memorial Mini Library", location: "Boston Ave", area: "La Crescenta", lat: 34.2461634, lng: -118.2620645 },
+  { id: "gibney-library", name: "Mrs. Gibney's Library", location: "Santa Carlotta St (north)", area: "La Crescenta", lat: 34.2416402, lng: -118.2569661 },
+  { id: "natalies-library", name: "Natalie's Little Free Library", location: "Vista Ct", area: "La Crescenta", lat: 34.2404828, lng: -118.2646430 },
+  { id: "abella-street", name: "Little Free Library", location: "Abella St", area: "La Crescenta", lat: 34.2375174, lng: -118.2654475 },
+  { id: "library-for-my-mom", name: "Library for my Mom", location: "Lowell Ave", area: "La Crescenta", lat: 34.2343217, lng: -118.2664695 },
+  { id: "lori-o", name: "Lori O", location: "Santa Carlotta St (south)", area: "La Crescenta", lat: 34.2360196, lng: -118.2469930 },
+  { id: "glenwood-library", name: "Glenwood Free Little Library", location: "Glenwood Ave", area: "La Crescenta-Montrose", lat: 34.2368794, lng: -118.2422966 },
+  { id: "farmhouse-library", name: "Farmhouse Library", location: "Laughlin Ave", area: "La Crescenta-Montrose", lat: 34.2289549, lng: -118.2333896 },
+  { id: "kassidys-library", name: "Kassidy's Library", location: "Ocean View Blvd", area: "La Cañada Flintridge", lat: 34.2236365, lng: -118.2254546 },
+  { id: "winters-family-library", name: "Winters Family Library", location: "Foothill Blvd (west)", area: "La Cañada Flintridge", lat: 34.2127369, lng: -118.2171938 },
+  { id: "kirra-serna", name: "Kirra Serna", location: "Community Ave", area: "La Crescenta-Montrose", lat: 34.2227912, lng: -118.2411296 },
+  { id: "dianne-reilly", name: "Dianne Reilly", location: "Manhattan Ave", area: "La Crescenta", lat: 34.2169047, lng: -118.2448370 },
+  { id: "randall-ehrbar", name: "Randall Ehrbar", location: "Ramsdell Ave & Oakendale Pl", area: "La Crescenta", lat: 34.2120070, lng: -118.2443491 },
+  { id: "murray-library", name: "Murray Library", location: "Angelus Ave", area: "Glendale", lat: 34.2051143, lng: -118.2345835 },
+  { id: "rosemary-ave-library", name: "Rosemary Ave Little Free Library", location: "Rosemary Ave", area: "Glendale", lat: 34.2048125, lng: -118.2309550 },
+  { id: "marlene-maginot", name: "Marlene Maginot", location: "Arlington Ave", area: "Glendale", lat: 34.2002841, lng: -118.2301805 },
+  { id: "lady-lulus-library", name: "Lady Lulu's Little Free Library", location: "Castera Ave", area: "Glendale", lat: 34.1984686, lng: -118.2274755 },
+  { id: "grandpa-ls-library", name: "Grandpa L's Library", location: "Vickers Dr", area: "Glendale", lat: 34.1978095, lng: -118.2254041 },
+  { id: "susan-foster", name: "Susan Foster", location: "Foothill Blvd (east)", area: "La Cañada Flintridge", lat: 34.1942384, lng: -118.1799200 },
+  { id: "harpers-library", name: "Harper's Little Free Library", location: "Baptiste Way", area: "La Cañada Flintridge", lat: 34.2001001, lng: -118.1807006 },
+  { id: "marcia-hanford", name: "Marcia Hanford", location: "Rustic Ln", area: "Glendale", lat: 34.1868943, lng: -118.2274134 }
 ];
-
+ 
 const STORAGE_KEY = "foothillsreads_submitted";
-
+ 
 let frMap = null;
-
+ 
 document.addEventListener("DOMContentLoaded", () => {
   const formSection = document.getElementById("formSection");
   const mapSection = document.getElementById("mapSection");
@@ -70,11 +71,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const librarySelect = document.getElementById("fr-library");
   const suggestWrap = document.getElementById("fr-suggestWrap");
   const suggestLibraryLink = document.getElementById("suggestLibraryLink");
-
+ 
   librarySelect.addEventListener("change", () => {
     suggestWrap.classList.toggle("open", librarySelect.value === "suggest-new");
   });
-
+ 
   if (suggestLibraryLink) {
     suggestLibraryLink.addEventListener("click", () => {
       formSection.style.display = "block";
@@ -85,43 +86,43 @@ document.addEventListener("DOMContentLoaded", () => {
       document.getElementById("fr-libraryName").focus();
     });
   }
-
+ 
   // Fill in the library dropdown right away, don't wait for the map to load
   populateLibraryDropdown();
-
+ 
   // Returning visitor who already submitted goes straight to the map
   if (localStorage.getItem(STORAGE_KEY) === "true") {
     showMapView();
   }
-
+ 
   skipLink.addEventListener("click", () => {
     showMapView();
   });
-
+ 
   realEstateCheckbox.addEventListener("change", () => {
     emailWrap.classList.toggle("open", realEstateCheckbox.checked);
   });
-
+ 
   form.addEventListener("submit", handleSubmit);
-
+ 
   function showMapView() {
     formSection.style.display = "none";
     mapSection.style.display = "block";
     initMapIfNeeded();
   }
-
+ 
   async function handleSubmit(e) {
     e.preventDefault();
-
+ 
     // Honeypot check — if this hidden field has anything in it, silently drop the submission
     const honeypot = document.getElementById("fr-website").value;
     if (honeypot) {
       return;
     }
-
+ 
     const submitBtn = document.getElementById("fr-submitBtn");
     const successMsg = document.getElementById("fr-success");
-
+ 
     const payload = {
       libraryId: librarySelect.value,
       suggestedLibraryName: document.getElementById("fr-libraryName").value.trim(),
@@ -134,19 +135,19 @@ document.addEventListener("DOMContentLoaded", () => {
       contact: document.getElementById("fr-email").value.trim(),
       timestamp: new Date().toISOString()
     };
-
+ 
     if (!payload.book) {
       return;
     }
-
+ 
     if (payload.libraryId === "suggest-new" && !payload.suggestedLibraryLocation) {
       document.getElementById("fr-libraryLocation").focus();
       return;
     }
-
+ 
     submitBtn.disabled = true;
     submitBtn.textContent = "Adding…";
-
+ 
     try {
       if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
         await fetch(APPS_SCRIPT_URL, {
@@ -160,7 +161,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Once the backend piece is wired, we'll revisit error handling here.
       console.error("Foothills Reads submission error:", err);
     }
-
+ 
     localStorage.setItem(STORAGE_KEY, "true");
     successMsg.style.display = "block";
     form.reset();
@@ -168,29 +169,29 @@ document.addEventListener("DOMContentLoaded", () => {
     suggestWrap.classList.remove("open");
     submitBtn.disabled = false;
     submitBtn.textContent = "Add To The Map";
-
+ 
     setTimeout(() => {
       showMapView();
     }, 1400);
   }
 });
-
+ 
 function initMapIfNeeded() {
   if (frMap) return;
-
+ 
   frMap = L.map("fr-leaflet-map", {
     scrollWheelZoom: false
   }).setView([34.2331, -118.2445], 13); // La Crescenta / La Cañada area
-
+ 
   L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
     attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
     maxZoom: 19
   }).addTo(frMap);
-
+ 
   loadLibraryPins();
   loadFeed();
 }
-
+ 
 function bookPinIcon() {
   return L.divIcon({
     className: "",
@@ -204,26 +205,36 @@ function bookPinIcon() {
     popupAnchor: [0, -34]
   });
 }
-
+ 
+// Builds the dropdown/popup label. Leads with the street since that's how
+// most people actually identify these, the nickname (if there is one that
+// isn't just "Little Free Library") comes after as a bonus identifier.
+function libraryLabel(lib) {
+  const generic = !lib.name || lib.name === lib.location || lib.name === "Little Free Library";
+  return generic
+    ? `${lib.location} (${lib.area})`
+    : `${lib.location} — ${lib.name} (${lib.area})`;
+}
+ 
 // Fills in the library dropdown. Runs on page load, independent of the map,
 // so the form has real options even before anyone opens the map view.
 function populateLibraryDropdown() {
   const librarySelect = document.getElementById("fr-library");
-
+ 
   LIBRARY_LOCATIONS.forEach((lib) => {
     const option = document.createElement("option");
     option.value = lib.id;
-    option.textContent = `${lib.name} (${lib.area})`;
+    option.textContent = libraryLabel(lib);
     librarySelect.insertBefore(option, librarySelect.lastElementChild.nextSibling);
   });
 }
-
+ 
 // Pulls from LIBRARY_LOCATIONS above for now. Once the Apps Script backend
 // is connected, this will fetch the same data from your Google Sheet instead,
 // so you'll be able to manage it there rather than in this file.
 async function loadLibraryPins() {
   let libraries = [];
-
+ 
   try {
     if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
       const res = await fetch(`${APPS_SCRIPT_URL}?type=libraries`);
@@ -232,23 +243,23 @@ async function loadLibraryPins() {
   } catch (err) {
     console.error("Could not load library pins:", err);
   }
-
+ 
   if (!libraries.length) {
     libraries = LIBRARY_LOCATIONS;
   }
-
+ 
   libraries.forEach((lib) => {
     L.marker([lib.lat, lib.lng], { icon: bookPinIcon() })
       .addTo(frMap)
-      .bindPopup(`<strong>${lib.name}</strong>${lib.area}`);
+      .bindPopup(`<strong>${lib.location}</strong>${lib.name !== lib.location && lib.name !== "Little Free Library" ? lib.name + " — " : ""}${lib.area}`);
   });
 }
-
+ 
 // EDIT: Replace this with a real fetch to the Apps Script "Submissions" endpoint
 async function loadFeed() {
   const feedEl = document.getElementById("fr-feed");
   let submissions = [];
-
+ 
   try {
     if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
       const res = await fetch(`${APPS_SCRIPT_URL}?type=submissions`);
@@ -257,12 +268,12 @@ async function loadFeed() {
   } catch (err) {
     console.error("Could not load feed:", err);
   }
-
+ 
   if (!submissions.length) {
     feedEl.innerHTML = `<p class="hub-empty">Be the first to add a find. The feed fills in as neighbors submit.</p>`;
     return;
   }
-
+ 
   feedEl.innerHTML = submissions
     .slice()
     .reverse()
@@ -276,7 +287,7 @@ async function loadFeed() {
     `)
     .join("");
 }
-
+ 
 function escapeHtml(str) {
   const div = document.createElement("div");
   div.textContent = str || "";
