@@ -10,13 +10,51 @@
 
    NOT wired up yet (comes in the next piece):
    - The actual Google Apps Script URL that reads/writes the Google Sheet
-   - Real library pin data and real submissions
+   - Real submissions (library pins below are real)
 
    EDIT: Once the Apps Script Web App is deployed, replace this placeholder
    with the real URL (looks like https://script.google.com/macros/s/XXXX/exec)
    ============================================================ */
 
 const APPS_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+
+/* ============================================================
+   LIBRARY LOCATIONS
+
+   Add one entry per Little Free Library. To get lat/lng:
+   1. Open Google Maps, find the library's exact spot
+   2. Right-click that point
+   3. Click the coordinates at the top of the menu (copies them)
+   4. Paste the first number as lat, the second as lng
+
+   id: just needs to be unique, lowercase, no spaces (use dashes)
+   name: whatever you want to call it publicly
+   area: a short neighborhood tag, shown next to the name
+   ============================================================ */
+const LIBRARY_LOCATIONS = [
+  { id: "glorietta-park", name: "Glorietta Park", area: "Montrose / La Crescenta", lat: 34.1883981, lng: -118.2267469 },
+  { id: "boucher-memorial", name: "Barbara \"Bobbi\" Boucher Memorial Mini Library", area: "La Crescenta", lat: 34.2461634, lng: -118.2620645 },
+  { id: "gibney-library", name: "Mrs. Gibney's Library", area: "La Crescenta", lat: 34.2416402, lng: -118.2569661 },
+  { id: "natalies-library", name: "Natalie's Little Free Library", area: "La Crescenta", lat: 34.2404828, lng: -118.2646430 },
+  { id: "abella-street", name: "Little Free Library", area: "La Crescenta", lat: 34.2375174, lng: -118.2654475 },
+  { id: "library-for-my-mom", name: "Library for my Mom", area: "La Crescenta", lat: 34.2343217, lng: -118.2664695 },
+  { id: "lori-o", name: "Lori O", area: "La Crescenta", lat: 34.2360196, lng: -118.2469930 },
+  { id: "glenwood-library", name: "Glenwood Free Little Library", area: "La Crescenta-Montrose", lat: 34.2368794, lng: -118.2422966 },
+  { id: "farmhouse-library", name: "Farmhouse Library", area: "La Crescenta-Montrose", lat: 34.2289549, lng: -118.2333896 },
+  { id: "kassidys-library", name: "Kassidy's Library", area: "La Cañada Flintridge", lat: 34.2236365, lng: -118.2254546 },
+  { id: "winters-family-library", name: "Winters Family Library", area: "La Cañada Flintridge", lat: 34.2127369, lng: -118.2171938 },
+  { id: "kirra-serna", name: "Kirra Serna", area: "La Crescenta-Montrose", lat: 34.2227912, lng: -118.2411296 },
+  { id: "dianne-reilly", name: "Dianne Reilly", area: "La Crescenta", lat: 34.2169047, lng: -118.2448370 },
+  { id: "randall-ehrbar", name: "Randall Ehrbar", area: "La Crescenta", lat: 34.2120070, lng: -118.2443491 },
+  { id: "murray-library", name: "Murray Library", area: "Glendale", lat: 34.2051143, lng: -118.2345835 },
+  { id: "rosemary-ave-library", name: "Rosemary Ave Little Free Library", area: "Glendale", lat: 34.2048125, lng: -118.2309550 },
+  { id: "marlene-maginot", name: "Marlene Maginot", area: "Glendale", lat: 34.2002841, lng: -118.2301805 },
+  { id: "lady-lulus-library", name: "Lady Lulu's Little Free Library", area: "Glendale", lat: 34.1984686, lng: -118.2274755 },
+  { id: "grandpa-ls-library", name: "Grandpa L's Library", area: "Glendale", lat: 34.1978095, lng: -118.2254041 },
+  { id: "susan-foster", name: "Susan Foster", area: "La Cañada Flintridge", lat: 34.1942384, lng: -118.1799200 },
+  { id: "harpers-library", name: "Harper's Little Free Library", area: "La Cañada Flintridge", lat: 34.2001001, lng: -118.1807006 },
+  { id: "marcia-hanford", name: "Marcia Hanford", area: "Glendale", lat: 34.1868943, lng: -118.2274134 }
+];
 
 const STORAGE_KEY = "foothillsreads_submitted";
 
@@ -164,9 +202,9 @@ function bookPinIcon() {
   });
 }
 
-// EDIT: Replace this with a real fetch to the Apps Script "Libraries" endpoint
-// once it's deployed. Left as a small placeholder set for now so the map
-// isn't empty while we build out the rest.
+// Pulls from LIBRARY_LOCATIONS above for now. Once the Apps Script backend
+// is connected, this will fetch the same data from your Google Sheet instead,
+// so you'll be able to manage it there rather than in this file.
 async function loadLibraryPins() {
   let libraries = [];
 
@@ -180,20 +218,16 @@ async function loadLibraryPins() {
   }
 
   if (!libraries.length) {
-    libraries = [
-      { id: "placeholder-1", name: "Add your library locations here", area: "Edit in foothillsreads.js or the Google Sheet", lat: 34.2331, lng: -118.2445 }
-    ];
+    libraries = LIBRARY_LOCATIONS;
   }
 
   const librarySelect = document.getElementById("fr-library");
 
   libraries.forEach((lib) => {
-    if (lib.id !== "placeholder-1") {
-      const option = document.createElement("option");
-      option.value = lib.id;
-      option.textContent = `${lib.name} (${lib.area})`;
-      librarySelect.insertBefore(option, librarySelect.lastElementChild.nextSibling);
-    }
+    const option = document.createElement("option");
+    option.value = lib.id;
+    option.textContent = `${lib.name} (${lib.area})`;
+    librarySelect.insertBefore(option, librarySelect.lastElementChild.nextSibling);
 
     L.marker([lib.lat, lib.lng], { icon: bookPinIcon() })
       .addTo(frMap)
