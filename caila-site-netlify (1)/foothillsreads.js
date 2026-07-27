@@ -1,31 +1,32 @@
+/* ============================================================
+   FOOTHILLS READS — foothillsreads.js
 
- 
    This file currently handles:
    - Showing the map view instead of the form for returning visitors
    - The "Already added yours?" skip link
    - The real-estate opt-in reveal (email/phone field appears when checked)
    - Basic form validation + honeypot spam check
    - Rendering the map and feed once library/submission data is available
- 
+
    NOT wired up yet (comes in the next piece):
    - The actual Google Apps Script URL that reads/writes the Google Sheet
    - Real library pin data and real submissions
- 
+
    EDIT: Once the Apps Script Web App is deployed, replace this placeholder
    with the real URL (looks like https://script.google.com/macros/s/XXXX/exec)
    ============================================================ */
- 
+
 const APPS_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
- 
+
 /* ============================================================
    LIBRARY LOCATIONS
- 
+
    Add one entry per Little Free Library. To get lat/lng:
    1. Open Google Maps, find the library's exact spot
    2. Right-click that point
    3. Click the coordinates at the top of the menu (copies them)
    4. Paste the first number as lat, the second as lng
- 
+
    id: just needs to be unique, lowercase, no spaces (use dashes)
    name: whatever you want to call it publicly
    area: a short neighborhood tag, shown next to the name
@@ -54,11 +55,11 @@ const LIBRARY_LOCATIONS = [
   { id: "harpers-library", name: "Harper's Little Free Library", location: "Baptiste Way", area: "La Cañada Flintridge", lat: 34.2001001, lng: -118.1807006 },
   { id: "marcia-hanford", name: "Marcia Hanford", location: "Rustic Ln", area: "Glendale", lat: 34.1868943, lng: -118.2274134 }
 ];
- 
+
 const STORAGE_KEY = "foothillsreads_submitted";
- 
+
 let frMap = null;
- 
+
 document.addEventListener("DOMContentLoaded", () => {
   const formSection = document.getElementById("formSection");
   const mapSection = document.getElementById("mapSection");
@@ -69,11 +70,11 @@ document.addEventListener("DOMContentLoaded", () => {
   const librarySelect = document.getElementById("fr-library");
   const suggestWrap = document.getElementById("fr-suggestWrap");
   const suggestLibraryLink = document.getElementById("suggestLibraryLink");
- 
+
   librarySelect.addEventListener("change", () => {
     suggestWrap.classList.toggle("open", librarySelect.value === "suggest-new");
   });
- 
+
   if (suggestLibraryLink) {
     suggestLibraryLink.addEventListener("click", () => {
       formSection.style.display = "block";
@@ -84,43 +85,43 @@ document.addEventListener("DOMContentLoaded", () => {
       document.getElementById("fr-libraryName").focus();
     });
   }
- 
+
   // Fill in the library dropdown right away, don't wait for the map to load
   populateLibraryDropdown();
- 
+
   // Returning visitor who already submitted goes straight to the map
   if (localStorage.getItem(STORAGE_KEY) === "true") {
     showMapView();
   }
- 
+
   skipLink.addEventListener("click", () => {
     showMapView();
   });
- 
+
   realEstateCheckbox.addEventListener("change", () => {
     emailWrap.classList.toggle("open", realEstateCheckbox.checked);
   });
- 
+
   form.addEventListener("submit", handleSubmit);
- 
+
   function showMapView() {
     formSection.style.display = "none";
     mapSection.style.display = "block";
     initMapIfNeeded();
   }
- 
+
   async function handleSubmit(e) {
     e.preventDefault();
- 
+
     // Honeypot check — if this hidden field has anything in it, silently drop the submission
     const honeypot = document.getElementById("fr-website").value;
     if (honeypot) {
       return;
     }
- 
+
     const submitBtn = document.getElementById("fr-submitBtn");
     const successMsg = document.getElementById("fr-success");
- 
+
     const payload = {
       libraryId: librarySelect.value,
       suggestedLibraryName: document.getElementById("fr-libraryName").value.trim(),
@@ -133,19 +134,19 @@ document.addEventListener("DOMContentLoaded", () => {
       contact: document.getElementById("fr-email").value.trim(),
       timestamp: new Date().toISOString()
     };
- 
+
     if (!payload.book) {
       return;
     }
- 
+
     if (payload.libraryId === "suggest-new" && !payload.suggestedLibraryLocation) {
       document.getElementById("fr-libraryLocation").focus();
       return;
     }
- 
+
     submitBtn.disabled = true;
     submitBtn.textContent = "Adding…";
- 
+
     try {
       if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
         await fetch(APPS_SCRIPT_URL, {
@@ -159,7 +160,7 @@ document.addEventListener("DOMContentLoaded", () => {
       // Once the backend piece is wired, we'll revisit error handling here.
       console.error("Foothills Reads submission error:", err);
     }
- 
+
     localStorage.setItem(STORAGE_KEY, "true");
     successMsg.style.display = "block";
     form.reset();
@@ -167,29 +168,29 @@ document.addEventListener("DOMContentLoaded", () => {
     suggestWrap.classList.remove("open");
     submitBtn.disabled = false;
     submitBtn.textContent = "Add To The Map";
- 
+
     setTimeout(() => {
       showMapView();
     }, 1400);
   }
 });
- 
+
 function initMapIfNeeded() {
   if (frMap) return;
- 
+
   frMap = L.map("fr-leaflet-map", {
     scrollWheelZoom: false
   }).setView([34.2331, -118.2445], 13); // La Crescenta / La Cañada area
- 
+
   L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
     attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
     maxZoom: 19
   }).addTo(frMap);
- 
+
   loadLibraryPins();
   loadFeed();
 }
- 
+
 function bookPinIcon() {
   return L.divIcon({
     className: "",
@@ -203,7 +204,7 @@ function bookPinIcon() {
     popupAnchor: [0, -34]
   });
 }
- 
+
 // Builds the dropdown/popup label. Leads with the street since that's how
 // most people actually identify these, the nickname (if there is one that
 // isn't just "Little Free Library") comes after as a bonus identifier.
@@ -213,12 +214,12 @@ function libraryLabel(lib) {
     ? `${lib.location} (${lib.area})`
     : `${lib.location} — ${lib.name} (${lib.area})`;
 }
- 
+
 // Fills in the library dropdown. Runs on page load, independent of the map,
 // so the form has real options even before anyone opens the map view.
 function populateLibraryDropdown() {
   const librarySelect = document.getElementById("fr-library");
- 
+
   LIBRARY_LOCATIONS.forEach((lib) => {
     const option = document.createElement("option");
     option.value = lib.id;
@@ -226,13 +227,13 @@ function populateLibraryDropdown() {
     librarySelect.insertBefore(option, librarySelect.lastElementChild.nextSibling);
   });
 }
- 
+
 // Pulls from LIBRARY_LOCATIONS above for now. Once the Apps Script backend
 // is connected, this will fetch the same data from your Google Sheet instead,
 // so you'll be able to manage it there rather than in this file.
 async function loadLibraryPins() {
   let libraries = [];
- 
+
   try {
     if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
       const res = await fetch(`${APPS_SCRIPT_URL}?type=libraries`);
@@ -241,23 +242,23 @@ async function loadLibraryPins() {
   } catch (err) {
     console.error("Could not load library pins:", err);
   }
- 
+
   if (!libraries.length) {
     libraries = LIBRARY_LOCATIONS;
   }
- 
+
   libraries.forEach((lib) => {
     L.marker([lib.lat, lib.lng], { icon: bookPinIcon() })
       .addTo(frMap)
       .bindPopup(`<strong>${lib.location}</strong>${lib.name !== lib.location && lib.name !== "Little Free Library" ? lib.name + " — " : ""}${lib.area}`);
   });
 }
- 
+
 // EDIT: Replace this with a real fetch to the Apps Script "Submissions" endpoint
 async function loadFeed() {
   const feedEl = document.getElementById("fr-feed");
   let submissions = [];
- 
+
   try {
     if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
       const res = await fetch(`${APPS_SCRIPT_URL}?type=submissions`);
@@ -266,12 +267,12 @@ async function loadFeed() {
   } catch (err) {
     console.error("Could not load feed:", err);
   }
- 
+
   if (!submissions.length) {
     feedEl.innerHTML = `<p class="hub-empty">Be the first to add a find. The feed fills in as neighbors submit.</p>`;
     return;
   }
- 
+
   feedEl.innerHTML = submissions
     .slice()
     .reverse()
@@ -285,7 +286,7 @@ async function loadFeed() {
     `)
     .join("");
 }
- 
+
 function escapeHtml(str) {
   const div = document.createElement("div");
   div.textContent = str || "";
