@@ -10,7 +10,7 @@
 
    NOT wired up yet (comes in the next piece):
    - The actual Google Apps Script URL that reads/writes the Google Sheet
-   - Real submissions (library pins below are real)
+   - Real library pin data and real submissions
 
    EDIT: Once the Apps Script Web App is deployed, replace this placeholder
    with the real URL (looks like https://script.google.com/macros/s/XXXX/exec)
@@ -85,6 +85,9 @@ document.addEventListener("DOMContentLoaded", () => {
       document.getElementById("fr-libraryName").focus();
     });
   }
+
+  // Fill in the library dropdown right away, don't wait for the map to load
+  populateLibraryDropdown();
 
   // Returning visitor who already submitted goes straight to the map
   if (localStorage.getItem(STORAGE_KEY) === "true") {
@@ -202,6 +205,19 @@ function bookPinIcon() {
   });
 }
 
+// Fills in the library dropdown. Runs on page load, independent of the map,
+// so the form has real options even before anyone opens the map view.
+function populateLibraryDropdown() {
+  const librarySelect = document.getElementById("fr-library");
+
+  LIBRARY_LOCATIONS.forEach((lib) => {
+    const option = document.createElement("option");
+    option.value = lib.id;
+    option.textContent = `${lib.name} (${lib.area})`;
+    librarySelect.insertBefore(option, librarySelect.lastElementChild.nextSibling);
+  });
+}
+
 // Pulls from LIBRARY_LOCATIONS above for now. Once the Apps Script backend
 // is connected, this will fetch the same data from your Google Sheet instead,
 // so you'll be able to manage it there rather than in this file.
@@ -221,14 +237,7 @@ async function loadLibraryPins() {
     libraries = LIBRARY_LOCATIONS;
   }
 
-  const librarySelect = document.getElementById("fr-library");
-
   libraries.forEach((lib) => {
-    const option = document.createElement("option");
-    option.value = lib.id;
-    option.textContent = `${lib.name} (${lib.area})`;
-    librarySelect.insertBefore(option, librarySelect.lastElementChild.nextSibling);
-
     L.marker([lib.lat, lib.lng], { icon: bookPinIcon() })
       .addTo(frMap)
       .bindPopup(`<strong>${lib.name}</strong>${lib.area}`);
