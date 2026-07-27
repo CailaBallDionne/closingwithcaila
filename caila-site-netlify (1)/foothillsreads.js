@@ -16,7 +16,7 @@
    with the real URL (looks like https://script.google.com/macros/s/XXXX/exec)
    ============================================================ */
 
-const APPS_SCRIPT_URL = "PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE";
+const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzdf2gKXMc4OBhU4Ny6ZpcDn2k5GkfvIEIMh1ke7PBbZok5eujAK3EoAelNdwtFTt9SAg/exec";
 
 /* ============================================================
    LIBRARY LOCATIONS
@@ -98,9 +98,14 @@ document.addEventListener("DOMContentLoaded", () => {
     showMapView();
   });
 
-  realEstateCheckbox.addEventListener("change", () => {
-    emailWrap.classList.toggle("open", realEstateCheckbox.checked);
-  });
+  const bookClubCheckbox = document.getElementById("fr-bookclub");
+
+  function updateEmailVisibility() {
+    emailWrap.classList.toggle("open", realEstateCheckbox.checked || bookClubCheckbox.checked);
+  }
+
+  bookClubCheckbox.addEventListener("change", updateEmailVisibility);
+  realEstateCheckbox.addEventListener("change", updateEmailVisibility);
 
   form.addEventListener("submit", handleSubmit);
 
@@ -276,14 +281,18 @@ async function loadFeed() {
   feedEl.innerHTML = submissions
     .slice()
     .reverse()
-    .map((s) => `
+    .map((s) => {
+      const lib = LIBRARY_LOCATIONS.find((l) => l.id === s.libraryId);
+      const tag = lib ? lib.location : (s.libraryId === "suggest-new" ? "A new spot" : "Foothills");
+      return `
       <div class="fr-feed-card">
-        <span class="fr-feed-tag">${s.libraryName || "Foothills"}</span>
+        <span class="fr-feed-tag">${tag}</span>
         <h3>${escapeHtml(s.book)}</h3>
         ${s.note ? `<p>${escapeHtml(s.note)}</p>` : ""}
         <div class="fr-feed-meta">${s.displayName ? escapeHtml(s.displayName) : "A neighbor"}</div>
       </div>
-    `)
+    `;
+    })
     .join("");
 }
 
