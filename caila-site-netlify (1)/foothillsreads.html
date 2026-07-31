@@ -62,20 +62,20 @@
   <section class="page-hero">
     <p class="eyebrow">A Neighborhood Project</p>
     <h1>Foothills Reads</h1>
-    <p>Every Little Free Library in La Crescenta and La Cañada has a story. Add yours to the map, then see what the rest of the neighborhood is reading.</p>
+    <p>Every Little Free Library in La Crescenta and La Cañada has a story. Leave a quick review with your next drop-off, so whoever finds it next knows what they're getting.</p>
   </section>
 
   <section class="fr-intro">
     <div class="fr-intro-inner">
       <p class="eyebrow" style="margin-bottom:0.5rem;">How it works</p>
-      <p>Found this bookmark at one of our neighborhood's Little Free Libraries? Tell us what you picked up, and it gets added to a growing map of what the Foothills is reading. Takes about thirty seconds. No account, no login, just a quick note about a book.</p>
+      <p>Leaving a book at one of our neighborhood's Little Free Libraries? Add a quick review before you drop it off, and it gets added to a growing map of what the Foothills is reading, so the next person to grab it knows what they're getting into. Takes about thirty seconds. No account, no login, just a quick note.</p>
       <button class="fr-skip" id="skipToMap" type="button">Already added yours? See the map →</button>
     </div>
   </section>
 
   <section class="fr-form-section" id="formSection">
     <div class="fr-form-inner">
-      <h2>Add your find</h2>
+      <h2>Add Your Review</h2>
       <p class="fr-form-sub">Fill in what you can. Nothing here is required except the book.</p>
 
       <form id="fr-form">
@@ -86,7 +86,12 @@
         </div>
 
         <div class="field">
-          <label for="fr-library">Which Little Free Library?</label>
+          <label for="fr-book">What book are you leaving a review for?</label>
+          <input type="text" id="fr-book" name="book" placeholder="Title (and author, if you remember)" required/>
+        </div>
+
+        <div class="field">
+          <label for="fr-library">Where are you leaving it?</label>
           <!-- EDIT: This dropdown is populated automatically from the "Libraries" tab of the
                Foothills Reads Google Sheet once that's connected. Placeholder options below
                so the form is usable while we finish wiring the backend. -->
@@ -110,13 +115,8 @@
         </div>
 
         <div class="field">
-          <label for="fr-book">What book did you find or leave?</label>
-          <input type="text" id="fr-book" name="book" placeholder="Title (and author, if you remember)" required/>
-        </div>
-
-        <div class="field">
-          <label for="fr-note">Quick thoughts</label>
-          <textarea id="fr-note" name="note" placeholder="Loved it, hated it, still thinking about it. Whatever's true."></textarea>
+          <label for="fr-note">Your review</label>
+          <textarea id="fr-note" name="note" placeholder="What should the next reader know? Loved it, hated it, whatever's true."></textarea>
         </div>
 
         <div class="field">
@@ -159,7 +159,7 @@
   <section class="fr-map-section" id="mapSection" style="display:none">
     <div class="fr-map-inner">
       <h2>Where the Foothills is reading</h2>
-      <p class="fr-map-sub">Every pin is a Little Free Library. Click one to see what's been found there. Know one we're missing? <button class="fr-skip" id="suggestLibraryLink" type="button" style="margin-top:0;">Add it here →</button></p>
+      <p class="fr-map-sub">Every pin is a Little Free Library. Click one to see the reviews left there, and what's waiting to be found next. Know one we're missing? <button class="fr-skip" id="suggestLibraryLink" type="button" style="margin-top:0;">Add it here →</button></p>
 
       <div class="fr-map-wrap">
         <div id="fr-leaflet-map" class="fr-map"></div>
