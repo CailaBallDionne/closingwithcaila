@@ -113,6 +113,13 @@ document.addEventListener("DOMContentLoaded", () => {
     formSection.style.display = "none";
     mapSection.style.display = "block";
     initMapIfNeeded();
+ 
+    // Leaflet sometimes measures the wrong size if it initializes (or was
+    // initialized) while its container was hidden. This forces it to
+    // recheck once the section is actually visible on screen.
+    setTimeout(() => {
+      if (frMap) frMap.invalidateSize();
+    }, 100);
   }
  
   async function handleSubmit(e) {
@@ -335,9 +342,6 @@ function renderFeed(submissions) {
  
 function escapeHtml(str) {
   const div = document.createElement("div");
-  div.textContent = str || "";
-  return div.innerHTML;
-}ement("div");
   div.textContent = str || "";
   return div.innerHTML;
 }
