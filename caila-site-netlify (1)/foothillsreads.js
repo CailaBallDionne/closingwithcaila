@@ -192,8 +192,7 @@ function initMapIfNeeded() {
     maxZoom: 19
   }).addTo(frMap);
  
-  loadLibraryPins();
-  loadFeed();
+  loadMapData();
 }
  
 function bookPinIcon() {
@@ -212,7 +211,7 @@ function bookPinIcon() {
   });
 }
  
-// Builds the dropdown/popup label. Leads with the street since that's how
+// Builds the dropdown label. Leads with the street since that's how
 // most people actually identify these, the nickname (if there is one that
 // isn't just "Little Free Library") comes after as a bonus identifier.
 function libraryLabel(lib) {
@@ -235,45 +234,81 @@ function populateLibraryDropdown() {
   });
 }
  
-// Pulls from LIBRARY_LOCATIONS above for now. Once the Apps Script backend
-// is connected, this will fetch the same data from your Google Sheet instead,
-// so you'll be able to manage it there rather than in this file.
-async function loadLibraryPins() {
-  let libraries = [];
- 
+// Fetches libraries once. Falls back to LIBRARY_LOCATIONS if the Sheet
+// doesn't have its own "Libraries" tab (which is the normal setup for now).
+async function fetchLibraries() {
   try {
     if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
       const res = await fetch(`${APPS_SCRIPT_URL}?type=libraries`);
-      libraries = await res.json();
+      const libraries = await res.json();
+      if (libraries.length) return libraries;
     }
   } catch (err) {
-    console.error("Could not load library pins:", err);
+    console.error("Could not load libraries:", err);
   }
+  return LIBRARY_LOCATIONS;
+}
  
-  if (!libraries.length) {
-    libraries = LIBRARY_LOCATIONS;
+// Fetches every book submission from the Sheet.
+async function fetchSubmissions() {
+  try {
+    if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
+      const res = await fetch(`${APPS_SCRIPT_URL}?type=submissions`);
+      return await res.json();
+    }
+  } catch (err) {
+    console.error("Could not load submissions:", err);
   }
+  return [];
+}
+ 
+// Loads submissions once, then uses them for both the map pin popups
+// (what's actually been found at each library) and the feed below it.
+async function loadMapData() {
+  const [libraries, submissions] = await Promise.all([fetchLibraries(), fetchSubmissions()]);
  
   libraries.forEach((lib) => {
     L.marker([lib.lat, lib.lng], { icon: bookPinIcon() })
       .addTo(frMap)
-      .bindPopup(`<strong>${lib.location}</strong>${lib.name !== lib.location && lib.name !== "Little Free Library" ? lib.name + " — " : ""}${lib.area}`);
+      .bindPopup(buildPopupContent(lib, submissions));
   });
+ 
+  renderFeed(submissions);
 }
  
-// EDIT: Replace this with a real fetch to the Apps Script "Submissions" endpoint
-async function loadFeed() {
-  const feedEl = document.getElementById("fr-feed");
-  let submissions = [];
+// Builds what shows up when someone clicks a pin: the library's name/street,
+// plus the actual books people have logged there so far.
+function buildPopupContent(lib, submissions) {
+  const entries = submissions.filter((s) => s.libraryId === lib.id);
  
-  try {
-    if (APPS_SCRIPT_URL && !APPS_SCRIPT_URL.startsWith("PASTE_")) {
-      const res = await fetch(`${APPS_SCRIPT_URL}?type=submissions`);
-      submissions = await res.json();
-    }
-  } catch (err) {
-    console.error("Could not load feed:", err);
+  const subtitle = lib.name !== lib.location && lib.name !== "Little Free Library"
+    ? `${escapeHtml(lib.name)} — ${escapeHtml(lib.area)}`
+    : escapeHtml(lib.area);
+ 
+  let html = `<strong>${escapeHtml(lib.location)}</strong>${subtitle}`;
+ 
+  if (!entries.length) {
+    html += `<div class="fr-popup-empty">Nothing logged here yet, be the first!</div>`;
+    return html;
   }
+ 
+  const recent = entries.slice().reverse().slice(0, 4);
+  html += `<div class="fr-popup-books">`;
+  recent.forEach((e) => {
+    html += `<div class="fr-popup-book">📖 ${escapeHtml(e.book)}${e.displayName ? " — " + escapeHtml(e.displayName) : ""}</div>`;
+  });
+  if (entries.length > recent.length) {
+    html += `<div class="fr-popup-more">+ ${entries.length - recent.length} more</div>`;
+  }
+  html += `</div>`;
+ 
+  return html;
+}
+ 
+// Renders the "recent finds" feed below the map, using the same submissions
+// data that was already fetched for the pins.
+function renderFeed(submissions) {
+  const feedEl = document.getElementById("fr-feed");
  
   if (!submissions.length) {
     feedEl.innerHTML = `<p class="hub-empty">Be the first to add a find. The feed fills in as neighbors submit.</p>`;
@@ -300,6 +335,9 @@ async function loadFeed() {
  
 function escapeHtml(str) {
   const div = document.createElement("div");
+  div.textContent = str || "";
+  return div.innerHTML;
+}ement("div");
   div.textContent = str || "";
   return div.innerHTML;
 }
