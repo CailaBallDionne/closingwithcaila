@@ -1,9 +1,10 @@
 ---
 layout: post
+---
 title: "Multifamily Financing Basics: DSCR Loans, Conventional Loans, and House Hacking Explained"
-date: 2026-08-01
-excerpt: "A plain-English breakdown of FHA house hacking, conventional financing, and DSCR loans for 2-4 unit multifamily, plus what changes once a property hits five units."
-category: investment
+date: 2026-08-01T00:00:00.000Z
+category: Buyers
+excerpt: A plain-English breakdown of FHA house hacking, conventional financing, and DSCR loans for 2-4 unit multifamily, plus what changes once a property hits five units.
 ---
 
 **Financing a multifamily property depends almost entirely on two things: how many units it has, and whether you plan to live in one of them. Properties with two to four units can qualify for residential-style loans, including FHA with as little as 3.5% down if you're owner-occupying. Once a building hits five units, it's treated as commercial real estate and gets underwritten on the property's income, not yours.**
