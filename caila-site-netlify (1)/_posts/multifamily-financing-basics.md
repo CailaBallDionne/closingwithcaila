@@ -1,5 +1,4 @@
----
-layout: post
+
 ---
 title: "Multifamily Financing Basics: DSCR Loans, Conventional Loans, and House Hacking Explained"
 date: 2026-08-01T00:00:00.000Z
