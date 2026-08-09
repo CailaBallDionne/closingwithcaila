@@ -5,7 +5,7 @@ category: Market
 excerpt: A full year-over-year look at the La Crescenta housing market, with La Cañada Flintridge and the local rental market as points of comparison. Inventory, days on market, price trends, and what it actually means if you're buying or selling.
 ---
 
-Okay, get comfy. We're about to go deep into the La Crescenta housing market. If you love data as much as I do, this is your beach read. (If you prefer the pretty photos side of real estate, I gotchu.)
+Okay, get comfy. We're about to go deep into the La Crescenta housing market. If you love data as much as I do, this is your beach read. (If you prefer the pretty photos side of real estate, [I gotchu](https://caila.lametrohomefinder.com/).)
 
 I pulled a full twelve months of MLS data, August 2025 through July 2026, for La Crescenta (which for MLS purposes bundles in Glendale's Montrose and La Crescenta-Montrose annex areas), and lined it up against the same twelve months a year earlier. Then I did the same for La Cañada Flintridge, because the two markets get compared constantly. Then, because I got curious and you should always follow the data where it leads, I pulled the rental market too. Single family homes, condos, leases, both cities. This thorough look is going to help those who are seriously considering buying or selling here and want more than a "the market is hot" Instagram caption.
 
