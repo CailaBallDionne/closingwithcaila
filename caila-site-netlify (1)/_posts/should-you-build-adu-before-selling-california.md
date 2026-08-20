@@ -55,7 +55,7 @@ A permitted, well-built ADU can add meaningful value to a property, particularly
 
 But I would be careful about assuming that every dollar you spend comes back to you when you sell.
 
-An ADU is not like putting $100,000 into the house and automatically getting $100,000 added to the sale price (and even if it was, it would have to really open up your market audience to a totally new segment to make that zero sum gain worth the headache).
+An ADU is not like putting $100,000 into the house and automatically getting $100,000 added to the sale price (and even if it was, it would have to really open up your market audience to a totally new segment to make that break-even move worth the headache).
 
 The value depends on the property, the neighborhood, the size and quality of the ADU, and what buyers in that particular market are willing to pay.
 
