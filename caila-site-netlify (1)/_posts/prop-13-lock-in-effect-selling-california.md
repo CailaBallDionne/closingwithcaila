@@ -11,19 +11,19 @@ That is not you being irrational. That is Prop 13 working exactly as designed.
 
 ## Why your tax bill looks nothing like your neighbor's
 
-Under Prop 13, your property is taxed at roughly 1% of its assessed value, and that assessed value is locked in at whatever your home was worth when you bought it (or when it was last reassessed). It can only go up by a maximum of 2% a year after that, no matter what happens to actual market values ([Santa Clara County Assessor](https://asr.santaclaracounty.gov/faq/understanding-proposition-13)).
+Under Prop 13, your property is taxed at roughly 1% of its assessed value, and that assessed value is locked in at whatever your home was worth when you bought it (or when it was last reassessed). It can only go up by a maximum of 2% a year after that, no matter what happens to actual market values.
 
 So if you bought your house decades ago, your assessed value has been quietly creeping up 2% a year while the actual market value has done whatever the market has done, which in the Foothills has usually meant a lot more than 2% a year.
 
-Here is what that looks like in real numbers. A home bought in Los Angeles for $200,000 back in 1990 would owe under $5,000 a year in property tax today. A comparable home selling for around $1.2 million right now would owe roughly $12,000 a year, more than double, purely because of when the tax basis was set ([Redfin](https://www.redfin.com/news/homeowner-tenure-california-longest/)).
+Here is what that looks like in real numbers. A home bought in Los Angeles for $200,000 back in 1990 would owe under $5,000 a year in property tax today. A comparable home selling for around $1.2 million right now would owe roughly $12,000 a year, more than double, purely because of when the tax basis was set.
 
-That gap is why Los Angeles has the longest average homeowner tenure of any major metro in the country, 19.4 years, compared to 11.8 years nationally ([Redfin](https://www.redfin.com/news/homeowner-tenure-california-longest/)). Economists have a name for this: the Prop 13 lock-in effect. Research on it found that it added an average of two or more years to how long people stay in their homes in the LA area specifically, and even longer in the Bay Area ([NBER](https://www.nber.org/digest/apr05/lock-effect-californias-proposition-13)). People are not staying because they love their kitchen. They are staying because moving is expensive in a way that has nothing to do with the sale price.
+That gap is why Los Angeles has the longest average homeowner tenure of any major metro in the country, 19.4 years, compared to 11.8 years nationally. Economists have a name for this: the Prop 13 lock-in effect. People are not staying because they love their kitchen. They are staying because moving is expensive in a way that has nothing to do with the sale price.
 
 ## What actually triggers a reassessment
 
-Your assessed value stays locked in until one of two things happens: the property changes ownership, or you build new construction on it. A sale resets the tax basis to full market value for whoever buys it next ([Santa Clara County Assessor](https://asr.santaclaracounty.gov/faq/understanding-proposition-13)). If you are curious how that plays out specifically when adding a unit rather than selling, I covered the new-construction side of this separately in [Should You Build an ADU Before You Sell](https://closingwithcaila.com/blog/should-you-build-adu-before-selling-california).
+Your assessed value stays locked in until one of two things happens: the property changes ownership, or you build new construction on it. A sale resets the tax basis to full market value for whoever buys it next. If you are curious how that plays out specifically when adding a unit rather than selling, I covered the new-construction side of this separately in [Should You Build an ADU Before You Sell](https://closingwithcaila.com/blog/should-you-build-adu-before-selling-california).
 
-This is the part that scares people off. It is not that your new home would be taxed unfairly. It is that you would be trading a decades-old tax basis for a brand new one, all at once, and the jump can be genuinely large.
+This is the part that scares people off. It is not that your new home would be taxed unfairly. It is that you would be trading a decades-old tax basis for a brand new one, all at once, and the jump can be very large.
 
 ## The part most people do not know: Prop 19 can let you keep your basis
 
@@ -33,13 +33,13 @@ If you are 55 or older, severely and permanently disabled, or a victim of a wild
 
 If the new home costs the same or less than what you sold your old one for, your tax basis transfers over essentially as is. If the new home costs more, you do not lose the benefit entirely, you just add the difference on top. Here is what that looks like:
 
-Say your old home has a factored base year value of $300,000 and you sell it for $500,000. You buy a replacement home for $650,000. Your new assessed value is $300,000 plus the $150,000 difference between what you paid and what you sold for, landing at $450,000, not the full $650,000 ([Lawvex](https://lawvex.com/prop-19-california/)). That is a real, ongoing difference in your annual tax bill, not a one-time discount.
+Say your old home has a factored base year value of $300,000 and you sell it for $500,000. You buy a replacement home for $650,000. Your new assessed value is $300,000 plus the $150,000 difference between what you paid and what you sold for, landing at $450,000, not the full $650,000. That is a real, ongoing difference in your annual tax bill, not a one-time discount.
 
 ## If you do not qualify for the Prop 19 transfer
 
-If you are under 55, not disabled, and not a disaster victim, the honest answer is that a sale will reset your tax basis to current market value, full stop. That is simply the tradeoff.
+If you are under 55, not disabled, and not a disaster victim, a sale will reset your tax basis to current market value, full stop. That is simply the tradeoff.
 
-What I would push back on is the assumption that this automatically makes moving a bad decision. A higher tax basis on a new home also means you are building equity against today's value, not a decades-old one, and if you are moving up in a market like ours, that is often the point. It is worth running the actual numbers on your specific situation rather than assuming the tax jump makes the math not work, because sometimes it does and sometimes it does not.
+What I would push back on is the assumption that this automatically makes moving a bad decision. A higher tax basis on a new home also means you are building equity against today's value, not a decades-old one, and if you are moving up in a [market like ours](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026), that is often the point. It is worth running the actual numbers on your specific situation rather than assuming the tax jump makes the math not work, because sometimes it does and sometimes it does not.
 
 ## Bottom line
 
