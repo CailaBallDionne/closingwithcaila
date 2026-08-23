@@ -11,7 +11,7 @@ Basically: real estate is your biggest investment. I'm going to think about all 
 
 And part of that math-y stuff? Knowing the ins and outs of Prop 19 so I can help you understand the tax implications of property transfers.
 
-If you are fortunate enough to have a family home inheritance in your future, you may have grown up assuming the home would just pass to you someday at your parents' old tax bill. Welp, I have some news. While that assumption was true for decades, it has not been true since February 2021.
+If you are fortunate enough to have a family home inheritance in your future, you may have grown up assuming the home would just pass to you someday at your parents' old [Prop 13 tax basis](https://closingwithcaila.com/blog/prop-13-lock-in-effect-selling-california). Welp, I have some news. While that assumption was true for decades, it has not been true since February 2021.
 
 Prop 19 rewrote the rules for transferring property between parents and children in California, and it did it in a way that catches a lot of families off guard, usually at the worst possible time, right when they're also dealing with a parent's estate.
 
