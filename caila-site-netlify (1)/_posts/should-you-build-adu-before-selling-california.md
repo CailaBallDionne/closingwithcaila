@@ -73,7 +73,7 @@ This is another question I hear from homeowners who are considering an ADU, espe
 
 The good news is that building an ADU does not generally mean the entire property gets reassessed for property tax purposes.
 
-Under Prop 13, your existing home keeps its existing assessed value and the associated annual limitations on increases. The newly constructed ADU is assessed separately.
+Under [Prop 13](https://closingwithcaila.com/blog/prop-13-lock-in-effect-selling-california), your existing home keeps its existing assessed value and the associated annual limitations on increases. The newly constructed ADU is assessed separately.
 
 So, as a very rough example, if the assessor determines that your new ADU has a value of $300,000, you could be looking at roughly $3,000 per year in additional property taxes, depending on the final assessed value and local tax rate.
 
