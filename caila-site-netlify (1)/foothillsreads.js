@@ -208,8 +208,8 @@ function initMapIfNeeded() {
     scrollWheelZoom: false
   }).setView([34.2331, -118.2445], 13); // La Crescenta / La Cañada area
 
-  L.tileLayer("https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png", {
-    attribution: '&copy; OpenStreetMap contributors &copy; CARTO',
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: '&copy; OpenStreetMap contributors',
     maxZoom: 19
   }).addTo(frMap);
 
