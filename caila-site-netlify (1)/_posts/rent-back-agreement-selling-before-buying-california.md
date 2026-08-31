@@ -2,7 +2,7 @@
 title: "Selling Before You Buy: How a Rent-Back Agreement Buys You Time Without Taking on Debt"
 date: 2026-08-31T00:00:00.000Z
 category: Sellers
-excerpt: If buying before you sell means borrowing against equity you haven't cashed out yet, selling before you buy has the opposite problem: what do you do between closing on your old house and finding your next one? Here's how a rent-back agreement lets you sell now, keep the keys a little longer, and skip the HELOC or bridge loan entirely, plus the California-specific rules that determine how long you actually get.
+excerpt: "If buying before you sell means borrowing against equity you haven't cashed out yet, selling before you buy has the opposite problem: what do you do between closing on your old house and finding your next one? Here's how a rent-back agreement lets you sell now, keep the keys a little longer, and skip the HELOC or bridge loan entirely, plus the California-specific rules that determine how long you actually get."
 ---
 
 Recently, I wrote about [buying before you sell](https://closingwithcaila.com/blog/buying-before-you-sell-down-payment-options), for move-up buyers whose down payment is trapped inside a house they haven't sold yet. And while I wholeheartedly stand by this as the strategy that will get you the most money for your home, I understand it's not for everyone. Maybe you don't want a HELOC or to carry two mortgages...but you also don't want to move your family (and maybe pets) in with family or friends while you're looking for your next place after you sell. You just need a little time in your house after it sells.
