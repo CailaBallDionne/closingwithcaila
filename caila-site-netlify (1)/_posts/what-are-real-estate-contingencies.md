@@ -1,6 +1,7 @@
 ---
 title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
 date: 2026-06-16T00:00:00.000Z
+updated: 2026-09-11T12:00:00.000Z
 category: Buyers
 excerpt: Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California.
 ---
@@ -74,7 +75,7 @@ None of that automatically makes waiving a bad idea. If you have done a pre-insp
 
 If you are selling, contingencies are one of the biggest factors in deciding which offer to actually accept.
 
-An offer at a slightly higher price with a sale-of-home contingency and a thin financing letter can carry more risk than a slightly lower offer that is clean: strong proof of funds, a solid pre-approval, and contingencies that are reasonable rather than open-ended. Evaluating offers is partly about reading between the lines on how likely each one is to actually close, not just how good it looks on paper.
+An offer at a slightly higher price with a sale-of-home contingency and a thin financing letter can carry more risk than a slightly lower offer that is clean: strong proof of funds, a [solid pre-approval](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification), and contingencies that are reasonable rather than open-ended. Evaluating offers is partly about reading between the lines on how likely each one is to actually close, not just how good it looks on paper.
 
 This is honestly where my marketing background ends up mattering as much as my real estate license. Comparing offers is part negotiation, part translation. My job is turning a stack of paperwork into a clear picture you can actually make a decision from.
 
