@@ -1,6 +1,7 @@
 ---
 title: "La Crescenta Real Estate Market Update: What Changed (and What Didn't) From July 2025 to July 2026"
 date: 2026-08-09T00:00:00.000Z
+updated: 2026-09-11T12:00:00.000Z
 category: Market
 excerpt: A full year-over-year look at the La Crescenta housing market, with La Cañada Flintridge and the local rental market as points of comparison. Inventory, days on market, price trends, and what it actually means if you're buying or selling.
 ---
@@ -73,7 +74,7 @@ To paraphrase the daddest dad joke my dad used to say: "My name is Caila Ball, n
 
 If single family homes in the $1 to $2 million range feel out of reach, take a real look at condos. That segment saw a genuine inventory bump this year and per-unit prices actually softened somewhat, which is a rare combination in this market right now.
 
-And get pre-approved before you're seriously touring, not after. With two-thirds of single family sales closing inside 30 days, you don't have room to shop for financing mid-negotiation.
+And [get pre-approved](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification) before you're seriously touring, not after. With two-thirds of single family sales closing inside 30 days, you don't have room to shop for financing mid-negotiation.
 
 ## What This Means If You're Selling
 
