@@ -118,12 +118,20 @@ async function loadPost() {
       dateStr = d.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
     }
 
+    // Format updated date, if this post has been revised since it published
+    let updatedStr = '';
+    if (data.updated && data.updated !== data.date) {
+      const u = new Date(data.updated);
+      updatedStr = u.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' });
+    }
+    const updatedMeta = updatedStr ? ` &nbsp;|&nbsp; Updated ${updatedStr}` : '';
+
     // Build post HTML
     const html = `
       <section class="post-hero">
         <p class="eyebrow">${data.category || 'Info Hub'}</p>
         <h1>${data.title || ''}</h1>
-        <p class="post-meta">By Caila Ball-Dionne &nbsp;|&nbsp; ${dateStr}</p>
+        <p class="post-meta">By Caila Ball-Dionne &nbsp;|&nbsp; ${dateStr}${updatedMeta}</p>
       </section>
       <div class="post-body">
         ${marked.parse(content)}
@@ -150,6 +158,7 @@ async function loadPost() {
       "headline": data.title || '',
       "description": data.excerpt || '',
       "datePublished": data.date || '',
+      "dateModified": data.updated || data.date || '',
       "author": {"@id": "https://closingwithcaila.com/author.html#person"},
       "publisher": {"@id": "https://closingwithcaila.com/#agent"},
       "url": window.location.href
