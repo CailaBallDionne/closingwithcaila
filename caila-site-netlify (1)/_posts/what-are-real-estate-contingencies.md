@@ -38,6 +38,8 @@ Your lender requires an appraisal to confirm the home is actually worth what the
 
 Like the inspection period, your contract will specify an exact loan contingency deadline. Ask your agent or lender for the specific number once you are under contract. Once that period passes, or once you waive it, you have largely accepted the risk that if your financing falls apart later for any reason, you could lose your earnest money deposit with no way back. This is one worth thinking through carefully before letting it go.
 
+Getting a real [pre-approval, not just a pre-qualification](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification), before you write an offer is what keeps this contingency more of a formality than a real risk. If your financing is genuinely solid going in, the loan contingency period should confirm what you already know rather than surface a surprise.
+
 ## Title Contingency
 
 **The title contingency protects you if a title search turns up a problem with the property's ownership history, like an unpaid lien, a boundary dispute, or an error in public records.**
