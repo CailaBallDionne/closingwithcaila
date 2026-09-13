@@ -1,6 +1,7 @@
 ---
 title: "Pre-Approval vs. Pre-Qualification: What Actually Gets Your Offer Taken Seriously"
 date: 2026-09-10T12:00:00.000Z
+updated: 2026-09-13T12:00:00.000Z
 category: Buyers
 excerpt: "Pre-qualification and pre-approval get used like they're the same thing, but sellers can tell the difference. Here's what each one actually requires, and why only one of them makes an offer worth taking seriously."
 ---
@@ -33,7 +34,7 @@ This is the part that trips people up, mostly because pre-qualification trained 
 
 None of this is exotic. It's the same paperwork you'll need eventually anyway, you're just handing it over earlier so your offer has teeth when it matters.
 
-One line item worth flagging on its own: if any part of your funds is a gift from family, your lender is going to want a paper trail for that too, typically a signed gift letter confirming it doesn't need to be repaid, plus proof it actually moved from their account to yours. It's common, but it trips up more buyers than you'd expect, enough that it deserves its own full post soon.
+One line item worth flagging on its own: if any part of your funds is a gift from family, your lender is going to want a paper trail for that too, typically a signed gift letter confirming it doesn't need to be repaid, plus proof it actually moved from their account to yours. It's common, but it trips up more buyers than you'd expect, which is why [gift funds now have a full post of their own](https://closingwithcaila.com/blog/down-payment-gift-funds-california) covering the letter, the timing, and the tax side.
 
 ## Why Sellers (and Their Agents) Actually Care
 
