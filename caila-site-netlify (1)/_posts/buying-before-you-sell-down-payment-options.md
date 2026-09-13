@@ -1,11 +1,10 @@
 ---
 title: "Buying Before You Sell: Where Your Down Payment Actually Comes From When Your Equity Is Tied Up"
-date: 2026-08-27T00:00:00.000Z
+date: 2026-08-27T12:00:00.000Z
 updated: 2026-09-13T12:00:00.000Z
 category: Buyers
-excerpt: If most of your money is locked inside the home you already own, a sale-contingent offer probably isn't going to cut it in a competitive market. Here's how a HELOC, a bridge loan, and a Buy Before You Sell program like HomeLight's actually work, what each one costs, and how my own family used one to move from Cypress Park to La Crescenta.
+excerpt: "If most of your money is locked inside the home you already own, a sale-contingent offer probably isn't going to cut it in a competitive market. Here's how a HELOC, a bridge loan, and a Buy Before You Sell program like HomeLight's actually work, what each one costs, and how my own family used one to move from Cypress Park to La Crescenta."
 ---
-
 When my family started looking to move from our first home in Cypress Park to La Crescenta, we ran into the same wall almost every move-up buyer hits eventually: nearly everything we had was sitting inside the house we hadn't sold yet. On paper, we looked like we had plenty of equity to work with. In practice, that equity was locked behind a closing that hadn't happened yet, and we needed a down payment now, not in three months.
 
 If that sounds familiar, you're not doing anything wrong. This is just what happens when your net worth and your cash are two very different things.
