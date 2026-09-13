@@ -1,9 +1,9 @@
 ---
 title: "Prop 19 and Parent-Child Transfers: What Actually Happens to the Property Tax Bill Now"
-date: 2026-07-16T00:00:00.000Z
+date: 2026-07-16T12:00:00.000Z
 updated: 2026-09-13T12:00:00.000Z
 category: Sellers
-excerpt: Prop 19 rewrote the rules for passing a family home from parent to child. Here is what still qualifies, whether a trust or a 1031 exchange into a DST actually helps, and what it means for multigenerational families in La Crescenta and La Cañada Flintridge.
+excerpt: "Prop 19 rewrote the rules for passing a family home from parent to child. Here is what still qualifies, whether a trust or a 1031 exchange into a DST actually helps, and what it means for multigenerational families in La Crescenta and La Cañada Flintridge."
 ---
 
 As much as I love opening doors to gorgeous homes and handing keys to home buyers, my real goal as a real estate advisor is to be your go-to resource for all the more complicated aspects of real estate. Because while the romanticized version of picking a home that just makes you *feel* something is lovely, a real estate purchase is one of the largest components of your long-term wealth building strategy.
@@ -112,7 +112,7 @@ Not directly. A 1031 exchange and Delaware Statutory Trust deal with federal and
 
 Prop 19 didn't just adjust the parent-child transfer rules, it narrowed them to one specific scenario: a child who actually moves in. Everything else, rentals, vacation homes, keeping the place as an investment, gets reassessed at today's value. If your family has a home you're planning to pass down, this is worth a real conversation with your estate attorney or CPA well before it becomes urgent, not after.
 
-If what your family is weighing is help with a down payment rather than handing down the house itself, that's a different and much simpler set of rules, and [it has its own post](https://closingwithcaila.com/blog/down-payment-gift-funds-california). If you're navigating a family property transfer, a sale of an inherited home, or just want to talk through what your options look like, [give me a shout](https://closingwithcaila.com/contact.html). I'm not the one who files your Prop 19 paperwork, but I can help you think through the real estate side of the decision.
+If what your family is weighing is help with a down payment rather than handing down the house itself, that's a different and much simpler set of rules, and [it has its own post](https://closingwithcaila.com/blog/down-payment-gift-funds-california). If you're navigating a family property transfer, a sale of an inherited home, or just want to talk through what your options look like, [give me a shout](https://closingwithcaila.com/contact.html).
 
 <script type="application/ld+json">
 {
