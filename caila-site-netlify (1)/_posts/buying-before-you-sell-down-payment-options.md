@@ -1,7 +1,7 @@
 ---
 title: "Buying Before You Sell: Where Your Down Payment Actually Comes From When Your Equity Is Tied Up"
 date: 2026-08-27T00:00:00.000Z
-updated: 2026-09-11T12:00:00.000Z
+updated: 2026-09-13T12:00:00.000Z
 category: Buyers
 excerpt: If most of your money is locked inside the home you already own, a sale-contingent offer probably isn't going to cut it in a competitive market. Here's how a HELOC, a bridge loan, and a Buy Before You Sell program like HomeLight's actually work, what each one costs, and how my own family used one to move from Cypress Park to La Crescenta.
 ---
@@ -96,7 +96,7 @@ Before you're seriously house hunting with one of these three tools as your plan
 - Have a real conversation about your current home's timeline to sell, since all three of these tools work best when that sale happens reasonably close to plan
 - If a Buy Before You Sell program is on the table, confirm you're working with an agent and lender who are actually part of that program's certified network, and run the numbers on the flat fee versus what a HELOC or bridge loan would cost you
 
-If you're also still getting oriented on how the buying process works more broadly, [these are the questions worth asking any agent](https://closingwithcaila.com/blog/questions-first-time-homebuyers-should-ask-real-estate-agent) before you commit to working together, and [this covers what your agent agreement actually spells out](https://closingwithcaila.com/blog/buyer-broker-representation-agreement-california).
+If you're also still getting oriented on how the buying process works more broadly, [these are the questions worth asking any agent](https://closingwithcaila.com/blog/questions-first-time-homebuyers-should-ask-real-estate-agent) before you commit to working together, and [this covers what your agent agreement actually spells out](https://closingwithcaila.com/blog/buyer-broker-representation-agreement-california). And if part of your down payment is coming from family rather than from equity you already have, [gift money comes with its own set of rules](https://closingwithcaila.com/blog/down-payment-gift-funds-california) worth knowing before it moves.
 
 ## Frequently Asked Questions
 
