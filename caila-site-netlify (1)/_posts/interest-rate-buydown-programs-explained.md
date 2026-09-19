@@ -1,8 +1,9 @@
 ---
 title: "Interest Rate Buydowns Explained: 3-2-1, 2-1, and Permanent Options for Today's Market"
 date: 2026-07-06T00:00:00.000Z
+updated: 2026-09-19T12:00:00.000Z
 category: Buyers
-excerpt: Rates have buyers hesitant and sellers nervous. Here's how 3-2-1, 2-1, and permanent buydowns actually work, who typically pays, and how the right negotiation can turn a tough rate environment into an opportunity, especially in the pockets of LA where sellers have room to negotiate.
+excerpt: "Rates have buyers hesitant and sellers nervous. Here's how 3-2-1, 2-1, and permanent buydowns actually work, who typically pays, and how the right negotiation can turn a tough rate environment into an opportunity, especially in the pockets of LA where sellers have room to negotiate."
 ---
 
 Mortgage rates are still high enough that buyers are hesitating and sellers are wondering where all the offers went. But here's what doesn't get talked about nearly enough: today's interest rate isn't always the payment you have to live with, at least not right away.
@@ -112,7 +113,7 @@ Buydowns don't show up automatically. They get negotiated. A seller isn't requir
 
 That's the value of having an agent who's negotiating for you instead of just opening doors. My background is 20-plus years in marketing before real estate, which means I've spent my career translating what one side wants into terms the other side will actually say yes to. A buydown request framed well can feel like a win for a nervous seller too, since it can mean a faster close without cutting their asking price.
 
-If you're already reading up on [what your agent's agreement actually covers](/blog/buyer-broker-representation-agreement-california) or [what to ask before hiring one](/blog/questions-first-time-homebuyers-should-ask-real-estate-agent), this is a good real-world example of the kind of thing to ask about directly: "Will you negotiate a rate buydown into my offer if it makes sense for my situation?"
+If you're already reading up on [what your agent's agreement actually covers](https://closingwithcaila.com/blog/buyer-broker-representation-agreement-california) or [what to ask before hiring one](https://closingwithcaila.com/blog/questions-first-time-homebuyers-should-ask-real-estate-agent), this is a good real-world example of the kind of thing to ask about directly: "Will you negotiate a rate buydown into my offer if it makes sense for my situation?"
 
 ## Frequently Asked Questions
 
@@ -140,7 +141,9 @@ Remaining funds in a seller-funded buydown are typically applied as a credit to 
 
 Rates are still going to be part of the conversation for a while, but that doesn't mean waiting out a rate drop or accepting today's payment as-is are your only two options. Buydowns, whether it's a 3-2-1, a 2-1, or a permanent points-based reduction, are a real, negotiable tool, especially in the parts of LA where sellers have room to work with buyers instead of just fielding multiple offers.
 
-The difference between knowing this exists and actually getting one is almost always the negotiation. If you're house hunting and want someone actually asking for this on your behalf, [give me a shout](/contact.html). Let's get creative, and get you into a house.
+There's one more rate lever worth knowing about, though this one depends on the house rather than on the negotiation. If a listing happens to carry an FHA or VA loan written in the low-rate years, [assuming that loan outright](https://closingwithcaila.com/blog/assumable-loans-los-angeles-foothills) can beat any buydown. The hard part is covering the difference between the seller's loan balance and the purchase price, which at Foothills prices is usually what ends the conversation.
+
+The difference between knowing this exists and actually getting one is almost always the negotiation. If you're house hunting and want someone actually asking for this on your behalf, [give me a shout](https://closingwithcaila.com/contact.html). Let's get creative, and get you into a house.
 
 <script type="application/ld+json">
 {
