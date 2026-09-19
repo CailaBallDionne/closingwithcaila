@@ -1,6 +1,7 @@
 ---
 title: "Down Payment Gift Money: Gift Letters, Timing, and the 2026 Tax Limits Nobody Explains"
 date: 2026-09-13T12:00:00.000Z
+updated: 2026-09-19T12:00:00.000Z
 category: Buyers
 excerpt: "Getting help from family with your down payment is more common than most buyers realize, but the paperwork is stricter than they expect. Here is what a gift letter has to say, when the money needs to land in your account, and what the 2026 gift tax numbers actually mean for your parents."
 ---
@@ -143,6 +144,8 @@ I am an agent, not a CPA or a tax attorney. If your family is giving a large gif
 ## The California Wrinkles That Actually Matter
 
 **Our numbers are bigger, so the gifts are bigger.** The 2026 conforming and FHA loan limits in Los Angeles County both sit at $1,249,125, well above the $832,750 national baseline, because we are classified as a high-cost area. That is an accurate reflection of what homes cost here, and it means a 20% down payment in La Crescenta or La Cañada Flintridge can easily be a six-figure gift. Crossing $19,000 is normal here. Plan for the Form 709 conversation rather than trying to structure around it.
+
+**Gift money is often what makes an assumable loan workable.** If you are looking at a home with an [assumable FHA or VA loan](https://closingwithcaila.com/blog/assumable-loans-los-angeles-foothills), the obstacle is almost never the interest rate. It is the gap between the seller's remaining loan balance and the purchase price, which has to be covered with cash, a second lien, or gifted funds. At local prices that gap is routinely six figures. Everything in this post about donor eligibility, sourcing and documentation applies exactly the same way.
 
 **Splitting a gift across two calendar years is a legitimate option, but check the math first.** Families sometimes give part of the gift in December and part in January to stay under the annual exclusion twice. That is fine. Just make sure it does not collide with your actual closing timeline, and remember that the December money will show up in your bank statements as its own deposit needing its own letter.
 
