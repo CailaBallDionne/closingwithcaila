@@ -1,9 +1,9 @@
 ---
 title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-09-11T12:00:00.000Z
+updated: 2026-09-19T12:00:00.000Z
 category: Buyers
-excerpt: Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California.
+excerpt: "Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California."
 ---
 If I had to pick one source of constant joy in my life, it would absolutely be my family. Because A) it's true and B) only someone who wants to be a regular topic in her daughter's future therapy sessions would say the next most accurate answer first...
 
@@ -40,6 +40,8 @@ Your lender requires an appraisal to confirm the home is actually worth what the
 Like the inspection period, your contract will specify an exact loan contingency deadline. Ask your agent or lender for the specific number once you are under contract. Once that period passes, or once you waive it, you have largely accepted the risk that if your financing falls apart later for any reason, you could lose your earnest money deposit with no way back. This is one worth thinking through carefully before letting it go.
 
 Getting a real [pre-approval, not just a pre-qualification](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification), before you write an offer is what keeps this contingency more of a formality than a real risk. If your financing is genuinely solid going in, the loan contingency period should confirm what you already know rather than surface a surprise.
+
+One variation worth flagging: if you are buying by [assuming the seller's existing loan](https://closingwithcaila.com/blog/assumable-loans-los-angeles-foothills), your approval comes from the seller's loan servicer rather than from a lender you picked, and that timeline is not yours to control. That makes writing the assumption approval into the contract as its own contingency more important, not less.
 
 ## Title Contingency
 
@@ -101,9 +103,9 @@ It depends on your risk tolerance, your financing strength, and whether you have
 
 Contingencies are not red tape. They are the parts of your contract built specifically to protect your money, your timeline, and your ability to walk away if something is genuinely wrong, whether you are the one buying or the one selling.
 
-If you have not yet read up on the [Buyer-Broker Representation Agreement](/blog/buyer-broker-representation-agreement-california), that is a good companion to this one since it covers how your agent's role and compensation work before any of these contingencies are even on the table.
+If you have not yet read up on the [Buyer-Broker Representation Agreement](https://closingwithcaila.com/blog/buyer-broker-representation-agreement-california), that is a good companion to this one since it covers how your agent's role and compensation work before any of these contingencies are even on the table.
 
-Have a contract in front of you right now with contingencies you would like walked through line by line? [Give me a shout](/contact.html). No pressure, no pitch, just a real conversation.
+Have a contract in front of you right now with contingencies you would like walked through line by line? [Give me a shout](https://closingwithcaila.com/contact.html). No pressure, no pitch, just a real conversation.
 
 <script type="application/ld+json">
 {
