@@ -1,8 +1,9 @@
 ---
 title: "Why Prop 13 Makes It So Hard to Sell (and What Prop 19 Actually Changes)"
 date: 2026-08-24T00:00:00.000Z
+updated: 2026-09-19T12:00:00.000Z
 category: Sellers
-excerpt: If your property tax bill feels impossibly low compared to what a buyer would pay for your house today, that's Prop 13 at work, and it's the real reason so many longtime owners hesitate to sell. Here's the math, and how Prop 19 can change it.
+excerpt: "If your property tax bill feels impossibly low compared to what a buyer would pay for your house today, that's Prop 13 at work, and it's the real reason so many longtime owners hesitate to sell. Here's the math, and how Prop 19 can change it."
 ---
 
 I have this conversation more than almost any other. A longtime homeowner in La Crescenta or La Cañada tells me they would love to downsize, or move closer to family, or finally get out of a two-story house they can't do stairs in anymore. Then they run the numbers on what a new property tax bill would look like, and the conversation stops.
@@ -18,6 +19,8 @@ So if you bought your house decades ago, your assessed value has been quietly cr
 Here is what that looks like in real numbers. A home bought in Los Angeles for $200,000 back in 1990 would owe under $5,000 a year in property tax today. A comparable home selling for around $1.2 million right now would owe roughly $12,000 a year, more than double, purely because of when the tax basis was set.
 
 That gap is why Los Angeles has the longest average homeowner tenure of any major metro in the country, 19.4 years, compared to 11.8 years nationally. Economists have a name for this: the Prop 13 lock-in effect. People are not staying because they love their kitchen. They are staying because moving is expensive in a way that has nothing to do with the sale price.
+
+And right now homeowners are locked in twice over. The tax basis is one anchor. The mortgage rate is the other, since roughly half of all outstanding mortgages in the country, 49.9% as of the first quarter of 2026, still carry a rate below 4% ([FHFA National Mortgage Database, via Calculated Risk](https://calculatedrisk.substack.com/p/fhfas-q1-national-mortgage-database)). Someone sitting on both a 1990s tax basis and a 3% loan has two separate reasons to stay put. The difference is that the rate anchor can sometimes transfer to a buyer, which is what [an assumable loan](https://closingwithcaila.com/blog/assumable-loans-los-angeles-foothills) is, though it comes with a significant catch of its own.
 
 ## What actually triggers a reassessment
 
