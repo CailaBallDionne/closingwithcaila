@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-09-19T12:00:00.000Z
+updated: 2026-09-28T12:00:00.000Z
 category: Buyers
 excerpt: "Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California."
 ---
@@ -26,6 +26,8 @@ Whether you are buying in Southern California or getting ready to sell, here is 
 This is the one almost everyone keeps, even in a competitive market, and for good reason. Once your offer is accepted, the inspection period kicks in. Your contract will spell out the exact number of days, but it typically falls somewhere in the 10 to 17 day range.
 
 During that window, a licensed inspector goes through the property top to bottom: roof, foundation, electrical, plumbing, the works. Once you have the report, you generally have three options: request repairs or a credit from the seller, cancel the contract and get your deposit back, or decide the issues are minor enough to move forward as-is.
+
+In the Foothills, this window is also when you want [real homeowners insurance quotes](https://closingwithcaila.com/blog/foothills-homeowners-insurance-after-eaton-fire) in hand. Premiums here can vary a lot from one house to the next, and it's much better to learn the number while you still have room to renegotiate or walk away.
 
 ## Appraisal Contingency
 
