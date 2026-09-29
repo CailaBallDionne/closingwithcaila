@@ -1,6 +1,6 @@
 ---
 title: "Homeowners Insurance in the Foothills After the Eaton Fire: What Buyers and Owners Need to Know"
-date: 2026-09-30T12:00:00.000Z
+date: 2026-09-28T12:00:00.000Z
 category: Buyers
 excerpt: "Premiums in La Crescenta, La Cañada Flintridge and the rest of the Foothills have changed dramatically since the Eaton Fire. Here's how the FAIR Plan and a companion policy work together, what the October 2026 FAIR Plan rate increase means, and what to do before you're in escrow."
 ---
