@@ -1,7 +1,7 @@
 ---
 title: "Pre-Approval vs. Pre-Qualification: What Actually Gets Your Offer Taken Seriously"
 date: 2026-09-10T12:00:00.000Z
-updated: 2026-09-13T12:00:00.000Z
+updated: 2026-09-28T12:00:00.000Z
 category: Buyers
 excerpt: "Pre-qualification and pre-approval get used like they're the same thing, but sellers can tell the difference. Here's what each one actually requires, and why only one of them makes an offer worth taking seriously."
 ---
@@ -74,7 +74,7 @@ A lot of buyers avoid shopping lenders because they're worried about stacking up
 4. Get your letter, and actually read it. It should state a specific loan amount, loan type, and expiration date, not just a vague "you're approved."
 5. Understand the difference between your max approved amount and what you're actually comfortable paying every month. Those are rarely the same number, and they shouldn't be.
 
-That last point matters more than people give it credit for. Your lender is telling you what you qualify for on paper. Only you know what that payment actually feels like against your real life, your other goals, and your comfort with risk. This is exactly the kind of thing worth talking through with your agent before you start touring, alongside [what your Buyer-Broker Representation Agreement actually covers](https://closingwithcaila.com/blog/buyer-broker-representation-agreement-california) and [the other questions worth asking before you hire one](https://closingwithcaila.com/blog/questions-first-time-homebuyers-should-ask-real-estate-agent). And if rates are the thing making your approved number feel tight, it's worth knowing [what rate buydowns can actually do to that monthly payment](https://closingwithcaila.com/blog/interest-rate-buydown-programs-explained) before you rule out a price range you could otherwise afford.
+That last point matters more than people give it credit for. Your lender is telling you what you qualify for on paper. Only you know what that payment actually feels like against your real life, your other goals, and your comfort with risk. In the Foothills especially, remember that [homeowners insurance](https://closingwithcaila.com/blog/foothills-homeowners-insurance-after-eaton-fire) is usually part of that monthly number, and it can run a lot higher here than buyers expect.This is exactly the kind of thing worth talking through with your agent before you start touring, alongside [what your Buyer-Broker Representation Agreement actually covers](https://closingwithcaila.com/blog/buyer-broker-representation-agreement-california) and [the other questions worth asking before you hire one](https://closingwithcaila.com/blog/questions-first-time-homebuyers-should-ask-real-estate-agent). And if rates are the thing making your approved number feel tight, it's worth knowing [what rate buydowns can actually do to that monthly payment](https://closingwithcaila.com/blog/interest-rate-buydown-programs-explained) before you rule out a price range you could otherwise afford.
 
 ## Frequently Asked Questions
 
