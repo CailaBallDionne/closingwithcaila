@@ -1,6 +1,7 @@
 ---
 title: Questions to Ask a Real Estate Agent Before You Hire One (Buying or Selling)
 date: 2026-06-16T00:00:00.000Z
+updated: 2026-09-28T12:00:00.000Z
 category: Buyers
 excerpt: Interviewing real estate agents? Here's what to actually ask before you hire one, from a La Crescenta agent who's been on both sides of the table.
 ---
@@ -47,7 +48,7 @@ Multiple offer situations are still very real in the Foothills. Ask what your ag
 
 ### Do you actually know this area?
 
-If you're looking in La Crescenta, La Cañada Flintridge, or anywhere in the Foothills, local knowledge isn't a nice-to-have. Ask what your agent knows about the schools, the commute, the fire zones, the HOA quirks, and all the little things that never make it onto a listing but absolutely affect your life once you're living there.
+If you're looking in La Crescenta, La Cañada Flintridge, or anywhere in the Foothills, local knowledge isn't a nice-to-have. Ask what your agent knows about the schools, the commute, the fire zones (and what they mean for [insurance costs](https://closingwithcaila.com/blog/foothills-homeowners-insurance-after-eaton-fire) right now), the HOA quirks,
 
 ### What happens after we close?
 
