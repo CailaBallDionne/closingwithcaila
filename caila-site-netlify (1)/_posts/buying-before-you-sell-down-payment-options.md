@@ -1,7 +1,7 @@
 ---
 title: "Buying Before You Sell: Where Your Down Payment Actually Comes From When Your Equity Is Tied Up"
 date: 2026-08-27T12:00:00.000Z
-updated: 2026-09-13T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Buyers
 excerpt: "If most of your money is locked inside the home you already own, a sale-contingent offer probably isn't going to cut it in a competitive market. Here's how a HELOC, a bridge loan, and a Buy Before You Sell program like HomeLight's actually work, what each one costs, and how my own family used one to move from Cypress Park to La Crescenta."
 ---
@@ -25,7 +25,7 @@ Each of those has a real tradeoff. Let's talk about why the second one, the cont
 
 A sale contingency means your purchase depends on successfully selling your current home first. I've written before about [how this contingency works mechanically](https://closingwithcaila.com/blog/what-are-real-estate-contingencies), including the kick-out clause that lets a seller keep marketing their home and accept a better offer if one comes along while you're still trying to sell yours.
 
-Here's the honest version for anyone house hunting in La Crescenta, La Cañada Flintridge, or the rest of the Foothills right now: sellers can and do simply pass on offers with a sale contingency attached when they have other options, and in [this market, they usually do](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026). Months of supply here tightened to around two months over the past year, well into seller-favorable territory, and two-thirds of single family home sales closed within 30 days of hitting the market. When a listing is fielding multiple offers in its first weekend, a seller has zero incentive to accept a deal that depends on your house selling too, when there's a [clean, financing-ready offer](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification) sitting right next to it.
+Here's the honest version for anyone house hunting in La Crescenta, La Cañada Flintridge, or the rest of the Foothills right now: sellers can and do simply pass on offers with a sale contingency attached when they have other options, and in [this market, they usually do](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026). Months of supply here sits at three months, still seller-favorable territory, and two-thirds of single family home sales closed within 30 days of hitting the market. When a listing is fielding multiple offers in its first weekend, a seller has zero incentive to accept a deal that depends on your house selling too, when there's a [clean, financing-ready offer](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification) sitting right next to it.
 
 Listen: a sale-contingent offer is the option that sounds the most obvious and the least risky on paper: you sell, then you buy, nothing has to be borrowed. In a slower market, or with a motivated seller who isn't fielding other offers, it can work. In the Foothills right now, leaning on it as your plan is more likely to cost you the house than protect you financially. If this is truly your only path forward, it changes how we structure your search and your offers, and it's a conversation worth having with your agent upfront rather than after you've lost two houses to cleaner offers.
 
