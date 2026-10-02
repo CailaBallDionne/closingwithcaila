@@ -1,11 +1,14 @@
 ---
 title: "La Crescenta Real Estate Market Update: What Changed (and What Didn't) From August 2025 to August 2026"
 date: 2026-09-08T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Market
 excerpt: "A full year-over-year look at the La Crescenta housing market for August, with La Cañada Flintridge and the local rental market as points of comparison. Inventory, days on market, price trends, and a late-summer plot twist."
 ---
 
 One month of cooler numbers isn't a trend, but it's worth understanding why it happened. If you read [July's market analysis](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026), welcome back. If you didn't, here's what you're in for (numbers, so many numbers): I pull a full twelve months of MLS data for La Crescenta, which for MLS purposes bundles in Glendale's Montrose and La Crescenta-Montrose annex areas, compare it to the same twelve months a year earlier, then do the same for La Cañada Flintridge and the local rental market. Perhaps it's not [the most exciting page turner you'll find on my site](https://closingwithcaila.com/foothillsreads), but since we're talking about your biggest investment here, we're embracing data-driven decisions.
+
+*Looking for the most current numbers? I now cover La Crescenta and La Cañada Flintridge as two separate standalone monthly deep dives, [find the latest ones here](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026) and [here](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-september-2026).*
 
 **La Crescenta's single family market kept its trailing-year numbers essentially unchanged from last month (median still around $1.4 million, still moving fast), but the August-to-August comparison shows the first real cooling signal of the year: closed sales dipped, pending sales went flat, and months of supply loosened for the first time since spring.**
 
