@@ -1,6 +1,7 @@
 ---
 title: "Should You Build an ADU Before You Sell? Cost, Value, and Timing Explained"
 date: 2026-08-19T00:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Sellers
 excerpt: Building an ADU before you sell can sound like an easy way to add value. It's not quite that simple. Here's the real math on cost, value, timing, and what to do if yours isn't permitted yet.
 ---
@@ -133,7 +134,7 @@ Sorry, another no universal correct answer situation. So I've got an annoying "m
 
 If you have a large lot, a reasonable construction budget, plenty of time, and a property where buyers are likely to see real value in an ADU, it can be a smart investment.
 
-If you are trying to sell in the next couple of months, I would probably take a different approach.
+If you are trying to sell in the next couple of months, I would probably take a different approach, especially with [where the La Crescenta and La Cañada market stand right now](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026).
 
 Instead of spending hundreds of thousands of dollars and hoping the market gives you that money back, we can look at the property's existing ADU potential and figure out how to communicate that opportunity to buyers.
 
