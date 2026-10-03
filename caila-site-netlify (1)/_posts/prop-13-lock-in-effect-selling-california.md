@@ -1,7 +1,7 @@
 ---
 title: "Why Prop 13 Makes It So Hard to Sell (and What Prop 19 Actually Changes)"
 date: 2026-08-24T00:00:00.000Z
-updated: 2026-09-19T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Sellers
 excerpt: "If your property tax bill feels impossibly low compared to what a buyer would pay for your house today, that's Prop 13 at work, and it's the real reason so many longtime owners hesitate to sell. Here's the math, and how Prop 19 can change it."
 ---
@@ -42,7 +42,7 @@ Say your old home has a factored base year value of $300,000 and you sell it for
 
 If you are under 55, not disabled, and not a disaster victim, a sale will reset your tax basis to current market value, full stop. That is simply the tradeoff.
 
-What I would push back on is the assumption that this automatically makes moving a bad decision. A higher tax basis on a new home also means you are building equity against today's value, not a decades-old one, and if you are moving up in a [market like ours](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026), that is often the point. It is worth running the actual numbers on your specific situation rather than assuming the tax jump makes the math not work, because sometimes it does and sometimes it does not.
+What I would push back on is the assumption that this automatically makes moving a bad decision. A higher tax basis on a new home also means you are building equity against today's value, not a decades-old one, and if you are moving up in a [market like ours](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026), that is often the point. It is worth running the actual numbers on your specific situation rather than assuming the tax jump makes the math not work, because sometimes it does and sometimes it does not.
 
 ## Bottom line
 
