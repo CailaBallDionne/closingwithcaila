@@ -47,6 +47,8 @@ Two months of cooling doesn't mean you should wait for a discount. Months of sup
 
 Condos are still the more interesting opportunity by a wide margin. More inventory than a year ago, prices holding steady, and days on market that are reasonable.
 
+Two practical things worth doing before you're seriously touring: get [actually pre-approved, not just pre-qualified](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification), and budget for [what homeowners insurance costs here now](https://closingwithcaila.com/blog/foothills-homeowners-insurance-after-eaton-fire), since it's a bigger line item than it used to be.
+
 ## What This Means If You're Selling
 
 Pricing discipline matters more now than it did in the spring. Two straight months of softer demand means an overpriced listing has less margin for error than it did when every metric was pointing up. Price it accurately and the two-thirds-in-30-days pattern still applies to you. Overshoot and you're now competing in a market with more patience on the buyer side than it had a few months ago.
