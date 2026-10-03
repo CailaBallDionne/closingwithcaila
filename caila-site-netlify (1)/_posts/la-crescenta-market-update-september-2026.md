@@ -1,6 +1,6 @@
 ---
 title: "La Crescenta Real Estate Market Update: What Changed (and What Didn't) From September 2025 to September 2026"
-date: 2026-10-08T12:00:00.000Z
+date: 2026-10-02T12:00:00.000Z
 category: Market
 excerpt: "A full year-over-year look at the La Crescenta housing market for September, covering single family homes, the condo segment, and the local rental market, plus a second straight month of cooling."
 ---
