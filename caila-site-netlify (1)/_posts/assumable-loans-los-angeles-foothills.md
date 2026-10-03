@@ -1,6 +1,7 @@
 ---
 title: "Assumable Loans in Los Angeles: How Taking Over a Seller's 3% Rate Actually Works"
 date: 2026-09-18T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Buyers
 excerpt: "Assuming a seller's low-rate mortgage sounds like the obvious workaround to today's rates. Here's how assumptions actually work on FHA, VA and USDA loans, why the equity gap makes them hard in the Foothills, and the specific pockets of LA where the math pencils out."
 ---
@@ -49,7 +50,7 @@ That is a conforming-loan-sized pile of money standing between you and that 3.25
 
 This is why assumptions are structurally harder here than almost anywhere else in the country. The median sale price in [La Crescenta-Montrose](https://www.redfin.com/city/23645/CA/La-Crescenta-Montrose/housing-market) was $1.44 million over the three months ending July 2026, and [La Cañada Flintridge](https://www.redfin.com/city/9895/CA/La-Caada-Flintridge/housing-market) was $2.6 million, per Redfin. Appreciation that has been generous to Foothills sellers is exactly what inflates the gap for anyone trying to assume. The better the neighborhood has done, the worse the assumption math gets.
 
-For a fuller picture of where local pricing sits, the [La Crescenta market update](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026) has the recent numbers.
+For a fuller picture of where local pricing sits, the [[La Crescenta market update](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026) has the recent numbers.
 
 ## How Buyers Actually Bridge the Gap
 
