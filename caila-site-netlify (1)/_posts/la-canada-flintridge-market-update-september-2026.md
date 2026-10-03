@@ -41,6 +41,8 @@ Rentals aren't my focus, but they're a useful read on underlying demand. In La C
 
 September's pullback, especially in pending sales, is the clearest sign yet that competition here has eased from where it stood earlier in the year. Months of supply at four is close to a balanced market rather than a strongly seller-favored one. That said, the trailing-year price data shows no softening, median and average prices are both up slightly from last month, so don't read this as a discount window. It's more room to negotiate and less pressure to rush, not a price drop.
 
+Two practical things worth doing before you're seriously touring: get [actually pre-approved, not just pre-qualified](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification), and budget for [what homeowners insurance costs here now](https://closingwithcaila.com/blog/foothills-homeowners-insurance-after-eaton-fire), since it's a bigger line item than it used to be.
+
 ## What This Means If You're Selling
 
 A sharper pullback in pending sales means fewer buyers actively writing offers right now than a year ago, and with months of supply creeping toward 4, pricing accuracy matters more than it did in the spring. The encouraging counterpoint: homes that are priced well are still selling fast, the trailing-year average days to sell actually improved this month. The speed gap between well-priced and overpriced listings is likely to widen from here.
