@@ -1,6 +1,6 @@
 ---
 title: "La Cañada Flintridge Real Estate Market Update: What Changed (and What Didn't) From September 2025 to September 2026"
-date: 2026-10-08T12:00:00.000Z
+date: 2026-10-02T12:00:00.000Z
 category: Market
 excerpt: "A full year-over-year look at the La Cañada Flintridge housing market for September, covering single family homes, the small condo segment, and the local rental market."
 ---
