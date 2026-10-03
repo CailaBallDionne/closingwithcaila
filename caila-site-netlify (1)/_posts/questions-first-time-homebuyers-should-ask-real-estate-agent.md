@@ -1,7 +1,7 @@
 ---
 title: Questions to Ask a Real Estate Agent Before You Hire One (Buying or Selling)
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-09-28T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Buyers
 excerpt: Interviewing real estate agents? Here's what to actually ask before you hire one, from a La Crescenta agent who's been on both sides of the table.
 ---
@@ -44,7 +44,7 @@ If an agent is newer to the business, ask what they're bringing with them. Somet
 
 ### How do you help buyers compete in this market?
 
-Multiple offer situations are still very real in the Foothills. Ask what your agent's strategy is for getting your offer noticed: how they write it, how they communicate with listing agents, and whether they have relationships with lenders and inspectors that can help things move quickly when it counts.
+Multiple offer situations are still very real in parts of the Foothills, [see where things stand right now](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026). Ask what your agent's strategy is for getting your offer noticed: how they write it, how they communicate with listing agents, and whether they have relationships with lenders and inspectors that can help things move quickly when it counts.
 
 ### Do you actually know this area?
 
