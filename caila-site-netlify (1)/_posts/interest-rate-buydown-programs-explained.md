@@ -1,7 +1,7 @@
 ---
 title: "Interest Rate Buydowns Explained: 3-2-1, 2-1, and Permanent Options for Today's Market"
 date: 2026-07-06T00:00:00.000Z
-updated: 2026-09-19T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Buyers
 excerpt: "Rates have buyers hesitant and sellers nervous. Here's how 3-2-1, 2-1, and permanent buydowns actually work, who typically pays, and how the right negotiation can turn a tough rate environment into an opportunity, especially in the pockets of LA where sellers have room to negotiate."
 ---
@@ -16,7 +16,7 @@ If nobody's walked you through these as actual options, let's fix that.
 
 ## Where This Actually Works Right Now
 
-A quick reality check before we get into the mechanics: in a hyper-competitive market like the Foothills, a seller-funded buydown is going to be a rare bird. When a listing gets multiple offers in the first weekend, sellers don't need to sweeten the deal, buyers are already doing that for them. But La Crescenta and La Cañada Flintridge aren't the whole picture. In slower-moving pockets of LA where homes are sitting longer and sellers are feeling the pressure of carrying two mortgages or an empty listing, this is exactly the kind of concession that gets a deal done. If you're house hunting in a market where inventory is sitting (or eyeing a property that's been on the market for 30 days or more), this should absolutely be part of the conversation with your agent.
+A quick reality check before we get into the mechanics: in a hyper-competitive market like the Foothills, a seller-funded buydown is going to be a rare bird. When a listing gets multiple offers in the first weekend, sellers don't need to sweeten the deal, buyers are already doing that for them. But La Crescenta and La Cañada Flintridge, [where both markets stand right now](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026), aren't the whole picture. In slower-moving pockets of LA where homes are sitting longer and sellers are feeling the pressure of carrying two mortgages or an empty listing, this is exactly the kind of concession that gets a deal done. If you're house hunting in a market where inventory is sitting (or eyeing a property that's been on the market for 30 days or more), this should absolutely be part of the conversation with your agent.
 
 ## Why Buydowns Are Having a Moment Right Now
 
