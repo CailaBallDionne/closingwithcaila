@@ -1,7 +1,7 @@
 ---
 title: "Pre-Approval vs. Pre-Qualification: What Actually Gets Your Offer Taken Seriously"
 date: 2026-09-10T12:00:00.000Z
-updated: 2026-09-28T12:00:00.000Z
+updated: 2026-10-02T12:00:00.000Z
 category: Buyers
 excerpt: "Pre-qualification and pre-approval get used like they're the same thing, but sellers can tell the difference. Here's what each one actually requires, and why only one of them makes an offer worth taking seriously."
 ---
@@ -42,7 +42,7 @@ This isn't agents being precious about paperwork. It's risk management. A seller
 
 It also matters who else is in the room. All-cash buyers made up [26% of primary residence purchases nationally in NAR's 2025 Profile of Home Buyers and Sellers](https://www.nar.realtor/blogs/economists-outlook/top-10-takeaways-from-nars-2025-profile-of-home-buyers-and-sellers), an all-time high. If you're financing, you're already competing against buyers who don't need a lender's blessing at all. A verified pre-approval is how you close that credibility gap, at least on paper. A pre-qualification doesn't do that. It just tells the seller you did some mental math.
 
-I said something close to this in [my July La Crescenta market update](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026): two-thirds of single family home sales here closed within 30 days of hitting the market over the past year. That's not a market where you get to shop for financing mid-negotiation. By the time you've found the house, you need to already be past this step.
+I said something close to this in[my latest La Crescenta market update](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026): two-thirds of single family home sales here closed within 30 days of hitting the market over the past year. That's not a market where you get to shop for financing mid-negotiation. By the time you've found the house, you need to already be past this step.
 
 ## How Long Does Pre-Approval Actually Last?
 
