@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-09-28T12:00:00.000Z
+updated: 2026-10-10T12:00:00.000Z
 category: Buyers
 excerpt: "Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California."
 ---
@@ -65,7 +65,7 @@ If you're weighing whether this type of contingency is right for you in your hom
 
 **If the property is part of a homeowners association, this contingency gives you the right to review the CC&Rs, the HOA's financials, and recent meeting minutes before you are committed.**
 
-It is one of the most skipped contingencies, and one of the more important ones when an HOA is involved. The CC&Rs spell out the rules you are agreeing to live under: rentals, pets, exterior changes, the works. The financials tell you whether the HOA is healthy or sitting on a deferred maintenance problem that could turn into a hefty special assessment. And meeting minutes have a way of surfacing disputes or upcoming projects that never make it onto the listing.
+It is one of the most skipped contingencies, and one of the more important ones when an HOA is involved. The CC&Rs spell out the rules you are agreeing to live under: rentals, pets, exterior changes, the works. The financials tell you whether the HOA is healthy or sitting on a deferred maintenance problem that could turn into a hefty special assessment. And meeting minutes have a way of surfacing disputes or upcoming projects that never make it onto the listing. If you're buying a condo, knowing [how to read the HOA's budget, reserve study, and assessment history](https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide) makes this review window a lot more productive.
 
 ## What Does It Mean to Waive a Contingency?
 
