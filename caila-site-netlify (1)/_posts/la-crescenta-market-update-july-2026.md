@@ -74,7 +74,7 @@ The broader signal here: rental demand in La Crescenta stayed strong and fast-mo
 
 To paraphrase the daddest dad joke my dad used to say: "My name is Caila Ball, not Crystal Ball." So, while I unfortunately can't see the future, I can read the data and make an educated prediction: Don't wait for La Crescenta to get cheaper. Months of supply cutting in half over a year, combined with pending sales up 60-plus percent, tells you buyer competition intensified, not eased, even while price growth stayed relatively modest. That combination, more competition without runaway price growth, is arguably the best window a buyer gets in a market like this. It won't necessarily stay this way.
 
-If single family homes in the $1 to $2 million range feel out of reach, take a real look at condos. That segment saw a genuine inventory bump this year and per-unit prices actually softened somewhat, which is a rare combination in this market right now.
+If single family homes in the $1 to $2 million range feel out of reach, take a real look at condos. That segment saw a genuine inventory bump this year and per-unit prices actually softened somewhat, which is a rare combination in this market right now. Before you write an offer on one, it's worth knowing [what to check in a building's HOA documents](https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide).
 
 And [get pre-approved](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification) before you're seriously touring, not after. With two-thirds of single family sales closing inside 30 days, you don't have room to shop for financing mid-negotiation.
 
