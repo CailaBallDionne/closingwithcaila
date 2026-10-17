@@ -1,6 +1,7 @@
 ---
 title: "Multifamily Financing Basics: DSCR Loans, Conventional Loans, and House Hacking Explained"
 date: 2026-08-01T00:00:00.000Z
+updated: 2026-10-17T12:00:00.000Z
 category: Buyers
 excerpt: A plain-English breakdown of FHA house hacking, conventional financing, and DSCR loans for 2-4 unit multifamily, plus what changes once a property hits five units.
 ---
@@ -34,7 +35,7 @@ A few things to know before you get attached to this plan:
 - **Loan limits:** FHA limits are set by county and adjust yearly. The 2026 national baseline runs roughly $671,200 for a duplex up to just over $1 million for a fourplex, but LA County is a high-cost area, so its 2026 ceilings are considerably higher: $1,599,375 for a duplex, $1,933,200 for a triplex, and $2,402,625 for a fourplex. Your lender pulls the exact number for your specific area.
 - **Mortgage insurance:** Mortgage insurance sticks around for the life of the loan if you put down less than 10%. Most people refinance it away once they hit 20% equity.
 
-This is the classic "house hacking" move: live in one unit, let the tenants cover a meaningful chunk of your mortgage, and build equity in a property that's doing double duty as your home and your first rental portfolio.
+This is the classic "house hacking" move: live in one unit, let the tenants cover a meaningful chunk of your mortgage, and build equity in a property that's doing double duty as your home and your first rental portfolio. Just know that what those tenants can be charged, and how long they get to stay, depends on [the rent control rules that cover the building](https://closingwithcaila.com/blog/rent-control-duplex-buyers-los-angeles-foothills), so check those before you count on the rent.
 
 ## Option 2: Conventional Financing for 2-4 Units
 
