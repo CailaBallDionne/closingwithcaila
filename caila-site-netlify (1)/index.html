@@ -105,6 +105,32 @@
   ]
 }
 </script>
+<style>
+/* Guides strip: swipeable row on phones, normal grid everywhere else */
+.guides-hint { display: none; }
+@media (max-width: 700px) {
+  .guides-grid {
+    display: flex;
+    gap: 1rem;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    margin: 0 -1.5rem;
+    padding: 0 1.5rem 1rem;
+    scroll-padding-left: 1.5rem;
+  }
+  .guides-grid .hub-card { flex: 0 0 82%; scroll-snap-align: start; }
+  .guides-hint {
+    display: block;
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 0.68rem;
+    letter-spacing: 0.2em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+  }
+}
+</style>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
@@ -218,6 +244,68 @@
       <p>I work with <a href="https://www.theborgesrealestateteam.com" target="_blank" rel="noopener" class="inline-link">The Borges Real Estate Team at eXp</a>, which means deep local expertise and a proven support system behind everything I do.</p>
       <!-- EDIT: About button -->
       <a class="btn-ink" href="contact.html">Let's Connect</a>
+    </div>
+  </section>
+
+  <!-- GUIDES -->
+  <section class="hub-grid-section" style="background: var(--cream); border-top: 1px solid var(--border);">
+    <div class="approach-inner">
+      <div class="section-header">
+        <h2>Guides for buyers and sellers</h2>
+        <span>From the Info Hub</span>
+      </div>
+      <div class="hub-grid guides-grid">
+        <article class="hub-card">
+          <span class="hub-tag">Buyers</span>
+          <h3><a href="/blog/rent-control-duplex-buyers-los-angeles-foothills">Rent Control for Duplex and Small Multifamily Buyers in LA: AB 1482, County Rules, and What Applies Where</a></h3>
+          <p>Buying a duplex or small multifamily building means buying the rent rules too. Here's how AB 1482 and local rent control work, and what to ask before you write an offer.</p>
+          <div class="hub-card-footer">
+            <a class="hub-read" href="/blog/rent-control-duplex-buyers-los-angeles-foothills">Read more</a>
+          </div>
+        </article>
+        <article class="hub-card">
+          <span class="hub-tag">Buyers</span>
+          <h3><a href="/blog/foothills-homeowners-insurance-after-eaton-fire">Homeowners Insurance in the Foothills After the Eaton Fire: What Buyers and Owners Need to Know</a></h3>
+          <p>Why coverage has gotten harder and more expensive to find in the Foothills, and what to ask before you buy.</p>
+          <div class="hub-card-footer">
+            <a class="hub-read" href="/blog/foothills-homeowners-insurance-after-eaton-fire">Read more</a>
+          </div>
+        </article>
+        <article class="hub-card">
+          <span class="hub-tag">Buyers</span>
+          <h3><a href="/blog/buyer-broker-representation-agreement-california">What Is a Buyer-Broker Representation Agreement?</a></h3>
+          <p>What the agreement covers, how long it lasts, and what to look for before you sign.</p>
+          <div class="hub-card-footer">
+            <a class="hub-read" href="/blog/buyer-broker-representation-agreement-california">Read more</a>
+          </div>
+        </article>
+        <article class="hub-card">
+          <span class="hub-tag">Buyers</span>
+          <h3><a href="/blog/what-are-real-estate-contingencies">Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers</a></h3>
+          <p>Every type of contingency, what it protects, and how each one affects buyers and sellers.</p>
+          <div class="hub-card-footer">
+            <a class="hub-read" href="/blog/what-are-real-estate-contingencies">Read more</a>
+          </div>
+        </article>
+        <article class="hub-card">
+          <span class="hub-tag">Buyers</span>
+          <h3><a href="/blog/questions-first-time-homebuyers-should-ask-real-estate-agent">Questions to Ask a Real Estate Agent Before You Hire One (Buying or Selling)</a></h3>
+          <p>Communication, experience, local knowledge, and compensation: what to ask before you hire an agent.</p>
+          <div class="hub-card-footer">
+            <a class="hub-read" href="/blog/questions-first-time-homebuyers-should-ask-real-estate-agent">Read more</a>
+          </div>
+        </article>
+        <article class="hub-card">
+          <span class="hub-tag">Sellers</span>
+          <h3><a href="/blog/prop-13-lock-in-effect-selling-california">Why Prop 13 Makes It So Hard to Sell (and What Prop 19 Actually Changes)</a></h3>
+          <p>How Prop 13 can keep owners in place, and what Prop 19 actually changes.</p>
+          <div class="hub-card-footer">
+            <a class="hub-read" href="/blog/prop-13-lock-in-effect-selling-california">Read more</a>
+          </div>
+        </article>
+      </div>
+      <p class="guides-hint">Swipe for more</p>
+      <p style="margin-top: 2.5rem; text-align: center;"><a class="btn-ghost" href="blog.html">See All Guides</a></p>
     </div>
   </section>
 
