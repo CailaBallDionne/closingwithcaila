@@ -1,6 +1,7 @@
 ---
 title: "Buying a Condo in Los Angeles: HOA Documents, Reserve Studies, Special Assessments, and Loan Approval Explained"
 date: 2026-10-10T12:00:00.000Z
+updated: 2026-10-17T12:00:00.000Z
 category: Buyers
 excerpt: "When you buy a condo, you are also buying a share of the building's budget, its insurance, and its future repair bills. Here is how to read the HOA documents, what a reserve study actually tells you, how special assessments work in California, and why the building itself has to qualify for your loan."
 ---
@@ -129,7 +130,7 @@ Dues are also worth looking at as information, not just as a cost. Very low dues
 
 Lots of buyers buy a condo planning to live in it for a few years and then keep it as a rental. California law helps here. Under [Civil Code Section 4741](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CIV&sectionNum=4741), an HOA generally can't prohibit or unreasonably restrict owners from renting their units, and can't cap rentals at less than 25 percent of the units. Associations can, however, ban short-term rentals of 30 days or less.
 
-So a long-term rental plan is usually workable. An Airbnb plan may not be. Read the CC&Rs and the rental rules in your resale package for the specifics, and keep in mind that city rules on short-term rentals apply on top of whatever the association allows. Also worth knowing: if you're thinking about financing as an owner-occupant and renting later, talk to your lender about what that means for your loan, since occupancy requirements are part of what you're agreeing to.
+So a long-term rental plan is usually workable, though [local rules on rent increases and evictions](https://closingwithcaila.com/blog/rent-control-duplex-buyers-los-angeles-foothills) may apply to a unit you rent out, depending on where it sits. An Airbnb plan may not be. Read the CC&Rs and the rental rules in your resale package for the specifics, and keep in mind that city rules on short-term rentals apply on top of whatever the association allows. Also worth knowing: if you're thinking about financing as an owner-occupant and renting later, talk to your lender about what that means for your loan, since occupancy requirements are part of what you're agreeing to.
 
 ## What I Would Want to Know Before Writing an Offer
 
