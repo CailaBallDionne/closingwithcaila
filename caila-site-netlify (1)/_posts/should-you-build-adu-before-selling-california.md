@@ -1,7 +1,7 @@
 ---
 title: "Should You Build an ADU Before You Sell? Cost, Value, and Timing Explained"
 date: 2026-08-19T00:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: 2026-10-17T12:00:00.000Z
 category: Sellers
 excerpt: Building an ADU before you sell can sound like an easy way to add value. It's not quite that simple. Here's the real math on cost, value, timing, and what to do if yours isn't permitted yet.
 ---
@@ -52,7 +52,7 @@ The last thing you want is to decide that an ADU makes financial sense based on 
 
 This is the part that gets a little more complicated.
 
-A permitted, well-built ADU can add meaningful value to a property, particularly in areas where buyers see the potential for rental income, multigenerational living, a home office, or additional private space. Studies on California ADUs commonly point to [value gains in the 20 to 30 percent range](https://www.apex-homes.us/blog/how-much-value-does-an-adu-add-to-a-home-in-california/) for the property overall, though that range moves a lot depending on the property.
+A permitted, well-built ADU can add meaningful value to a property, particularly in areas where buyers see the potential for rental income (subject to [the rent rules that apply where the property sits](https://closingwithcaila.com/blog/rent-control-duplex-buyers-los-angeles-foothills)), multigenerational living, a home office, or additional private space. Studies on California ADUs commonly point to [value gains in the 20 to 30 percent range](https://www.apex-homes.us/blog/how-much-value-does-an-adu-add-to-a-home-in-california/) for the property overall, though that range moves a lot depending on the property.
 
 But I would be careful about assuming that every dollar you spend comes back to you when you sell.
 
