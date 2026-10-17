@@ -62,7 +62,7 @@
   </url>
   <url>
     <loc>https://closingwithcaila.com/blog/down-payment-gift-funds-california</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -104,7 +104,7 @@
   </url>
   <url>
     <loc>https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026</loc>
-  <lastmod>2026-10-10</lastmod>
+  <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -162,4 +162,10 @@
   <changefreq>monthly</changefreq>
   <priority>0.7</priority>
 </url>
+    <url>
+    <loc>https://closingwithcaila.com/foothillsreads.html</loc>
+    <lastmod>2026-10-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
