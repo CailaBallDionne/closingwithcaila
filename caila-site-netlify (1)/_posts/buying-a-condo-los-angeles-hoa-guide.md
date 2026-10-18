@@ -1,7 +1,7 @@
 ---
 title: "Buying a Condo in Los Angeles: HOA Documents, Reserve Studies, Special Assessments, and Loan Approval Explained"
 date: 2026-10-10T12:00:00.000Z
-updated: 2026-10-17T12:00:00.000Z
+updated: 2026-10-18T12:00:00.000Z
 category: Buyers
 excerpt: "When you buy a condo, you are also buying a share of the building's budget, its insurance, and its future repair bills. Here is how to read the HOA documents, what a reserve study actually tells you, how special assessments work in California, and why the building itself has to qualify for your loan."
 ---
@@ -56,7 +56,7 @@ California does not leave this to chance. Under [Civil Code Section 4525](https:
 
 Let's focus on minutes for a…minute, because that's the item in this list that you have to request. Minutes are where the interesting stuff lives: the roof that the board has been "monitoring" for three years, the plumbing issue that keeps coming back, the insurance renewal that just came in way over budget. If you are buying a condo, ask for the minutes. Every time.
 
-All of this should land during your [HOA document review contingency](https://closingwithcaila.com/blog/what-are-real-estate-contingencies), which is the window in your contract where you can review what you received and walk away if something is a dealbreaker. That window has a deadline, and these packages can run to hundreds of pages, so it pays to start reading the day they arrive rather than the night before.
+All of this should land during your [HOA document review contingency](https://closingwithcaila.com/blog/what-are-real-estate-contingencies), which is the window in your contract where you can review what you received and walk away if something is a dealbreaker. That window has a deadline, and these packages can run to hundreds of pages, so it pays to start reading the day they arrive rather than the night before. The HOA package also arrives alongside the seller's own disclosures, like the TDS and the Natural Hazard Disclosure, which I break down in [what each California seller disclosure covers](https://closingwithcaila.com/blog/california-seller-disclosures-tds-spq-avid-nhd).
 
 ## How to Read the Money Part Without a Finance Degree
 
