@@ -77,7 +77,7 @@ The NHD answers a different question: where does the property sit on the map? Un
 
 You do not research this yourself. The statement is typically prepared from a report by an independent third-party provider, and the form includes an acknowledgment that [the seller and agent used good faith in selecting that provider](https://codes.findlaw.com/ca/civil-code/civ-sect-1103-2/). The same section also states that the NHD does not constitute all of the seller's or agent's disclosure obligations. It is one piece of the packet, not a substitute for the rest.
 
-Here in the Foothills, fire hazard severity zones are a big enough part of the local conversation that it is worth reading your own NHD carefully before a buyer does. Surprises are better when they are in your hands first.
+Here in the Foothills, fire hazard severity zones are a big enough part of the local conversation that it is worth reading your own NHD carefully before a buyer does. Buyers here are also thinking about [homeowners insurance in the Foothills](https://closingwithcaila.com/blog/foothills-homeowners-insurance-after-eaton-fire), so the more you know about your property's zones, the better prepared you are for those questions. Surprises are better when they are in your hands first.
 
 ## What changed in 2026
 
@@ -89,7 +89,7 @@ California adds to the disclosure rules fairly often, and 2026 was no exception.
 
 - **Smoke and nicotine residue:** disclosure of actual knowledge of smoke or nicotine residue or historic smoking on the property. [Law firm summaries](https://www.mondaq.com/unitedstates/landlord-tenant-leases/1743180/2026-california-real-estate-law-highlights-every-property-owner-should-know) refer to this as the "thirdhand smoke" disclosure.
 
-If you are selling a condo or a home in an HOA, there is a separate change. [SB 410](https://baylegal.com/hoa-disclosure-issues-in-california-real-estate-what-buyers-and-sellers-must-know/) added the most recent exterior elevated element inspection report (the balcony and deck inspections under SB 326) to the HOA document package that sellers deliver under Civil Code Section 4525.
+If you are selling a condo or a home in an HOA (and want the buyer's view, here is [how to read an HOA's budget, reserve study, and assessment history](https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide)), there is a separate change. [SB 410](https://baylegal.com/hoa-disclosure-issues-in-california-real-estate-what-buyers-and-sellers-must-know/) added the most recent exterior elevated element inspection report (the balcony and deck inspections under SB 326) to the HOA document package that sellers deliver under Civil Code Section 4525.
 
 Your listing agent and the current CAR forms will reflect these updates. I mention them mostly so that none of it is a surprise when you see a form that looks different from the one your neighbor filled out three years ago.
 
