@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://closingwithcaila.com/</loc>
-     <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -98,13 +98,13 @@
   </url>
   <url>
     <loc>https://closingwithcaila.com/blog/should-you-build-adu-before-selling-california</loc>
-    <lastmod>2026-10-17</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026</loc>
-  <lastmod>2026-10-02</lastmod>
+    <lastmod>2026-10-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -134,13 +134,13 @@
   </url>
   <url>
     <loc>https://closingwithcaila.com/blog/what-are-real-estate-contingencies</loc>
-    <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://closingwithcaila.com/blog/questions-first-time-homebuyers-should-ask-real-estate-agent</loc>
-   <lastmod>2026-10-10</lastmod>
+    <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
@@ -150,19 +150,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
-<url>
-  <loc>https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide</loc>
-  <lastmod>2026-10-17</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
-</url>
   <url>
-  <loc>https://closingwithcaila.com/blog/rent-control-duplex-buyers-los-angeles-foothills</loc>
-  <lastmod>2026-10-17</lastmod>
-  <changefreq>monthly</changefreq>
-  <priority>0.7</priority>
-</url>
-    <url>
+    <loc>https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://closingwithcaila.com/blog/rent-control-duplex-buyers-los-angeles-foothills</loc>
+    <lastmod>2026-10-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://closingwithcaila.com/blog/california-seller-disclosures-tds-spq-avid-nhd</loc>
+    <lastmod>2026-10-18</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://closingwithcaila.com/foothillsreads.html</loc>
     <lastmod>2026-10-10</lastmod>
     <changefreq>monthly</changefreq>
