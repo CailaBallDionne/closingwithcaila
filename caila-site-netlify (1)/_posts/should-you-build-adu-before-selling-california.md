@@ -1,7 +1,7 @@
 ---
 title: "Should You Build an ADU Before You Sell? Cost, Value, and Timing Explained"
 date: 2026-08-19T00:00:00.000Z
-updated: 2026-10-17T12:00:00.000Z
+updated: 2026-10-18T12:00:00.000Z
 category: Sellers
 excerpt: Building an ADU before you sell can sound like an easy way to add value. It's not quite that simple. Here's the real math on cost, value, timing, and what to do if yours isn't permitted yet.
 ---
@@ -166,7 +166,7 @@ If your property has a complicated tax history, such as an inherited property or
 **What if I already have an unpermitted ADU and want to sell?**
 You have options.
 
-Depending on the age and circumstances of the ADU, you may be able to legalize it. You can also sell the property as-is with the required disclosures, or consider a cash buyer if speed is the priority.
+Depending on the age and circumstances of the ADU, you may be able to legalize it. You can also sell the property as-is with the [required disclosures](https://closingwithcaila.com/blog/california-seller-disclosures-tds-spq-avid-nhd), or consider a cash buyer if speed is the priority.
 
 The right choice depends on your timeline and what it would actually cost to bring the space into compliance.
 
