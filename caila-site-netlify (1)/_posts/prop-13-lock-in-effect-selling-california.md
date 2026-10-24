@@ -1,7 +1,7 @@
 ---
 title: "Why Prop 13 Makes It So Hard to Sell (and What Prop 19 Actually Changes)"
 date: 2026-08-24T00:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: 2026-10-24T12:00:00.000Z
 category: Sellers
 excerpt: "If your property tax bill feels impossibly low compared to what a buyer would pay for your house today, that's Prop 13 at work, and it's the real reason so many longtime owners hesitate to sell. Here's the math, and how Prop 19 can change it."
 ---
@@ -46,7 +46,7 @@ What I would push back on is the assumption that this automatically makes moving
 
 ## Bottom line
 
-Prop 13 is a big part of why so many Foothills homeowners feel stuck, and that feeling is based on real math, not just habit. But if you are 55 or older, disabled, or a disaster victim, Prop 19 gives you a real way to move without starting your tax basis over from scratch. And if you do not qualify, it is still worth knowing exactly what a move would cost you before deciding it is not worth it.
+Prop 13 is a big part of why so many Foothills homeowners feel stuck, and that feeling is based on real math, not just habit. But if you are 55 or older, disabled, or a disaster victim, Prop 19 gives you a real way to move without starting your tax basis over from scratch. And if you do not qualify, it is still worth knowing exactly what a move would cost you before deciding it is not worth it. If the timing of selling and buying is what makes a move feel risky, you can [buy first using your current home's equity](https://closingwithcaila.com/blog/buying-before-you-sell-down-payment-options) or [sell first and stay in the home through a rent-back](https://closingwithcaila.com/blog/rent-back-agreement-selling-before-buying-california).
 
 [Let's talk](https://closingwithcaila.com/contact) about your specific numbers, your current assessed value versus what a move would actually cost, before you rule anything in or out.
 
