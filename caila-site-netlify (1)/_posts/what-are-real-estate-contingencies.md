@@ -59,7 +59,7 @@ This comes into play when you need the equity from your current home to qualify 
 
 That is where a kick-out clause comes in. It lets the seller keep marketing the home and accept a better offer if one shows up. If that happens, the original buyer typically gets a window (commonly something like 72 hours, though it is negotiable) to either remove their sale contingency and prove they can close without it, or step aside.
 
-If you're weighing whether this type of contingency is right for you in your home search, let's chat. In a competitive market, a [HELOC, bridge loan, or buy-before-sell program](https://closingwithcaila.com/blog/buying-before-you-sell-down-payment-options) is probably going to be your best bet to staying competitive in the buying market, and also getting your current house in the best condition to sell at maximum value when you list it.
+If you're weighing whether this type of contingency is right for you in your home search, let's chat. In a competitive market, a [HELOC, bridge loan, or buy-before-sell program](https://closingwithcaila.com/blog/buying-before-you-sell-down-payment-options) is probably going to be your best bet to staying competitive in the buying market, and also getting your current house in the best condition to sell at maximum value when you list it. If you would rather sell first, a [rent-back agreement](https://closingwithcaila.com/blog/rent-back-agreement-selling-before-buying-california) can let you stay in your home for a short time after closing while you buy.
 
 ## HOA Document Review Contingency
 
