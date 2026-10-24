@@ -1,7 +1,7 @@
 ---
 title: "Pre-Approval vs. Pre-Qualification: What Actually Gets Your Offer Taken Seriously"
 date: 2026-09-10T12:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: 2026-10-24T12:00:00.000Z
 category: Buyers
 excerpt: "Pre-qualification and pre-approval get used like they're the same thing, but sellers can tell the difference. Here's what each one actually requires, and why only one of them makes an offer worth taking seriously."
 ---
@@ -52,7 +52,7 @@ Practical takeaway: don't get pre-approved six months before you plan to serious
 
 ## What Can Still Go Wrong After You're Pre-Approved
 
-Getting the letter isn't the finish line. Lenders re-verify things right before closing, and deals can wobble over stuff that seemed harmless in the moment. Between pre-approval and closing, avoid:
+Getting the letter isn't the finish line, and [the stretch between an accepted offer and your keys](https://closingwithcaila.com/blog/what-happens-after-offer-accepted-california-escrow-timeline) has its own checkpoints. Lenders re-verify things right before closing, and deals can wobble over stuff that seemed harmless in the moment. Between pre-approval and closing, avoid:
 
 - Financing a car, furniture, or anything else on credit
 - Opening a new credit card, even for a "free" sign-up bonus
