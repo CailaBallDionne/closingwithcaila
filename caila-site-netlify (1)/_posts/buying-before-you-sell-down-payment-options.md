@@ -1,7 +1,7 @@
 ---
 title: "Buying Before You Sell: Where Your Down Payment Actually Comes From When Your Equity Is Tied Up"
 date: 2026-08-27T12:00:00.000Z
-updated: updated: 2026-10-24T12:00:00.000Z
+updated: 2026-10-24T12:00:00.000Z
 category: Buyers
 excerpt: "If most of your money is locked inside the home you already own, a sale-contingent offer probably isn't going to cut it in a competitive market. Here's how a HELOC, a bridge loan, and a Buy Before You Sell program like HomeLight's actually work, what each one costs, and how my own family used one to move from Cypress Park to La Crescenta."
 ---
