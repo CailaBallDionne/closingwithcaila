@@ -1,7 +1,7 @@
 ---
 title: "Buying Before You Sell: Where Your Down Payment Actually Comes From When Your Equity Is Tied Up"
 date: 2026-08-27T12:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: updated: 2026-10-24T12:00:00.000Z
 category: Buyers
 excerpt: "If most of your money is locked inside the home you already own, a sale-contingent offer probably isn't going to cut it in a competitive market. Here's how a HELOC, a bridge loan, and a Buy Before You Sell program like HomeLight's actually work, what each one costs, and how my own family used one to move from Cypress Park to La Crescenta."
 ---
@@ -17,7 +17,7 @@ Let's get into what that actually means, option by option.
 
 This catches a lot of move-up buyers off guard, especially the first time they go through it. You've built real equity, maybe hundreds of thousands of dollars of it, but that equity isn't sitting in a checking account. It's locked into a specific asset, and turning it into usable cash requires either selling that asset or borrowing against it.
 
-That's the whole puzzle. You need money to buy the next house, but the money is trapped inside the house you're leaving. Three things can untrap it: sell first and rent or stay with family in between, make an offer contingent on your current home selling, or borrow against the equity you already have so you can buy first and sell on your own timeline.
+That's the whole puzzle. You need money to buy the next house, but the money is trapped inside the house you're leaving. Three things can untrap it: sell first and rent, stay with family, or [stay in your home for a short time after closing with a rent-back](https://closingwithcaila.com/blog/rent-back-agreement-selling-before-buying-california) in between, make an offer contingent on your current home selling, or borrow against the equity you already have so you can buy first and sell on your own timeline.
 
 Each of those has a real tradeoff. Let's talk about why the second one, the contingent offer, is the one I'd steer most Foothills buyers (and LA buyers in general) away from leaning on.
 
