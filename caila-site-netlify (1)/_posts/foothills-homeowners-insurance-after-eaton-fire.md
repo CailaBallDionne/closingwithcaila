@@ -1,6 +1,7 @@
 ---
 title: "Homeowners Insurance in the Foothills After the Eaton Fire: What Buyers and Owners Need to Know"
 date: 2026-09-28T12:00:00.000Z
+updated: 2026-10-24T12:00:00.000Z
 category: Buyers
 excerpt: "Premiums in La Crescenta, La Cañada Flintridge and the rest of the Foothills have changed dramatically since the Eaton Fire. Here's how the FAIR Plan and a companion policy work together, what the October 2026 FAIR Plan rate increase means, and what to do before you're in escrow."
 ---
@@ -74,7 +75,7 @@ Some of this is out of your control. Some of it isn't.
 
 This is the part I really want buyers to hear. In the Foothills right now, insurance isn't a box you check the week before closing. It's a real line item that can change how much house you can comfortably afford.
 
-**Get quotes during your contingency period.** Your [investigation contingency](https://closingwithcaila.com/blog/what-are-real-estate-contingencies) is your window to find out whether the home is insurable and at what cost, while you still have the ability to back out or renegotiate. Reach out to your insurance agent or broker as soon as you're in contract, or even before you write an offer on a home you're serious about.
+**Get quotes during your contingency period.** Your [investigation contingency](https://closingwithcaila.com/blog/what-are-real-estate-contingencies) is your window to find out whether the home is insurable and at what cost, while you still have the ability to back out or renegotiate. Reach out to your insurance agent or broker as soon as you're [in contract](https://closingwithcaila.com/blog/what-happens-after-offer-accepted-california-escrow-timeline), or even before you write an offer on a home you're serious about.
 
 **Loop in your lender early.** Your homeowners insurance premium is typically part of the monthly housing payment your [lender looks at when qualifying you](https://closingwithcaila.com/blog/pre-approval-vs-pre-qualification), so a bigger premium can affect your numbers. Exactly how it factors in depends on your loan, which is a question for your lender, ideally before you're house hunting in earnest.
 
