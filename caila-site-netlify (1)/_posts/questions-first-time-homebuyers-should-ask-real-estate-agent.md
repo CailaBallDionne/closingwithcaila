@@ -1,7 +1,7 @@
 ---
 title: Questions to Ask a Real Estate Agent Before You Hire One (Buying or Selling)
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-10-10T12:00:00.000Z
+updated: 2026-10-31T12:00:00.000Z
 category: Buyers
 excerpt: Interviewing real estate agents? Here's what to actually ask before you hire one, from a La Crescenta agent who's been on both sides of the table.
 ---
@@ -52,7 +52,7 @@ If you're looking in La Crescenta, La Cañada Flintridge, or anywhere in the Foo
 
 ### What happens after we close?
 
-A good agent doesn't vanish the second you get your keys. Ask what kind of support continues after closing. Do they have go-to people for contractors, landscapers, or random "who do I call about this" situations? Could you text them six months from now with a random question? (The answer should be yes.)
+A good agent doesn't vanish the second you get your keys. Ask what kind of support continues after closing, starting with [the first 30 days as a homeowner](https://closingwithcaila.com/blog/first-30-days-california-homeowner-checklist). Do they have go-to people for contractors, landscapers, or random "who do I call about this" situations? Could you text them six months from now with a random question? (The answer should be yes.)
 
 ## If You're Selling: Questions to Ask a Real Estate Agent
 

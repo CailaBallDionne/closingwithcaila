@@ -1,7 +1,7 @@
 ---
 title: "Why Prop 13 Makes It So Hard to Sell (and What Prop 19 Actually Changes)"
 date: 2026-08-24T00:00:00.000Z
-updated: 2026-10-24T12:00:00.000Z
+updated: 2026-10-31T12:00:00.000Z
 category: Sellers
 excerpt: "If your property tax bill feels impossibly low compared to what a buyer would pay for your house today, that's Prop 13 at work, and it's the real reason so many longtime owners hesitate to sell. Here's the math, and how Prop 19 can change it."
 ---
@@ -24,7 +24,7 @@ And right now homeowners are locked in twice over. The tax basis is one anchor. 
 
 ## What actually triggers a reassessment
 
-Your assessed value stays locked in until one of two things happens: the property changes ownership, or you build new construction on it. A sale resets the tax basis to full market value for whoever buys it next. If you are curious how that plays out specifically when adding a unit rather than selling, I covered the new-construction side of this separately in [Should You Build an ADU Before You Sell](https://closingwithcaila.com/blog/should-you-build-adu-before-selling-california).
+Your assessed value stays locked in until one of two things happens: the property changes ownership, or you build new construction on it. A sale resets the tax basis to full market value for whoever buys it next. For buyers, that reset shows up as a supplemental tax bill after closing, which I cover in [your first 30 days as a homeowner](https://closingwithcaila.com/blog/first-30-days-california-homeowner-checklist). If you are curious how that plays out specifically when adding a unit rather than selling, I covered the new-construction side of this separately in [Should You Build an ADU Before You Sell](https://closingwithcaila.com/blog/should-you-build-adu-before-selling-california).
 
 This is the part that scares people off. It is not that your new home would be taxed unfairly. It is that you would be trading a decades-old tax basis for a brand new one, all at once, and the jump can be very large.
 

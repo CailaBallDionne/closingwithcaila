@@ -1,6 +1,7 @@
 ---
 title: "What Happens After Your Offer Is Accepted in California: The Escrow Timeline, Step by Step"
 date: 2026-10-24T12:00:00.000Z
+updated: 2026-10-31T12:00:00.000Z
 category: Buyers
 excerpt: "Your offer was accepted. Now what? Here is the California escrow timeline from accepted offer to keys in hand, including the deadlines that matter and what you need to do at each stage."
 ---
@@ -96,7 +97,7 @@ If something is off, tell your agent right away, while there is still time to re
 
 Near the end, you will sign your loan documents and escrow's closing paperwork, often with escrow or a mobile notary. You will also send any remaining funds to escrow, which will tell you the exact amount. As with your deposit, only wire to instructions you have verified by phone.
 
-Once everything is signed and the funds are in, escrow records the deed with the county and the sale is official. Whether you get your keys that same day depends on the possession terms in your contract. If the seller is staying for a short period after closing, my post on [rent-back agreements](https://closingwithcaila.com/blog/rent-back-agreement-selling-before-buying-california) explains how that works.
+Once everything is signed and the funds are in, escrow records the deed with the county and the sale is official. Whether you get your keys that same day depends on the possession terms in your contract. If the seller is staying for a short period after closing, my post on [rent-back agreements](https://closingwithcaila.com/blog/rent-back-agreement-selling-before-buying-california) explains how that works. Once you have the keys, here is what to do in your [first 30 days as a homeowner](https://closingwithcaila.com/blog/first-30-days-california-homeowner-checklist).
 
 ## Frequently Asked Questions
 
