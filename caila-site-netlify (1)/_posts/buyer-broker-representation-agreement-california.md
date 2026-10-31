@@ -1,7 +1,7 @@
 ---
 title: What Is a Buyer-Broker Representation Agreement?
 date: 2026-06-10T00:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: 2026-10-31T12:00:00.000Z
 category: Buyers
 excerpt: California now requires buyers to sign a Buyer-Broker Representation Agreement before touring any home. Here is what it is, what is in it, and what to ask before you sign.
 ---
@@ -87,7 +87,7 @@ You are not being difficult by asking these questions. You are being a prepared 
 
 In California, your agent legally cannot tour homes with you without a signed agreement. This is not a preference or a brokerage policy. And for those of us who are stoked to just start house hunting with you already, it can be a bit of a bummer.
 
-But listen: The agreement is not a trap. It is a protection. It means everyone knows exactly what the relationship is before you spend a single Saturday afternoon at an open house.
+But listen: The agreement is not a trap. It is a protection. It means everyone knows exactly what the relationship is before you spend a single Saturday afternoon [at an open house](https://closingwithcaila.com/blog/what-to-look-for-at-an-open-house-foothills).
 
 ## One Last Thing
 

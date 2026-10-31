@@ -1,7 +1,7 @@
 ---
 title: "Pre-Approval vs. Pre-Qualification: What Actually Gets Your Offer Taken Seriously"
 date: 2026-09-10T12:00:00.000Z
-updated: 2026-10-24T12:00:00.000Z
+updated: 2026-10-31T12:00:00.000Z
 category: Buyers
 excerpt: "Pre-qualification and pre-approval get used like they're the same thing, but sellers can tell the difference. Here's what each one actually requires, and why only one of them makes an offer worth taking seriously."
 ---
@@ -48,7 +48,7 @@ I said something close to this in[my latest La Crescenta market update](https://
 
 This is where it gets a little lender-dependent, so don't assume. [Zillow puts the average pre-approval letter's shelf life at around 45 days](https://www.zillow.com/learn/pre-qualification-vs-pre-approval/), while [CrossCountry Mortgage](https://crosscountrymortgage.com/mortgage/resources/mortgage-pre-approval-vs-pre-qualification/) puts theirs at 30 to 90 days, renewable with updated documents. Pre-qualification, by contrast, doesn't carry a formal expiration date since it was never more than a quick snapshot. Either way, a pre-approval expires. If your house hunt runs longer than expected, which happens constantly, you'll need to refresh it with current pay stubs and statements before it's usable again.
 
-Practical takeaway: don't get pre-approved six months before you plan to seriously start touring homes. Time it to when you're actually going to be writing offers.
+Practical takeaway: don't get pre-approved six months before you plan to seriously start [touring homes](https://closingwithcaila.com/blog/what-to-look-for-at-an-open-house-foothills). Time it to when you're actually going to be writing offers.
 
 ## What Can Still Go Wrong After You're Pre-Approved
 

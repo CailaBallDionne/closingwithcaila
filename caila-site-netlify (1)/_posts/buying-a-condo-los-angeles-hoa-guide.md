@@ -1,7 +1,7 @@
 ---
 title: "Buying a Condo in Los Angeles: HOA Documents, Reserve Studies, Special Assessments, and Loan Approval Explained"
 date: 2026-10-10T12:00:00.000Z
-updated: 2026-10-18T12:00:00.000Z
+updated: 2026-10-31T12:00:00.000Z
 category: Buyers
 excerpt: "When you buy a condo, you are also buying a share of the building's budget, its insurance, and its future repair bills. Here is how to read the HOA documents, what a reserve study actually tells you, how special assessments work in California, and why the building itself has to qualify for your loan."
 ---
@@ -24,7 +24,7 @@ So the real question in a condo purchase is never just "do I like this unit?" It
 
 ## The Tradeoffs, Honestly
 
-A condo is not automatically a better or worse purchase than a house. It is a different one, and the tradeoffs are worth weighing before you start touring.
+A condo is not automatically a better or worse purchase than a house. It is a different one, and the tradeoffs are worth weighing before you start [touring](https://closingwithcaila.com/blog/what-to-look-for-at-an-open-house-foothills).
 
 **What tends to work in a condo's favor:**
 
