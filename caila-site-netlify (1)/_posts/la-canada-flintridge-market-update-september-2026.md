@@ -13,6 +13,8 @@ So coming in hot with the first standalone deep dive I've written just for La Ca
 
 That's the headline. Here's what's underneath it.
 
+*Looking for the most current numbers? The October updates are out for [La Crescenta](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026) and [La Cañada Flintridge](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-october-2026).*
+
 ## September Showed the Clearest Cooling Signal Yet
 
 Closed single family sales in La Cañada came in at 11 in September 2026, down from 14 in September 2025, a 21 percent drop. Pending sales fell harder: 16 this year versus 25 last year, a 36 percent decline, the sharpest monthly pullback either city has shown all year. Months of supply rose to 4 from 3 a year ago, a 33 percent increase, tipping just slightly further toward balance. Active listings came in at 60, down 12 percent from 68 a year ago.
