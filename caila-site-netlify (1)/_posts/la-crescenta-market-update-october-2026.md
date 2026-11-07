@@ -21,6 +21,8 @@ Closed single family sales came in at 19 in October 2026, down from 20 in Octobe
 
 The inventory side moved even more. Active listings fell from 82 to 62, down 24 percent, and months of supply (how long the current inventory would take to sell at the recent pace) dropped from 4 to 2. Anything under three months generally favors sellers. New listings, the homes that actually came to market during the month, fell to 18 from 32, a 44 percent drop.
 
+Month over month, the picture is the same, just sharper. Compared with September, pending sales rose to 28 from 22, closed sales ticked up to 19 from 18, active listings dropped to 62 from 82, and months of supply fell to 2 from 4. (September's 82 active listings happen to match October 2025's 82, so the drop is 24 percent both ways. Coincidence, not a typo.) New listings and average days on market also fell from September.
+
 Put those together: fewer homes came to market than last October, more of them went under contract, and what's left on the shelf shrank. While the data shows what happened, not why, my read is that fewer sellers listed this October and buyers worked through what was available. Whether that holds through the holiday months is something I'll be watching in the next update.
 
 ## Prices Held Steady, but Not Everything Moved Together
@@ -35,7 +37,7 @@ Days on market tells a split story. The average days on market fell to 20 from 2
 
 ## The Trailing Year: Steady as She Goes
 
-The twelve-month rollup now covers November 2025 through October 2026, and it barely moved from last month, which is the point. This market isn't swinging in this neck of the woods, it's leveling off.
+The twelve-month rollup now covers November 2025 through October 2026, and it barely moved from last month, which is the point. The closed count held at 231, the median stayed at $1,400,000, average days to sell stayed at 28, and the average sale price edged up from $1,430,617 to $1,438,546. This market isn't swinging in this neck of the woods, it's leveling off.
 
 231 single family homes closed over the trailing year, for a combined $332,304,230 in total sold volume. The average sale price came in at $1,438,546 and the median at $1,400,000, close enough together that the median is a fair picture of a typical sale. Homes took 28 days to sell on average, sale prices averaged 102.81 percent of list prices, and average price per square foot landed at $826.58.
 
@@ -45,11 +47,11 @@ Speed is still the defining feature. 153 of the 231 sales, about two-thirds, clo
 
 ## Condos: Inventory Is Easing, Supply Is Not
 
-The condo story this year has been inventory, so let's start there. Active condo listings in La Crescenta were 20 in October 2026, up 33 percent from 15 a year ago. That's a much smaller gap than September's 22 versus 8. Condo inventory built from 9 listings in February to a summer high of around 35, and it has come down every month since.
+The condo story this year has been inventory, so let's start there. Active condo listings in La Crescenta were 20 in October 2026, down from 22 in September and up 33 percent from 15 a year ago. That's a much smaller gap than September's 22 versus 8. Condo inventory built from 9 listings in February to a summer high of around 35, and it has come down every month since.
 
-Sales haven't kept pace with the listings that remain. Five condos closed in October, the same as October 2025, and pending condo sales fell to 2 from 4. With 20 active listings and only a handful of sales a month, the MLS shows condo months of supply at roughly 10, versus about 4 a year ago. Condo numbers are small, so single months swing, but that's a very different picture from the two months of supply on the single family side.
+Sales haven't kept pace with the listings that remain. Five condos closed in October, the same as October 2025 but well below a busy September, and pending condo sales fell to 2 from 4. With 20 active listings and only a handful of sales a month, the MLS shows condo months of supply at roughly 10, versus about 4 both a year ago and in September. Condo numbers are small, so single months swing, but that's a very different picture from the two months of supply on the single family side.
 
-Over the trailing twelve months, 53 condos closed for a combined $41,187,716. The average sale price was $777,127 and the median was $800,000. Condos took 32 days to sell on average, sale prices averaged 100.29 percent of list prices, and price per square foot averaged $569.52. Twenty-seven of the 53 sold for under $800,000, and only 5 crossed $1 million. About half, 28 of the 53, closed within 30 days.
+Over the trailing twelve months, 53 condos closed for a combined $41,187,716. The average sale price was $777,127 and the median was $800,000. Condos took 32 days to sell on average, sale prices averaged 100.29 percent of list prices, and price per square foot averaged $569.52. The median barely moved from last month's $801,125, while the average slipped from $792,398. Twenty-seven of the 53 sold for under $800,000, and only 5 crossed $1 million. About half, 28 of the 53, closed within 30 days.
 
 Compared with single family homes, the median condo price was about 43 percent lower ($800,000 versus $1,400,000), and price per square foot was about 31 percent lower. If you've been priced out of a house in the Foothills, it's worth considering if a condo could be your ticket to homeownership here (though factor in HOA costs to your monthly payment before making that assumption). More supply relative to sales generally gives a buyer more room to negotiate, though every building is different, and with condos the HOA paperwork matters as much as the unit. My [guide to buying a condo in Los Angeles](https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide) covers what to read before you commit.
 
@@ -87,7 +89,7 @@ Single family homes took 28 days to sell on average over the past twelve months,
 
 ## The TL;DR
 
-After two softer months, October pulled La Crescenta's single family market back toward the seller's side: fewer new listings, shrinking inventory, more pending sales, and two months of supply. But prices didn't jump, and the typical home sold right at asking. The trailing-year numbers, the ones that describe the market over time, barely moved. Condos are the opposite story: inventory is easing from its summer high, but supply is still well above where it was a year ago, with a median price far below the single family median.
+After two softer months, October pulled La Crescenta's single family market back toward the seller's side: fewer new listings, shrinking inventory, more pending sales, and two months of supply. Month over month, pending sales rose from 22 to 28 and active listings fell from 82 to 62. But prices didn't jump, and the typical home sold right at asking. The trailing-year numbers, the ones that describe the market over time, barely moved. Condos are the opposite story: inventory is easing from its summer high, but supply is still well above where it was a year ago, with a median price far below the single family median.
 
 If you're trying to figure out what any of this means for your specific situation, whether that's timing a sale, deciding between a house and a condo, or just understanding what you're actually competing against, [reach out](https://closingwithcaila.com/contact.html). I'd rather walk you through the real numbers than have you guess from a headline.
 
