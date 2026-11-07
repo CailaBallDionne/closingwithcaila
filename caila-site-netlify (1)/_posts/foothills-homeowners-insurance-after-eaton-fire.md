@@ -1,7 +1,7 @@
 ---
 title: "Homeowners Insurance in the Foothills After the Eaton Fire: What Buyers and Owners Need to Know"
 date: 2026-09-28T12:00:00.000Z
-updated: 2026-10-24T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Buyers
 excerpt: "Premiums in La Crescenta, La Cañada Flintridge and the rest of the Foothills have changed dramatically since the Eaton Fire. Here's how the FAIR Plan and a companion policy work together, what the October 2026 FAIR Plan rate increase means, and what to do before you're in escrow."
 ---
@@ -34,7 +34,7 @@ Insurance was already getting tight in California's wildfire-prone areas before 
 
 Here's the part that surprises people: the [standard FAIR Plan dwelling policy](https://www.cfpnet.com/policies/dwelling/) is a named-peril policy covering fire, lightning, internal explosion and smoke. That's basically it. It does not cover things a normal homeowners policy does, like theft, water damage from a burst pipe, or personal liability if someone gets hurt on your property.
 
-[Residential FAIR Plan coverage](https://www.insurance.ca.gov/01-consumers/200-wrr/California-FAIR-Plan.cfm) is capped at $3 million per policyholder. In a market where the median single family home in La Crescenta runs around $1.4 million and La Cañada Flintridge runs well above that, it's worth confirming with your insurance agent or broker that the limit actually covers what it would cost to rebuild your specific home.
+[Residential FAIR Plan coverage](https://www.insurance.ca.gov/01-consumers/200-wrr/California-FAIR-Plan.cfm) is capped at $3 million per policyholder. In a market where the median single family home in La Crescenta [runs around $1.4 million](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026) and La Cañada Flintridge [runs well above that](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-october-2026), it's worth confirming with your insurance agent or broker that the limit actually covers what it would cost to rebuild your specific home.
 
 ## The FAIR Plan + Companion Policy Combo, Explained
 
