@@ -1,7 +1,7 @@
 ---
 title: What Is a Buyer-Broker Representation Agreement?
 date: 2026-06-10T00:00:00.000Z
-updated: 2026-10-31T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Buyers
 excerpt: California now requires buyers to sign a Buyer-Broker Representation Agreement before touring any home. Here is what it is, what is in it, and what to ask before you sign.
 ---
@@ -10,7 +10,7 @@ We are in the peak of house hunting season, and all the fun and excitement that 
 
 All. Of. The. Paperwork.
 
-(If you want the actual data behind "house hunting season" right now, [here's what La Crescenta and La Cañada Flintridge are doing lately](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026).)
+(If you want the actual data behind "house hunting season" right now, here's what [La Crescenta](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026) and [La Cañada Flintridge](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-october-2026) are doing lately.)
 
 While filling out forms may not charm you as much as a storybook cottage does, it's all part of the home buying process.
 
