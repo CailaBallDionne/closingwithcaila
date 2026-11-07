@@ -1,12 +1,12 @@
 ---
 title: "Buying a Condo in Los Angeles: HOA Documents, Reserve Studies, Special Assessments, and Loan Approval Explained"
 date: 2026-10-10T12:00:00.000Z
-updated: 2026-10-31T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Buyers
 excerpt: "When you buy a condo, you are also buying a share of the building's budget, its insurance, and its future repair bills. Here is how to read the HOA documents, what a reserve study actually tells you, how special assessments work in California, and why the building itself has to qualify for your loan."
 ---
 
-Whether it's the plan from day one, or a strategy that comes up at some point during the search, focusing on condos often enters the picture for Los Angeles buyers, including those in the Foothills. Condos are easier to find in the Foothills than they were a year ago. In La Crescenta, [active condo listings went from 8 to 35 between late 2025 and mid 2026](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026), at a median price well below the single family median.
+Whether it's the plan from day one, or a strategy that comes up at some point during the search, focusing on condos often enters the picture for Los Angeles buyers, including those in the Foothills. Condos are easier to find in the Foothills than they were a year ago. In La Crescenta, [active condo listings went from 8 to 35 between late 2025 and mid 2026](https://closingwithcaila.com/blog/la-crescenta-market-update-july-2026), at a median price well below the single family median. As of October, [condo months of supply were running near ten months and the trailing-year median condo sale price was $800,000](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026), versus $1.4 million for single family homes.
 
 Whether a condo is the right fit depends on your plans, your budget, and the specific building. Buying one also works differently than buying a house, and most of those differences live in the paperwork rather than the floor plan.
 
