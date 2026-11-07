@@ -1,7 +1,7 @@
 ---
 title: "Assumable Loans in Los Angeles: How Taking Over a Seller's 3% Rate Actually Works"
 date: 2026-09-18T12:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Buyers
 excerpt: "Assuming a seller's low-rate mortgage sounds like the obvious workaround to today's rates. Here's how assumptions actually work on FHA, VA and USDA loans, why the equity gap makes them hard in the Foothills, and the specific pockets of LA where the math pencils out."
 ---
