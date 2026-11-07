@@ -7,17 +7,19 @@ excerpt: "A full year-over-year look at the La Crescenta housing market for Sept
 
 Two months of cooler numbers is starting to look less like a blip and more like a pattern. This is the La Crescenta deep dive, trailing twelve months of MLS data compared year over year, single family homes, condos, and a quick look at rentals. If you want the same treatment for La Cañada Flintridge, [that update lives here](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-september-2026), I'm now covering both markets with equal depth every month, since plenty of you are deciding between the two.
 
-**La Crescenta's single family market logged its second straight month of cooling: closed sales and pending sales both landed exactly where they did in August, down from a year ago, while the trailing-year numbers held essentially steady. Meanwhile, the condo market's inventory surge, the story of the summer, is coming back down from its July peak, even though it's still wildly up from a year ago.**
+**La Crescenta's single family market logged its second straight month of cooling: closed sales and pending sales were both down from a year ago again, much like August, while the trailing-year numbers held essentially steady. Meanwhile, the condo market's inventory surge, the story of the summer, is coming back down from its July peak, even though it's still wildly up from a year ago.**
 
 That's the headline. Here's what's underneath it.
+
+*Looking for the most current numbers? The October updates are out for [La Crescenta](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026) and [La Cañada Flintridge](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-october-2026).*
 
 ## September Looked a Lot Like August
 
 ...and not just in the "WTF is it still 100 degrees?" sort of way. If you read [last month's update](https://closingwithcaila.com/blog/la-crescenta-market-update-august-2026), this is going to feel familiar, almost identically so.
 
-Closed single family sales came in at 17 in September 2026, down from 21 in September 2025, a 19 percent drop. That's the same 21-to-17 move we saw in August. Pending sales were 23 this year versus 24 last year, a 4 percent dip, again nearly identical to August's pace. Months of supply held flat year over year at 3 in both September 2025 and September 2026. Active listings ticked up to 78 from 74 a year ago, a 5 percent increase.
+Closed single family sales came in at 18 in September 2026, down from 21 in September 2025, a 14 percent drop, close to the 21-to-17 move we saw in August. Pending sales were 22 this year versus 24 last year, an 8 percent dip, a little steeper than August's. Months of supply rose to 4 from 3 a year ago. Active listings ticked up to 82 from 74 a year ago, an 11 percent increase.
 
-Two months of the same signal is more meaningful than one. July's numbers were all momentum. August and September have both shown the opposite: fewer closings, flat-to-down pending activity, supply holding steady rather than tightening further. That's a real shift in direction, even if it's a mild one so far.
+Two months of the same signal is more meaningful than one. July's numbers were all momentum. August and September have both shown the opposite: fewer closings, flat-to-down pending activity, upply edging up rather than tightening further. That's a real shift in direction, even if it's a mild one so far.
 
 ## The Trailing Year: A Slight Softening, Not a Reversal
 
@@ -43,7 +45,8 @@ I don't spend much time here since it's not where my focus is, but it's a useful
 
 ## What This Means If You're Buying
 
-Two months of cooling doesn't mean you should wait for a discount. Months of supply at three is still tight by historical standards, and the trailing-year numbers, the ones that actually describe this market, haven't moved. What has changed is the day-to-day competition: with closed and pending sales both down from a year ago, you're likely facing a little less urgency on any given listing than buyers faced in June or July. That's a real, if modest, opening.
+Two months of cooling doesn't mean you should wait for a discount. Four months of supply is still short of a buyer's market,
+ and the trailing-year numbers, the ones that actually describe this market, haven't moved. What has changed is the day-to-day competition: with closed and pending sales both down from a year ago, you're likely facing a little less urgency on any given listing than buyers faced in June or July. That's a real, if modest, opening.
 
 Condos are still the more interesting opportunity by a wide margin. More inventory than a year ago, prices holding steady, and days on market that are reasonable.
 
@@ -57,11 +60,11 @@ Pricing discipline matters more now than it did in the spring. Two straight mont
 
 ### Is the La Crescenta market still cooling in September 2026?
 
-Yes, and for a second straight month. Closed sales were down 19 percent year over year in September, matching August exactly, and pending sales dipped 4 percent, also matching August. Months of supply held flat year over year at 3. Two months of the same signal makes this look like a genuine, if mild, shift rather than a one-month fluke.
+Yes, and for a second straight month. Closed sales were down 14 percent year over year in September, a bit smaller than August's 19 percent drop, and pending sales dipped 8 percent, a bit steeper than August's 4 percent dip. Months of supply rose to 4 from 3 a year ago. Two months of the same signal makes this look like a genuine, if mild, shift rather than a one-month fluke.
 
 ### Is La Crescenta still a seller's market?
 
-Yes, though the edge is softening slightly. Three months of supply still favors sellers, and homes are still selling at just over 103% of list price on average, down a touch from last month's 103.57%.
+Yes, though the edge is softening slightly. Four months of supply is still seller-leaning, if less so than a year ago, and homes are still selling at just over 103% of list price on average, down a touch from last month's 103.57%.
 
 ### How much have home prices changed in La Crescenta over the past year?
 
@@ -77,7 +80,7 @@ For the full comparison, including price, speed, and inventory in both cities, s
 
 ## The TL;DR
 
-September confirmed what August hinted at: La Crescenta's single family market has shifted from acceleration to a mild, steady cooldown, two months running of softer closed and pending sales, with supply holding flat rather than tightening further. The trailing-year numbers say this is still a strong, seller-leaning market, just not the sprint it was in early summer. Condos are still way up from a year ago, but that growth has leveled off and even reversed slightly since July. Rentals stayed calm throughout.
+September confirmed what August hinted at: La Crescenta's single family market has shifted from acceleration to a mild, steady cooldown, two months running of softer closed and pending sales, with supply edging up rather than tightening further. The trailing-year numbers say this is still a strong, seller-leaning market, just not the sprint it was in early summer. Condos are still way up from a year ago, but that growth has leveled off and even reversed slightly since July. Rentals stayed calm throughout.
 
 If you want to talk through what any of this means for your specific timeline, whether you're buying, selling, or weighing a condo, [reach out](https://closingwithcaila.com/contact.html). I'd rather walk you through the real numbers than have you guess from a headline.
 
@@ -91,7 +94,7 @@ If you want to talk through what any of this means for your specific timeline, w
       "name": "Is the La Crescenta market still cooling in September 2026?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, and for a second straight month. Closed sales were down 19 percent year over year in September, matching August exactly, and pending sales dipped 4 percent, also matching August. Months of supply held flat year over year at 3. Two months of the same signal makes this look like a genuine, if mild, shift rather than a one-month fluke."
+        "text": "Yes, and for a second straight month. Closed sales were down 14 percent year over year in September, a bit smaller than August's 19 percent drop, and pending sales dipped 8 percent, a bit steeper than August's 4 percent dip. Months of supply rose to 4 from 3 a year ago. Two months of the same signal makes this look like a genuine, if mild, shift rather than a one-month fluke."
       }
     },
     {
@@ -99,7 +102,7 @@ If you want to talk through what any of this means for your specific timeline, w
       "name": "Is La Crescenta still a seller's market?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes, though the edge is softening slightly. Three months of supply still favors sellers, and homes are still selling at just over 103% of list price on average, down a touch from last month's 103.57%."
+        "text": "Yes, though the edge is softening slightly. Four months of supply is still seller-leaning, if less so than a year ago, and homes are still selling at just over 103% of list price on average, down a touch from last month's 103.57%."
       }
     },
     {
