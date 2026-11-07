@@ -1,7 +1,7 @@
 ---
 title: "Why Prop 13 Makes It So Hard to Sell (and What Prop 19 Actually Changes)"
 date: 2026-08-24T00:00:00.000Z
-updated: 2026-10-31T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Sellers
 excerpt: "If your property tax bill feels impossibly low compared to what a buyer would pay for your house today, that's Prop 13 at work, and it's the real reason so many longtime owners hesitate to sell. Here's the math, and how Prop 19 can change it."
 ---
