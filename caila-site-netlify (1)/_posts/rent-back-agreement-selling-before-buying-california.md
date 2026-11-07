@@ -1,7 +1,7 @@
 ---
 title: "Selling Before You Buy: How a Rent-Back Agreement Buys You Time Without Taking on Debt"
 date: 2026-08-31T00:00:00.000Z
-updated: 2026-10-02T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Sellers
 excerpt: "If buying before you sell means borrowing against equity you haven't cashed out yet, selling before you buy has the opposite problem: what do you do between closing on your old house and finding your next one? Here's how a rent-back agreement lets you sell now, keep the keys a little longer, and skip the HELOC or bridge loan entirely, plus the California-specific rules that determine how long you actually get."
 ---
@@ -20,7 +20,7 @@ Selling before you buy flips that: instead of borrowing against your equity to b
 
 The tradeoff is time, and what that time buys you. A HELOC or bridge loan gives you months to shop for your next home, and it also means you move out of your current one before it goes on the market, so it gets fixed up and staged empty instead of around your daily life, which tends to show better and sell for more. A rent-back gives you weeks, not months, and works the other way: you're staging and selling while you're still living there. You and your stuff are still in the house, which limits how much you can actually stage it, and you're on the hook for keeping it walkthrough-ready at all times (since turning down a short-notice showing can mean losing out on the buyer who would've made the best offer).
 
-If your current home doesn't need much work to be market-ready, you already have a strong sense of what you're looking for and where, or or you're moving within a fast-moving market like La Crescenta where [good inventory doesn't sit long](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026), that shorter runway may be plenty. If you need months to find the right house, or your current home would really benefit from being fixed up and staged empty before it's listed, the borrowing route in the other post is probably the better fit. This isn't an either/or across your whole life, it's a question of which timing problem you actually have.
+If your current home doesn't need much work to be market-ready, you already have a strong sense of what you're looking for and where, or or you're moving within a fast-moving market like La Crescenta where [good inventory doesn't sit long](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026), that shorter runway may be plenty. If you need months to find the right house, or your current home would really benefit from being fixed up and staged empty before it's listed, the borrowing route in the other post is probably the better fit. This isn't an either/or across your whole life, it's a question of which timing problem you actually have.
 
 ## What a Rent-Back Agreement Actually Is
 
