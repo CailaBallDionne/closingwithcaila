@@ -34,7 +34,7 @@ So be friendly, and keep your budget, your timeline, and how much you love the k
 
 A few minutes of prep makes the visit more useful:
 
-**Read the listing.** Check how long it has been on the market and whether the price has changed, and compare it to [where the market stands right now](https://closingwithcaila.com/blog/la-crescenta-market-update-september-2026).
+**Read the listing.** Check how long it has been on the market and whether the price has changed, and compare it to [where the market stands right now](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026).
 
 **Drive the block at a different time of day.** [A drive-by is a quick way to see how the house sits on its lot](https://www.thisoldhouse.com/inspections/what-to-look-for-before-the-home-inspector-arrives): whether the land slopes toward it, and whether the roofline looks straight. Rush hour and a quiet Sunday can feel like two different streets.
 
