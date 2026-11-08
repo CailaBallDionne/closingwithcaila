@@ -1,6 +1,7 @@
 ---
 title: "What to Look For at an Open House: A Walkthrough Checklist for Foothills Buyers"
 date: 2026-10-26T12:00:00.000Z
+updated: 2026-11-07T12:00:00.000Z
 category: Buyers
 excerpt: "An open house is a low-pressure look at a home, but staging makes it easy to miss what matters. Here is what to check outside and inside, what to ask the agent hosting, and what to do before you leave."
 ---
