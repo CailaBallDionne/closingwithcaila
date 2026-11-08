@@ -5,7 +5,7 @@ category: Market
 excerpt: "A full year-over-year look at the La Cañada Flintridge housing market for October, covering single family homes and the small condo segment, in a month when supply stayed looser than a year ago while La Crescenta tightened."
 ---
 
-Last month I finally gave La Cañada its own deep dive. This month, I'm glad that I did. While the market story tends to be synonymous between these sister areas, in October the stories were on opposite ends of the bookshelf. While [La Crescenta's October numbers](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026) tightened, La Cañada's loosened, and that contrast is the story this month.
+Last month I finally gave La Cañada its own deep dive. This month, I'm glad that I did. While the market story tends to be synonymous between these sister areas, in October the stories were on opposite ends of the bookshelf. While [La Crescenta's October numbers](https://closingwithcaila.com/blog/la-crescenta-market-update-october-2026) tightened, La Cañada's ended up looser than they were a year ago, and that contrast is the story this month.
 
 Let's take a look at La Cañada Flintridge's market data: October 2025 compared to October 2026, plus the trailing twelve months of MLS data, for single family homes and the small condo segment. If you missed [last month's La Cañada update](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-september-2026), it's worth a skim for the comparison.
 
