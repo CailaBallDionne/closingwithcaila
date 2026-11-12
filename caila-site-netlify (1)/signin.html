@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Sign In">
+<title>Open House Sign-In | Closing with Caila</title>
+<style>
+  :root {
+    --bg: #faf7f2;
+    --card: #ffffff;
+    --ink: #2b2b2b;
+    --muted: #6b6b6b;
+    --accent: #2f5d50;
+    --accent-ink: #ffffff;
+    --line: #d9d4ca;
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; min-height: 100%; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif; }
+  body { display: flex; align-items: center; justify-content: center; padding: 32px 20px; min-height: 100vh; }
+  .card { width: 100%; max-width: 640px; background: var(--card); border-radius: 20px;
+    padding: 40px 36px; box-shadow: 0 6px 30px rgba(0,0,0,.07); }
+  .brand { font-size: 15px; letter-spacing: .12em; text-transform: uppercase; color: var(--accent); margin: 0 0 10px; }
+  h1 { font-size: 34px; line-height: 1.15; margin: 0 0 8px; }
+  .property { font-size: 20px; color: var(--muted); margin: 0 0 28px; min-height: 1em; }
+  label.field { display: block; margin-bottom: 22px; }
+  .lbl { display: block; font-size: 18px; font-weight: 600; margin-bottom: 8px; }
+  input[type=text], input[type=tel], input[type=email] {
+    width: 100%; font-size: 22px; padding: 16px 18px; border: 2px solid var(--line);
+    border-radius: 12px; background: #fff; color: var(--ink); -webkit-appearance: none; appearance: none; }
+  input:focus { outline: none; border-color: var(--accent); }
+  fieldset { border: 0; padding: 0; margin: 0 0 26px; }
+  legend { font-size: 18px; font-weight: 600; margin-bottom: 8px; padding: 0; }
+  .choices { display: flex; gap: 14px; }
+  .choices label { flex: 1; }
+  .choices input { position: absolute; opacity: 0; pointer-events: none; }
+  .choices span { display: block; text-align: center; font-size: 22px; padding: 16px;
+    border: 2px solid var(--line); border-radius: 12px; cursor: pointer; }
+  .choices input:checked + span { background: var(--accent); color: var(--accent-ink); border-color: var(--accent); }
+  button.submit { width: 100%; font-size: 24px; font-weight: 600; padding: 20px; border: 0;
+    border-radius: 14px; background: var(--accent); color: var(--accent-ink); cursor: pointer; }
+  button.submit:active { opacity: .85; }
+  .fine { font-size: 14px; color: var(--muted); line-height: 1.45; margin: 18px 0 0; }
+  .foot { font-size: 13px; color: var(--muted); margin-top: 22px; text-align: center; }
+  .hp { position: absolute; left: -9999px; height: 0; overflow: hidden; }
+  .thanks { display: none; text-align: center; padding: 60px 10px; }
+  .thanks h2 { font-size: 36px; margin: 0 0 10px; }
+  .thanks p { font-size: 20px; color: var(--muted); margin: 0; }
+  .done .form { display: none; }
+  .done .thanks { display: block; }
+</style>
+</head>
+<body>
+<main class="card" id="card">
+  <div class="form">
+    <p class="brand">Closing with Caila</p>
+    <h1>Welcome. Please sign in.</h1>
+    <p class="property" id="property"></p>
+
+    <form id="signin" autocomplete="off" novalidate>
+      <div class="hp"><label>Website <input type="text" name="website" tabindex="-1" autocomplete="off"></label></div>
+
+      <label class="field"><span class="lbl">Name</span>
+        <input type="text" id="name" name="name" autocomplete="off" autocapitalize="words" required></label>
+
+      <label class="field"><span class="lbl">Phone</span>
+        <input type="tel" id="phone" name="phone" inputmode="tel" autocomplete="off" required></label>
+
+      <label class="field"><span class="lbl">Email</span>
+        <input type="email" id="email" name="email" inputmode="email" autocomplete="off" autocapitalize="none"></label>
+
+      <fieldset>
+        <legend>Do you currently have an agent?</legend>
+        <div class="choices">
+          <label><input type="radio" name="agent" value="Yes" required><span>Yes</span></label>
+          <label><input type="radio" name="agent" value="No"><span>No</span></label>
+        </div>
+      </fieldset>
+
+      <button type="submit" class="submit">Sign In</button>
+      <p class="fine">By signing in, you agree that Caila may contact you by call, text, or email about this property and related real estate questions. You can opt out at any time.</p>
+    </form>
+    <p class="foot">Caila Ball-Dionne, REALTOR&reg; | DRE #02439602 | eXp Realty</p>
+  </div>
+
+  <div class="thanks">
+    <h2>Thank you for stopping by.</h2>
+    <p>Feel free to look around. Ask me anything.</p>
+  </div>
+</main>
+
+<script>
+(function () {
+  var ENDPOINT = 'https://script.google.com/macros/s/AKfycbyuHnQbXjUvPnxXLwWraewKwq0sdi-72Wu-skhIvVHIkyk-GTpk9FIiJboUjuFOVekPHQ/execE';
+  var QUEUE_KEY = 'cwc_signin_queue';
+
+  // Property comes from the URL, e.g. /signin?property=369%20San%20Juan%20Way
+  var property = new URLSearchParams(location.search).get('property') || '';
+  document.getElementById('property').textContent = property;
+
+  function getQueue() {
+    try { return JSON.parse(localStorage.getItem(QUEUE_KEY)) || []; } catch (e) { return []; }
+  }
+  function setQueue(q) {
+    try { localStorage.setItem(QUEUE_KEY, JSON.stringify(q)); } catch (e) {}
+  }
+
+  var flushing = false;
+  function flush() {
+    if (flushing) return;
+    var q = getQueue();
+    if (!q.length) return;
+    flushing = true;
+    (function next() {
+      var q = getQueue();
+      if (!q.length) { flushing = false; return; }
+      fetch(ENDPOINT, { method: 'POST', mode: 'no-cors', body: new URLSearchParams(q[0]) })
+        .then(function () {
+          var cur = getQueue(); cur.shift(); setQueue(cur); next();
+        })
+        .catch(function () { flushing = false; }); // offline, retry later
+    })();
+  }
+
+  var form = document.getElementById('signin');
+  var card = document.getElementById('card');
+
+  form.addEventListener('submit', function (e) {
+    e.preventDefault();
+    var name = form.name.value.trim();
+    var phone = form.phone.value.trim();
+    var agent = (form.agent.value || '');
+    if (!name) { form.name.focus(); return; }
+    if (phone.replace(/\D/g, '').length < 10) { form.phone.focus(); return; }
+    if (!agent) { alert('Please choose Yes or No for the agent question.'); return; }
+
+    var item = {
+      property: property,
+      name: name,
+      phone: phone,
+      email: form.email.value.trim(),
+      agent: agent,
+      website: form.website.value
+    };
+    var q = getQueue(); q.push(item); setQueue(q);
+    flush();
+
+    card.classList.add('done');
+    setTimeout(function () {
+      form.reset();
+      card.classList.remove('done');
+    }, 4000);
+  });
+
+  window.addEventListener('online', flush);
+  setInterval(flush, 30000);
+  flush();
+})();
+</script>
+</body>
+</html>
