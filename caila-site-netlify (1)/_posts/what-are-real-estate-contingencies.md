@@ -1,7 +1,7 @@
 ---
 title: "Real Estate Contingencies Explained: Every Type and What It Means for Buyers and Sellers"
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-10-24T12:00:00.000Z
+updated: 2026-11-16T12:00:00.000Z
 category: Buyers
 excerpt: "Inspection, appraisal, financing, title and more. Here is what every real estate contingency actually means, what happens if it is not met, and what it means to waive one, for buyers and sellers in California."
 ---
@@ -33,7 +33,7 @@ In the Foothills, this window is also when you want [real homeowners insurance q
 
 **The appraisal contingency protects you if the home does not appraise for at least the price you agreed to pay.**
 
-Your lender requires an appraisal to confirm the home is actually worth what they are loaning you to buy it. If the appraisal comes back lower than your offer, you have a gap to deal with. There are a few ways to handle it: renegotiate the price down to the appraised value, make up the difference yourself in cash, or cancel the contract. This contingency carries real weight in the Foothills market, since competitive offers can push a price above what recent comparable sales actually support.
+Your lender requires an appraisal to confirm the home is actually worth what they are loaning you to buy it. If the appraisal comes back lower than your offer, you have an [appraisal gap](https://closingwithcaila.com/blog/home-appraisal-comes-in-low-california-buyer-options) to deal with. There are a few ways to handle it: renegotiate the price down to the appraised value, make up the difference yourself in cash, or cancel the contract. This contingency carries real weight in the Foothills market, since competitive offers can push a price above what recent comparable sales actually support.
 
 ## Financing Contingency (Loan Contingency)
 
@@ -71,7 +71,7 @@ It is one of the most skipped contingencies, and one of the more important ones 
 
 Waiving a contingency means giving up the protection it provides. This is a big choice to make, and typically made to make an offer more competitive. In a multiple offer situation, still very real in La Crescenta, La Cañada Flintridge, and most of the Foothills, buyers sometimes waive their appraisal, financing, or even inspection contingency to look like the cleanest, most certain offer on the table.
 
-Here is the honest version. Waiving the appraisal contingency means committing to pay full price even if the home appraises lower. Waiving the financing contingency means that if your loan falls through later, you risk losing your deposit with no way back. Waiving inspection means accepting the property's condition completely unknown.
+Here is the honest version. Waiving the appraisal contingency means committing to pay full price even if the home appraises lower, which can mean bringing extra cash to closing to cover the [appraisal gap](https://closingwithcaila.com/blog/home-appraisal-comes-in-low-california-buyer-options). Waiving the financing contingency means that if your loan falls through later, you risk losing your deposit with no way back. Waiving inspection means accepting the property's condition completely unknown.
 
 None of that automatically makes waiving a bad idea. If you have done a pre-inspection, have a strong cash cushion, or financing that is about as close to guaranteed as financing gets, it can be a reasonable calculated risk. What it should never be is a box checked just to win, without actually understanding what is being given up. This is exactly where having an agent who is responsive and strategic matters: these calls often have to happen fast, and you deserve a real conversation about the tradeoffs, not a generic script.
 
