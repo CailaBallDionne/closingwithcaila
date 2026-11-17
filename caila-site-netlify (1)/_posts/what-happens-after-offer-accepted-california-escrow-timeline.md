@@ -1,7 +1,7 @@
 ---
 title: "What Happens After Your Offer Is Accepted in California: The Escrow Timeline, Step by Step"
 date: 2026-10-24T12:00:00.000Z
-updated: 2026-10-31T12:00:00.000Z
+updated: 2026-11-16T12:00:00.000Z
 category: Buyers
 excerpt: "Your offer was accepted. Now what? Here is the California escrow timeline from accepted offer to keys in hand, including the deadlines that matter and what you need to do at each stage."
 ---
@@ -59,8 +59,7 @@ This is the busiest stretch, and it runs on your contingencies. [In California, 
 
 **Title review.** The title company issues a preliminary title report showing what is attached to the property, like liens and easements. Read it, and ask questions about anything that looks unfamiliar.
 
-**The appraisal.** Your lender orders an appraisal to confirm the home is worth what you agreed to pay. If it comes in low, you have options, and I break those down in my post on [real estate contingencies](https://closingwithcaila.com/blog/what-are-real-estate-contingencies).
-
+**The appraisal.** Your lender orders an appraisal to confirm the home is worth what you agreed to pay. If it comes in low, you have options, and I break those down in my posts on [what happens when a home appraises below your offer price](https://closingwithcaila.com/blog/home-appraisal-comes-in-low-california-buyer-options) and [real estate contingencies](https://closingwithcaila.com/blog/what-are-real-estate-contingencies).
 **HOA documents.** If the home is [in an HOA](https://closingwithcaila.com/blog/buying-a-condo-los-angeles-hoa-guide), you will receive the CC&Rs, financials, and meeting minutes to review.
 
 The appraisal and loan contingencies run on their own deadlines, so confirm each date in your contract rather than assuming they all land on the same day.
