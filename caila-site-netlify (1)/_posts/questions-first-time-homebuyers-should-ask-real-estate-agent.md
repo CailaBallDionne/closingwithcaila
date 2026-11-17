@@ -1,7 +1,7 @@
 ---
 title: Questions to Ask a Real Estate Agent Before You Hire One (Buying or Selling)
 date: 2026-06-16T00:00:00.000Z
-updated: 2026-11-07T12:00:00.000Z
+updated: 2026-11-16T12:00:00.000Z
 category: Buyers
 excerpt: Interviewing real estate agents? Here's what to actually ask before you hire one, from a La Crescenta agent who's been on both sides of the table.
 ---
@@ -76,7 +76,7 @@ Ask whether your agent offers guidance on staging, repairs, or small updates tha
 
 ### How do you handle multiple offers?
 
-If your home gets more than one offer (and in this market, it might), ask how your agent helps you evaluate them. Price matters, but so do contingencies, financing, and timelines. You want an agent who can break all of that down for you in plain English, not just hand you a stack of offers and a shrug.
+If your home gets more than one offer (and in this market, it might), ask how your agent helps you evaluate them. Price matters, but so do contingencies, financing, and timelines. You want an agent who can break all of that down for you in plain English, not just hand you a stack of offers and a shrug. It is also worth asking how they think about an [appraisal gap](https://closingwithcaila.com/blog/home-appraisal-comes-in-low-california-buyer-options) when offers are competitive, since how much of a shortfall you are willing to cover can shape the offer itself.
 
 ### What's the plan if it doesn't sell right away?
 
