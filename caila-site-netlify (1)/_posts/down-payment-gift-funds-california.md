@@ -1,7 +1,7 @@
 ---
 title: "Down Payment Gift Money: Gift Letters, Timing, and the 2026 Tax Limits Nobody Explains"
 date: 2026-09-13T12:00:00.000Z
-updated: 2026-09-19T12:00:00.000Z
+updated: 2026-11-16T12:00:00.000Z
 category: Buyers
 excerpt: "Getting help from family with your down payment is more common than most buyers realize, but the paperwork is stricter than they expect. Here is what a gift letter has to say, when the money needs to land in your account, and what the 2026 gift tax numbers actually mean for your parents."
 ---
@@ -153,7 +153,7 @@ I am an agent, not a CPA or a tax attorney. If your family is giving a large gif
 
 **A gift of equity is the middle path.** If a family member is selling you their property, they can gift you a portion of their equity instead of cash, which becomes a credit at closing. Fannie Mae permits this toward down payment and closing costs on a primary residence or second home, though not toward reserves, and it still requires a gift letter plus a settlement statement documenting it. Usefully, an acceptable donor giving a gift of equity is not treated as an interested party, so the usual contribution limits do not choke it.
 
-**Gift money can do more than lower your loan amount.** It can go toward closing costs, and on many programs toward discount points, which means it is worth asking your lender whether some of it is better spent on [buying down your rate](https://closingwithcaila.com/blog/interest-rate-buydown-programs-explained) than on a slightly larger down payment. That comparison depends entirely on your numbers, your loan program, and how long you plan to stay, so run it with your loan officer before deciding.
+**Gift money can do more than lower your loan amount.** It can go toward closing costs, and on many programs toward discount points, which means it is worth asking your lender whether some of it is better spent on [buying down your rate](https://closingwithcaila.com/blog/interest-rate-buydown-programs-explained) than on a slightly larger down payment. That comparison depends entirely on your numbers, your loan program, and how long you plan to stay, so run it with your loan officer before deciding. It is also worth asking your lender whether gift funds could be used to cover an [appraisal gap](https://closingwithcaila.com/blog/home-appraisal-comes-in-low-california-buyer-options) if a home appraises below the price, and how that would need to be documented.
 
 ## What Actually Goes Wrong
 
