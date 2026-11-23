@@ -1,6 +1,7 @@
 ---
 title: "La Cañada Flintridge Real Estate Market Update: What Changed (and What Didn't) From October 2025 to October 2026"
 date: 2026-11-07T12:00:00.000Z
+updated: 2026-11-23T12:00:00.000Z
 category: Market
 excerpt: "A full year-over-year look at the La Cañada Flintridge housing market for October, covering single family homes and the small condo segment, in a month when supply stayed looser than a year ago while La Crescenta tightened."
 ---
@@ -21,7 +22,7 @@ Closed single family sales came in at 15 in October 2026, down from 20 in Octobe
 
 The supply side explains part of this. New listings jumped to 21 from 13, up 62 percent. More homes came to market, fewer went under contract, and the inventory piled up. Over in La Crescenta, new listings fell 44 percent over the same stretch.
 
-La Cañada is a smaller market than La Crescenta, with 158 closed sales over the past year versus 231, so single months swing harder in percentage terms. One soft October isn't a new trend by itself, but it does stand out against how La Crescenta's supply moved this month.
+La Cañada is a smaller market than La Crescenta, with 158 closed sales over the past year versus 231, so single months swing harder in percentage terms. One soft October isn't a new trend by itself, but it does stand out against how La Crescenta's supply moved this month. For a longer view of how the two compare, I put the last 12 months of sales side by side in my [comparison of La Cañada Flintridge, La Crescenta, and Montrose](https://closingwithcaila.com/blog/la-canada-flintridge-vs-la-crescenta-vs-montrose).
 
 Compared with September, though, October was steadier than the year-over-year picture suggests. Active listings barely moved (67 to 69), months of supply held at 4, new listings held steady, and both pending sales (16 to 19) and closed sales (11 to 15) ticked up. The year-over-year gap is partly about how tight October 2025 was, with only 2 months of supply, so my read is that this is a market that has settled at a looser level, not one that kept loosening in October.
 
