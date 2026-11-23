@@ -1,6 +1,7 @@
 ---
 title: "Rent Control for Duplex and Small Multifamily Buyers in LA: AB 1482, County Rules, and What Applies Where"
 date: 2026-10-17T12:00:00.000Z
+updated: 2026-11-23T12:00:00.000Z
 category: Buyers
 excerpt: "Buying a duplex or small multifamily building in Los Angeles means buying the rent rules along with the property. Here is how California's AB 1482 works, where stricter local rules take over, what changes if you plan to live in one of the units, and what to ask before you write an offer."
 ---
@@ -57,7 +58,7 @@ In the Foothills and the neighborhoods around it, the local ordinance often sets
 
 - **Glendale.** [Glendale doesn't have its own hard cap, so AB 1482 is the limit](https://glendaleca.gov/government/departments/community-development/housing/rent/relocation). It does have a local Rental Rights Program with its own just cause and relocation rules, and [a Tenants Together summary notes](https://tenantstogether.org/?p=671) that in certain older buildings with three or more units, an increase of 7 percent or more can trigger relocation assistance if the tenant moves out because of it.
 
-- **La Cañada Flintridge.** La Cañada Flintridge is its own incorporated city, so the County's rules for unincorporated areas don't apply here. The city's [online municipal code](https://ecode360.com/LA4950) doesn't appear to include a rent control or tenant protection ordinance, which would make the statewide AB 1482 rules the baseline for most rentals. Confirm with the city before you rely on that for a specific property.
+- **La Cañada Flintridge.** La Cañada Flintridge is its own incorporated city, so the County's rules for unincorporated areas don't apply here. The city's [online municipal code](https://ecode360.com/LA4950) doesn't appear to include a rent control or tenant protection ordinance, which would make the statewide AB 1482 rules the baseline for most rentals. Confirm with the city before you rely on that for a specific property. If you're not sure which side of that line an address falls on, my [comparison of La Cañada Flintridge, La Crescenta, and Montrose](https://closingwithcaila.com/blog/la-canada-flintridge-vs-la-crescenta-vs-montrose) explains how the three areas are organized.
 
 - **Other cities add their own twists.** Burbank, for example, [requires relocation assistance of three months' rent](https://www.burbankca.gov/documents/d/community-development/landlord-tenant-faqs-burbank-tenant-protection-ordinance-2025-pdf) for most no-fault terminations.
 
