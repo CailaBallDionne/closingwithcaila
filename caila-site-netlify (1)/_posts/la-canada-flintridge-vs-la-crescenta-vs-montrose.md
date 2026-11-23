@@ -1,5 +1,5 @@
 ---
-title: "La Cañada Flintridge vs. La Crescenta vs. Montrose: What the Last 12 Months of Sales Actually Show"
+title: "La Cañada Flintridge, La Crescenta, or Montrose: Which One Fits You?"
 date: 2026-11-23T12:00:00.000Z
 category: Buyers
 excerpt: "A side-by-side look at La Cañada Flintridge, La Crescenta (91214), and Montrose (91020): what each feels like to live in, plus median prices, price per square foot, days on market, home and lot size, schools, and local government."
