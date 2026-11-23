@@ -1,6 +1,7 @@
 ---
 title: "La Crescenta Real Estate Market Update: What Changed (and What Didn't) From October 2025 to October 2026"
 date: 2026-11-07T12:00:00.000Z
+updated: 2026-11-23T12:00:00.000Z
 category: Market
 excerpt: "A full year-over-year look at the La Crescenta housing market for October, covering single family homes and the condo segment, plus a month where supply tightened again after two softer ones."
 ---
@@ -9,7 +10,7 @@ After two months of cooler numbers in the La Crescenta housing market, October d
 
 So let's get into it, and look at the La Crescenta housing market in October 2025 compared to October 2026, plus the trailing twelve months of MLS data, for single family homes and condos. La Cañada Flintridge gets its own post again because Beverly Foothills deserves her moment in the spotlight, and [that update lives here](https://closingwithcaila.com/blog/la-canada-flintridge-market-update-october-2026).
 
-A quick note on the data: these numbers come from MLS reports I pulled on November 6, 2026, and La Crescenta here includes the Montrose and Glendale annex areas, same as always. MLS counts get revised as late-reported sales come in, so every comparison below uses the current figures.
+A quick note on the data: these numbers come from MLS reports I pulled on November 6, 2026, and La Crescenta here includes the Montrose and Glendale annex areas, same as always. MLS counts get revised as late-reported sales come in, so every comparison below uses the current figures. If you want Montrose pulled out from La Crescenta by ZIP code, I did that in my [three-way comparison of La Cañada Flintridge, La Crescenta, and Montrose](https://closingwithcaila.com/blog/la-canada-flintridge-vs-la-crescenta-vs-montrose).
 
 **La Crescenta's single family market tightened in October: active listings fell 24 percent from a year ago, months of supply dropped from four to two, and pending sales rose 22 percent, but the typical home sold right at asking price instead of above it, and the median sale price held flat.**
 
