@@ -1,14 +1,14 @@
 ---
 title: "Should You Build an ADU Before You Sell? Cost, Value, and Timing Explained"
 date: 2026-08-19T00:00:00.000Z
-updated: 2026-11-07T12:00:00.000Z
+updated: 2026-11-23T12:00:00.000Z
 category: Sellers
 excerpt: Building an ADU before you sell can sound like an easy way to add value. It's not quite that simple. Here's the real math on cost, value, timing, and what to do if yours isn't permitted yet.
 ---
 
 Building an ADU before you sell can sound like an easy way to add value to your home. But it is not quite that simple.
 
-I get asked about this a lot by sellers in La Crescenta and La Cañada who have larger, buildable lots. The question is usually some version of: Should I build the ADU before I sell, or should I let the next owner take that project on?
+I get asked about this a lot by sellers in La Crescenta and La Cañada who have larger, buildable lots. Lot size varies a lot between the two (and Montrose), and my [comparison of recent sales in La Cañada Flintridge, La Crescenta, and Montrose](https://closingwithcaila.com/blog/la-canada-flintridge-vs-la-crescenta-vs-montrose) shows typical lot sizes for each. The question is usually some version of: Should I build the ADU before I sell, or should I let the next owner take that project on?
 
 It is a good question. And before you spend six figures on a construction project, I think it is worth looking at the actual numbers, the timeline, and what buyers are likely to pay for it.
 
